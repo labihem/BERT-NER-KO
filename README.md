@@ -7,25 +7,35 @@ A new corpus for medical diagnosis information extraction has been used as the d
 
 Usage:
 
-1. Create a directory "BERT"
+1. Create a directory "BERT".
 
-2.
+2. Go the the directory.
 ```
 cd BERT
 ```
 
-3. 
+3. Clone the repository "bert".
 ```
 git clone https://github.com/google-research/bert.git
 ```
 
-4. Download the files and folder of this project to the directory "BERT"
+4. Download the files and folder of this project to the directory "BERT".
 
-5. Create a directory "pretrained" in the directory "bert"
+5. Create a directory "pretrained" in the directory "bert".
 
 6. Download and unzip the pretrained model, "BERT-Base, Multilingual Cased" https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip in the directory "pretrained"
 
-7. Run BERT_NER_KO.py 
+The structure is as follows:
+```
+BERT
+|____ bert
+|____ data
+      |____ diagnosis   
+|____ BERT_NER_DS.py
+|____ output
+```
+
+7. Run BERT_NER_DS.py 
 
 ```
 python3 BERT_NER_DS.py  \
