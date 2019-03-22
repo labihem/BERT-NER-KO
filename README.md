@@ -35,14 +35,14 @@ BERT
 |____ output
 ```
 
-7. Run BERT_NER_DS.py 
+7. Run BERT_NER_DS.py
 
 ```
 python3 BERT_NER_DS.py  \
   --task_name="NER"  \
-  --do_lower_case=False  --do_train=False   \
+  --do_lower_case=False  --do_train=True   \
   --do_eval=True   \
-  --do_predict=False  \
+  --do_predict=True  \
   --data_dir=./data/diagnosis   \
   --vocab_file=./bert/pretrained/multi_cased_L-12_H-768_A-12/vocab.txt  \
   --bert_config_file=./bert/pretrained/multi_cased_L-12_H-768_A-12/bert_config.json  \
