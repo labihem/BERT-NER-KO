@@ -6,6 +6,7 @@ BASED ON Google_BERT.
 @Author:zhoukaiyin
 
 Partially modified by ymkim for Korean NER on 20190304
+@Modifier:labihem
 """
 from __future__ import absolute_import
 from __future__ import division
