@@ -7,17 +7,40 @@ A new corpus for medical diagnosis information extraction has been used as the d
 
 Usage:
 
-1. Make a directory "BERT"
+1. Create a directory "BERT"
 
-2. cd BERT
+2.
+```
+cd BERT
+```
 
-3. git clone https://github.com/google-research/bert.git
+3. 
+```
+git clone https://github.com/google-research/bert.git
+```
 
-4. Download the files and folders of this project in the directory "BERT"
+4. Download the files and folder of this project to the directory "BERT"
 
-5. Make a directory "pretrained" in the directory "bert"
+5. Create a directory "pretrained" in the directory "bert"
 
 6. Download and unzip the pretrained model, "BERT-Base, Multilingual Cased" https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip in the directory "pretrained"
 
 7. Run BERT_NER_KO.py 
 
+```
+python3 BERT_NER_DS.py  \
+  --task_name="NER"  \
+  --do_lower_case=False  --do_train=False   \
+  --do_eval=True   \
+  --do_predict=False  \
+  --data_dir=./data/diagnosis   \
+  --vocab_file=./bert/pretrained/multi_cased_L-12_H-768_A-12/vocab.txt  \
+  --bert_config_file=./bert/pretrained/multi_cased_L-12_H-768_A-12/bert_config.json  \
+  --init_checkpoint=./bert/pretrained/multi_cased_L-12_H-768_A-12/bert_model.ckpt   \
+  --max_seq_length=128   \
+  --train_batch_size=32   \
+  --learning_rate=2e-5   \
+  --num_train_epochs=16.0   \
+  --output_dir=./output
+
+```
