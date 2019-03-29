@@ -25,6 +25,7 @@ git clone https://github.com/google-research/bert.git
 
 6. Download and unzip the pretrained model, "BERT-Base, Multilingual Cased" https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip in the directory "pretrained"
 
+7. Create a directory "output".
 The structure is as follows:
 ```
 BERT
@@ -32,6 +33,7 @@ BERT
 |____ data
       |____ diagnosis   
 |____ BERT_NER_DS.py
+|____ tf_metrics.py
 |____ output
 ```
 
