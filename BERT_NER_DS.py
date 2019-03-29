@@ -6,7 +6,6 @@ BASED ON Google_BERT.
 @Author:zhoukaiyin
 
 Partially modified by ymkim for Korean NER on 20190304
-@Modifier:labihem
 """
 from __future__ import absolute_import
 from __future__ import division
@@ -52,7 +51,7 @@ flags.DEFINE_string(
 )
 
 flags.DEFINE_bool(
-    "do_lower_c ase", True,
+    "do_lower_case", True,
     "Whether to lower case the input text."
 )
 
