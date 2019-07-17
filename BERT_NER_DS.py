@@ -613,60 +613,16 @@ def get_BD_entity(tokens, labels):
     return BD
 
 
-def demo():  # It provides predictions of input data which users randomly enter by keyboard.
-    tf.logging.set_verbosity(tf.logging.INFO)
-    processors = {
-        "ner": NerProcessor
-    }
-    if not FLAGS.do_train and not FLAGS.do_eval:
-        raise ValueError("At least one of `do_train` or `do_eval` must be True.")
-
-    bert_config = modeling.BertConfig.from_json_file(FLAGS.bert_config_file)
-
-    if FLAGS.max_seq_length > bert_config.max_position_embeddings:
-        raise ValueError(
-            "Cannot use sequence length %d because the BERT model "
-            "was only trained up to sequence length %d" %
-            (FLAGS.max_seq_length, bert_config.max_position_embeddings))
-
-    task_name = FLAGS.task_name.lower()
-    if task_name not in processors:
-        raise ValueError("Task not found: %s" % (task_name))
-    processor = processors[task_name]()
-
-    label_list = processor.get_labels()
-
-    tokenizer = tokenization.FullTokenizer(
-        vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
-    tpu_cluster_resolver = None
-    if FLAGS.use_tpu and FLAGS.tpu_name:
-        tpu_cluster_resolver = tf.contrib.cluster_resolver.TPUClusterResolver(
-            FLAGS.tpu_name, zone=FLAGS.tpu_zone, project=FLAGS.gcp_project)
-
-    is_per_host = tf.contrib.tpu.InputPipelineConfig.PER_HOST_V2
-
-    run_config = tf.contrib.tpu.RunConfig(
-        cluster=tpu_cluster_resolver,
-        master=FLAGS.master,
-        model_dir=FLAGS.output_dir,
-        save_checkpoints_steps=FLAGS.save_checkpoints_steps,
-        tpu_config=tf.contrib.tpu.TPUConfig(
-            iterations_per_loop=FLAGS.iterations_per_loop,
-            num_shards=FLAGS.num_tpu_cores,
-            per_host_input_for_training=is_per_host))
-
-    # train_examples = None
-    num_train_steps = None
-    num_warmup_steps = None
-
+# It provides predictions of input data which users randomly enter by keyboard.
+def demo(bert_config, label_list, tokenizer, run_config):
     init_checkpoint = "./output/model.ckpt-3518"  # model.ckpt-3518 was trained using diagnosis data
     model_fn = model_fn_builder(
         bert_config=bert_config,
         num_labels=len(label_list) + 1,
         init_checkpoint=init_checkpoint,
         learning_rate=FLAGS.learning_rate,
-        num_train_steps=num_train_steps,
-        num_warmup_steps=num_warmup_steps,
+        num_train_steps=None,
+        num_warmup_steps=None,
         use_tpu=FLAGS.use_tpu,
         use_one_hot_embeddings=FLAGS.use_tpu)
 
@@ -688,6 +644,7 @@ def demo():  # It provides predictions of input data which users randomly enter 
     while True:
         print('Please input your sentences:')
         demo_text = input()
+
         if os.path.exists(token_path):
             os.remove(token_path)
         if os.path.exists(truelabel_path):
@@ -758,9 +715,6 @@ def demo():  # It provides predictions of input data which users randomly enter 
 
 
 def main(_):
-    if FLAGS.do_demo:
-        demo()
-
     tf.logging.set_verbosity(tf.logging.INFO)
     processors = {
         "ner": NerProcessor
@@ -805,6 +759,9 @@ def main(_):
     train_examples = None
     num_train_steps = None
     num_warmup_steps = None
+
+    if FLAGS.do_demo:
+        demo(bert_config, label_list, tokenizer, run_config)
 
     if FLAGS.do_train:
         train_examples = processor.get_train_examples(FLAGS.data_dir)
