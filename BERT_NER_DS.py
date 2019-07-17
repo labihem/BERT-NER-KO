@@ -540,6 +540,7 @@ def get_entity(tokens, labels):
     BD = get_BD_entity(tokens, labels)
     return DS, ST, BD
 
+
 def get_DS_entity(tokens, labels):
     ch = ''
     DS = []
@@ -563,6 +564,7 @@ def get_DS_entity(tokens, labels):
             ch = ch + ' ' + token
     return DS
 
+
 def get_ST_entity(tokens, labels):
     ch = ''
     ST = []
@@ -585,6 +587,7 @@ def get_ST_entity(tokens, labels):
         if label == 'I-ST' and seq:
             ch = ch + ' ' + token
     return ST
+
 
 def get_BD_entity(tokens, labels):
     ch = ''
@@ -610,8 +613,154 @@ def get_BD_entity(tokens, labels):
     return BD
 
 
+def demo():  # It provides predictions of input data which users randomly enter by keyboard.
+    tf.logging.set_verbosity(tf.logging.INFO)
+    processors = {
+        "ner": NerProcessor
+    }
+    if not FLAGS.do_train and not FLAGS.do_eval:
+        raise ValueError("At least one of `do_train` or `do_eval` must be True.")
+
+    bert_config = modeling.BertConfig.from_json_file(FLAGS.bert_config_file)
+
+    if FLAGS.max_seq_length > bert_config.max_position_embeddings:
+        raise ValueError(
+            "Cannot use sequence length %d because the BERT model "
+            "was only trained up to sequence length %d" %
+            (FLAGS.max_seq_length, bert_config.max_position_embeddings))
+
+    task_name = FLAGS.task_name.lower()
+    if task_name not in processors:
+        raise ValueError("Task not found: %s" % (task_name))
+    processor = processors[task_name]()
+
+    label_list = processor.get_labels()
+
+    tokenizer = tokenization.FullTokenizer(
+        vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
+    tpu_cluster_resolver = None
+    if FLAGS.use_tpu and FLAGS.tpu_name:
+        tpu_cluster_resolver = tf.contrib.cluster_resolver.TPUClusterResolver(
+            FLAGS.tpu_name, zone=FLAGS.tpu_zone, project=FLAGS.gcp_project)
+
+    is_per_host = tf.contrib.tpu.InputPipelineConfig.PER_HOST_V2
+
+    run_config = tf.contrib.tpu.RunConfig(
+        cluster=tpu_cluster_resolver,
+        master=FLAGS.master,
+        model_dir=FLAGS.output_dir,
+        save_checkpoints_steps=FLAGS.save_checkpoints_steps,
+        tpu_config=tf.contrib.tpu.TPUConfig(
+            iterations_per_loop=FLAGS.iterations_per_loop,
+            num_shards=FLAGS.num_tpu_cores,
+            per_host_input_for_training=is_per_host))
+
+    # train_examples = None
+    num_train_steps = None
+    num_warmup_steps = None
+
+    init_checkpoint = "./output/model.ckpt-3518"  # model.ckpt-3518 was trained using diagnosis data
+    model_fn = model_fn_builder(
+        bert_config=bert_config,
+        num_labels=len(label_list) + 1,
+        init_checkpoint=init_checkpoint,
+        learning_rate=FLAGS.learning_rate,
+        num_train_steps=num_train_steps,
+        num_warmup_steps=num_warmup_steps,
+        use_tpu=FLAGS.use_tpu,
+        use_one_hot_embeddings=FLAGS.use_tpu)
+
+    estimator = tf.contrib.tpu.TPUEstimator(
+        use_tpu=FLAGS.use_tpu,
+        model_fn=model_fn,
+        config=run_config,
+        train_batch_size=FLAGS.train_batch_size,
+        eval_batch_size=FLAGS.eval_batch_size,
+        predict_batch_size=FLAGS.predict_batch_size)
+
+    token_path = os.path.join(FLAGS.output_dir, "token_test.txt")
+    truelabel_path = os.path.join(FLAGS.output_dir, "truelabel_test.txt")  # added by ymkim
+    with open('./output/label2id.pkl', 'rb') as rf:
+        label2id = pickle.load(rf)
+        id2label = {value: key for key, value in label2id.items()}
+
+    print('============= demo =============')
+    while True:
+        print('Please input your sentences:')
+        demo_text = input()
+        if os.path.exists(token_path):
+            os.remove(token_path)
+        if os.path.exists(truelabel_path):
+            os.remove(truelabel_path)
+
+        len_t = len(demo_text.split(' '))
+        # Below two variables will not be used to predict.
+        # So It doesn't matter which character comes, If Its length matches 'demo_text.split()'.
+        demo_label = 'O ' * len_t
+        demo_charlabel = 'O ' * len_t
+
+        # Create predict_examples using creator of InputExample that is defined in this file above
+        # Arguments : guid, text, label, charlabel
+        # guid : 'test-#'
+        # text : the input sentences put by user
+        # charlabel : It is already created above.
+        # label : It is already created above.
+        predict_examples = []
+        predict_examples.append(InputExample(guid='test-0',
+                                             text=demo_text,
+                                             label=demo_label,
+                                             charlabel=demo_charlabel))
+
+        predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
+        filed_based_convert_examples_to_features(predict_examples, label_list,
+                                                 FLAGS.max_seq_length, tokenizer,
+                                                 predict_file, mode="test")
+
+        tf.logging.info("***** Running prediction*****")
+        tf.logging.info("  Num examples = %d", len(predict_examples))
+        tf.logging.info("  Batch size = %d", FLAGS.predict_batch_size)
+        if FLAGS.use_tpu:
+            # Warning: According to tpu_estimator.py Prediction on TPU is an
+            # experimental feature and hence not supported here
+            raise ValueError("Prediction in TPU not supported")
+        predict_drop_remainder = True if FLAGS.use_tpu else False
+        predict_input_fn = file_based_input_fn_builder(
+            input_file=predict_file,
+            seq_length=FLAGS.max_seq_length,
+            is_training=False,
+            drop_remainder=predict_drop_remainder)
+
+        result = estimator.predict(input_fn=predict_input_fn)
+        output_predict_file = os.path.join(FLAGS.output_dir, "label_test.txt")
+        with open(output_predict_file, 'w') as writer:
+            for prediction in result:
+                output_line = "\n".join(id2label[id] for id in prediction if id != 0) + "\n"
+                writer.write(output_line)
+
+        # load output data that is 'label_test.txt' and 'token_test.txt from output folder.
+        f = open(token_path, 'r')
+        lines = f.readlines()
+        tokens = []
+        for i in lines:
+            tokens.append(i.strip().replace('#', ''))
+        f.close()
+
+        f = open(output_predict_file, 'r')
+        lines = f.readlines()
+        labels = []
+        for i in lines:
+            labels.append(i.strip())
+        f.close()
+
+        DS, ST, BD = get_entity(tokens, labels)
+        print('\n\nYour sentences : ' + demo_text + '\n')
+        print('DS: {}\nST: {}\nBD: {}'.format(DS, ST, BD))
+
 
 def main(_):
+    if FLAGS.do_demo:
+        demo()
+
     tf.logging.set_verbosity(tf.logging.INFO)
     processors = {
         "ner": NerProcessor
@@ -656,210 +805,108 @@ def main(_):
     train_examples = None
     num_train_steps = None
     num_warmup_steps = None
-    if FLAGS.do_demo:
-        init_checkpoint = "./output/model.ckpt-3518"  # model.ckpt-3518 was trained using diagnosis data
-        model_fn = model_fn_builder(
-            bert_config=bert_config,
-            num_labels=len(label_list) + 1,
-            init_checkpoint=init_checkpoint,
-            learning_rate=FLAGS.learning_rate,
-            num_train_steps=num_train_steps,
-            num_warmup_steps=num_warmup_steps,
-            use_tpu=FLAGS.use_tpu,
-            use_one_hot_embeddings=FLAGS.use_tpu)
 
-        estimator = tf.contrib.tpu.TPUEstimator(
-            use_tpu=FLAGS.use_tpu,
-            model_fn=model_fn,
-            config=run_config,
-            train_batch_size=FLAGS.train_batch_size,
-            eval_batch_size=FLAGS.eval_batch_size,
-            predict_batch_size=FLAGS.predict_batch_size)
+    if FLAGS.do_train:
+        train_examples = processor.get_train_examples(FLAGS.data_dir)
+        num_train_steps = int(
+            len(train_examples) / FLAGS.train_batch_size * FLAGS.num_train_epochs)
+        num_warmup_steps = int(num_train_steps * FLAGS.warmup_proportion)
 
+    model_fn = model_fn_builder(
+        bert_config=bert_config,
+        num_labels=len(label_list) + 1,
+        init_checkpoint=FLAGS.init_checkpoint,
+        learning_rate=FLAGS.learning_rate,
+        num_train_steps=num_train_steps,
+        num_warmup_steps=num_warmup_steps,
+        use_tpu=FLAGS.use_tpu,
+        use_one_hot_embeddings=FLAGS.use_tpu)
+
+    estimator = tf.contrib.tpu.TPUEstimator(
+        use_tpu=FLAGS.use_tpu,
+        model_fn=model_fn,
+        config=run_config,
+        train_batch_size=FLAGS.train_batch_size,
+        eval_batch_size=FLAGS.eval_batch_size,
+        predict_batch_size=FLAGS.predict_batch_size)
+
+    if FLAGS.do_train:
+        print("train")
+        train_file = os.path.join(FLAGS.output_dir, "train.tf_record")
+        filed_based_convert_examples_to_features(
+            train_examples, label_list, FLAGS.max_seq_length, tokenizer, train_file)
+        tf.logging.info("***** Running training *****")
+        tf.logging.info("  Num examples = %d", len(train_examples))
+        tf.logging.info("  Batch size = %d", FLAGS.train_batch_size)
+        tf.logging.info("  Num steps = %d", num_train_steps)
+        train_input_fn = file_based_input_fn_builder(
+            input_file=train_file,
+            seq_length=FLAGS.max_seq_length,
+            is_training=True,
+            drop_remainder=True)
+        estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
+    if FLAGS.do_eval:
+        eval_examples = processor.get_dev_examples(FLAGS.data_dir)
+        eval_file = os.path.join(FLAGS.output_dir, "eval.tf_record")
+        filed_based_convert_examples_to_features(
+            eval_examples, label_list, FLAGS.max_seq_length, tokenizer, eval_file)
+
+        tf.logging.info("***** Running evaluation *****")
+        tf.logging.info("  Num examples = %d", len(eval_examples))
+        tf.logging.info("  Batch size = %d", FLAGS.eval_batch_size)
+        eval_steps = None
+        if FLAGS.use_tpu:
+            eval_steps = int(len(eval_examples) / FLAGS.eval_batch_size)
+        eval_drop_remainder = True if FLAGS.use_tpu else False
+        eval_input_fn = file_based_input_fn_builder(
+            input_file=eval_file,
+            seq_length=FLAGS.max_seq_length,
+            is_training=False,
+            drop_remainder=eval_drop_remainder)
+        result = estimator.evaluate(input_fn=eval_input_fn, steps=eval_steps)
+        output_eval_file = os.path.join(FLAGS.output_dir, "eval_results.txt")
+        with open(output_eval_file, "w") as writer:
+            tf.logging.info("***** Eval results *****")
+            for key in sorted(result.keys()):
+                tf.logging.info("  %s = %s", key, str(result[key]))
+                writer.write("%s = %s\n" % (key, str(result[key])))
+    if FLAGS.do_predict:
         token_path = os.path.join(FLAGS.output_dir, "token_test.txt")
         truelabel_path = os.path.join(FLAGS.output_dir, "truelabel_test.txt")  # added by ymkim
         with open('./output/label2id.pkl', 'rb') as rf:
             label2id = pickle.load(rf)
             id2label = {value: key for key, value in label2id.items()}
+        if os.path.exists(token_path):
+            os.remove(token_path)
+        if os.path.exists(truelabel_path):
+            os.remove(truelabel_path)
+        predict_examples = processor.get_test_examples(FLAGS.data_dir)
 
-        print('============= demo =============')
-        while True:
-            print('Please input your sentence:')
-            demo_text = input()
-            if demo_text == '' or demo_text.isspace():
-                print('See you next time!')
-                break
-            else:
-                if os.path.exists(token_path):
-                    os.remove(token_path)
-                if os.path.exists(truelabel_path):
-                    os.remove(truelabel_path)
+        predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
+        filed_based_convert_examples_to_features(predict_examples, label_list,
+                                                 FLAGS.max_seq_length, tokenizer,
+                                                 predict_file, mode="test")
 
-                len_t = len(demo_text.split(' '))
-                # It will not be used to predict.
-                # So It doesn't matter which character comes, If Its length matches 'demo_text.split()'.
-                demo_label = 'O ' * len_t
-                demo_charlabel = 'O ' * len_t
+        tf.logging.info("***** Running prediction*****")
+        tf.logging.info("  Num examples = %d", len(predict_examples))
+        tf.logging.info("  Batch size = %d", FLAGS.predict_batch_size)
+        if FLAGS.use_tpu:
+            # Warning: According to tpu_estimator.py Prediction on TPU is an
+            # experimental feature and hence not supported here
+            raise ValueError("Prediction in TPU not supported")
+        predict_drop_remainder = True if FLAGS.use_tpu else False
+        predict_input_fn = file_based_input_fn_builder(
+            input_file=predict_file,
+            seq_length=FLAGS.max_seq_length,
+            is_training=False,
+            drop_remainder=predict_drop_remainder)
 
-                # Create predict_examples using creator of InputExample that is defined in this file above
-                # Arguments : guid, text, label, charlabel
-                # guid : 'test-#'
-                # text : the input sentences put by user
-                # charlabel : It is already created above.
-                # label : It is already created above.
-                predict_examples = []
-                predict_examples.append(InputExample(guid='test-0',
-                                                     text=demo_text,
-                                                     label=demo_label,
-                                                     charlabel=demo_charlabel))
-
-                predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
-                filed_based_convert_examples_to_features(predict_examples, label_list,
-                                                         FLAGS.max_seq_length, tokenizer,
-                                                         predict_file, mode="test")
-
-                tf.logging.info("***** Running prediction*****")
-                tf.logging.info("  Num examples = %d", len(predict_examples))
-                tf.logging.info("  Batch size = %d", FLAGS.predict_batch_size)
-                if FLAGS.use_tpu:
-                    # Warning: According to tpu_estimator.py Prediction on TPU is an
-                    # experimental feature and hence not supported here
-                    raise ValueError("Prediction in TPU not supported")
-                predict_drop_remainder = True if FLAGS.use_tpu else False
-                predict_input_fn = file_based_input_fn_builder(
-                    input_file=predict_file,
-                    seq_length=FLAGS.max_seq_length,
-                    is_training=False,
-                    drop_remainder=predict_drop_remainder)
-
-                result = estimator.predict(input_fn=predict_input_fn)
-                output_predict_file = os.path.join(FLAGS.output_dir, "label_test.txt")
-                with open(output_predict_file, 'w') as writer:
-                    for prediction in result:
-                        output_line = "\n".join(id2label[id] for id in prediction if id != 0) + "\n"
-                        writer.write(output_line)
-
-                # load output data that is 'label_test.txt' and 'token_test.txt from output folder.
-                f = open(token_path, 'r')
-                lines = f.readlines()
-                tokens = []
-                for i in lines:
-                    tokens.append(i.strip().replace('#', ''))
-                f.close()
-
-                f = open(output_predict_file, 'r')
-                lines = f.readlines()
-                labels = []
-                for i in lines:
-                    labels.append(i.strip())
-                f.close()
-
-                DS, ST, BD = get_entity(tokens, labels)
-                print('\n\nYour sentences : ' + demo_text + '\n')
-                print('DS: {}\nST: {}\nBD: {}'.format(DS, ST, BD))
-
-    else:
-        if FLAGS.do_train:
-            train_examples = processor.get_train_examples(FLAGS.data_dir)
-            num_train_steps = int(
-                len(train_examples) / FLAGS.train_batch_size * FLAGS.num_train_epochs)
-            num_warmup_steps = int(num_train_steps * FLAGS.warmup_proportion)
-
-        model_fn = model_fn_builder(
-            bert_config=bert_config,
-            num_labels=len(label_list) + 1,
-            init_checkpoint=FLAGS.init_checkpoint,
-            learning_rate=FLAGS.learning_rate,
-            num_train_steps=num_train_steps,
-            num_warmup_steps=num_warmup_steps,
-            use_tpu=FLAGS.use_tpu,
-            use_one_hot_embeddings=FLAGS.use_tpu)
-
-        estimator = tf.contrib.tpu.TPUEstimator(
-            use_tpu=FLAGS.use_tpu,
-            model_fn=model_fn,
-            config=run_config,
-            train_batch_size=FLAGS.train_batch_size,
-            eval_batch_size=FLAGS.eval_batch_size,
-            predict_batch_size=FLAGS.predict_batch_size)
-
-        if FLAGS.do_train:
-            print("train")
-            train_file = os.path.join(FLAGS.output_dir, "train.tf_record")
-            filed_based_convert_examples_to_features(
-                train_examples, label_list, FLAGS.max_seq_length, tokenizer, train_file)
-            tf.logging.info("***** Running training *****")
-            tf.logging.info("  Num examples = %d", len(train_examples))
-            tf.logging.info("  Batch size = %d", FLAGS.train_batch_size)
-            tf.logging.info("  Num steps = %d", num_train_steps)
-            train_input_fn = file_based_input_fn_builder(
-                input_file=train_file,
-                seq_length=FLAGS.max_seq_length,
-                is_training=True,
-                drop_remainder=True)
-            estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
-        if FLAGS.do_eval:
-            eval_examples = processor.get_dev_examples(FLAGS.data_dir)
-            eval_file = os.path.join(FLAGS.output_dir, "eval.tf_record")
-            filed_based_convert_examples_to_features(
-                eval_examples, label_list, FLAGS.max_seq_length, tokenizer, eval_file)
-
-            tf.logging.info("***** Running evaluation *****")
-            tf.logging.info("  Num examples = %d", len(eval_examples))
-            tf.logging.info("  Batch size = %d", FLAGS.eval_batch_size)
-            eval_steps = None
-            if FLAGS.use_tpu:
-                eval_steps = int(len(eval_examples) / FLAGS.eval_batch_size)
-            eval_drop_remainder = True if FLAGS.use_tpu else False
-            eval_input_fn = file_based_input_fn_builder(
-                input_file=eval_file,
-                seq_length=FLAGS.max_seq_length,
-                is_training=False,
-                drop_remainder=eval_drop_remainder)
-            result = estimator.evaluate(input_fn=eval_input_fn, steps=eval_steps)
-            output_eval_file = os.path.join(FLAGS.output_dir, "eval_results.txt")
-            with open(output_eval_file, "w") as writer:
-                tf.logging.info("***** Eval results *****")
-                for key in sorted(result.keys()):
-                    tf.logging.info("  %s = %s", key, str(result[key]))
-                    writer.write("%s = %s\n" % (key, str(result[key])))
-        if FLAGS.do_predict:
-            token_path = os.path.join(FLAGS.output_dir, "token_test.txt")
-            truelabel_path = os.path.join(FLAGS.output_dir, "truelabel_test.txt")  # added by ymkim
-            with open('./output/label2id.pkl', 'rb') as rf:
-                label2id = pickle.load(rf)
-                id2label = {value: key for key, value in label2id.items()}
-            if os.path.exists(token_path):
-                os.remove(token_path)
-            if os.path.exists(truelabel_path):
-                os.remove(truelabel_path)
-            predict_examples = processor.get_test_examples(FLAGS.data_dir)
-
-            predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
-            filed_based_convert_examples_to_features(predict_examples, label_list,
-                                                     FLAGS.max_seq_length, tokenizer,
-                                                     predict_file, mode="test")
-
-            tf.logging.info("***** Running prediction*****")
-            tf.logging.info("  Num examples = %d", len(predict_examples))
-            tf.logging.info("  Batch size = %d", FLAGS.predict_batch_size)
-            if FLAGS.use_tpu:
-                # Warning: According to tpu_estimator.py Prediction on TPU is an
-                # experimental feature and hence not supported here
-                raise ValueError("Prediction in TPU not supported")
-            predict_drop_remainder = True if FLAGS.use_tpu else False
-            predict_input_fn = file_based_input_fn_builder(
-                input_file=predict_file,
-                seq_length=FLAGS.max_seq_length,
-                is_training=False,
-                drop_remainder=predict_drop_remainder)
-
-            result = estimator.predict(input_fn=predict_input_fn)
-            output_predict_file = os.path.join(FLAGS.output_dir, "label_test.txt")
-            with open(output_predict_file, 'w') as writer:
-                for prediction in result:
-                    output_line = "\n".join(id2label[id] for id in prediction if id != 0) + "\n"
-                    writer.write(output_line)
+        result = estimator.predict(input_fn=predict_input_fn)
+        output_predict_file = os.path.join(FLAGS.output_dir, "label_test.txt")
+        with open(output_predict_file, 'w') as writer:
+            for prediction in result:
+                output_line = "\n".join(id2label[id] for id in prediction if id != 0) + "\n"
+                writer.write(output_line)
 
 
 if __name__ == "__main__":
