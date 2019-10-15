@@ -1,0 +1,7876 @@
+-DOCSTART- -X- -X- O
+
+며칠전에 OOOO O
+뇌가 XO B-BD
+팽창하는거같은 OOOOOOO O
+제 O O
+생애 OO O
+최악의 OOO O
+두통 XX B-ST
+발열 XX B-ST
+뒷목 XX B-BD
+뻐근한 XXX B-ST
+증상으로 OOOO O
+병원에 OOO O
+갔었습니다 OOOOO O
+. O O
+
+주사맞고 OOOO O
+하루치 OOO O
+약을 OO O
+먹었는데 OOOO O
+의사선생님이 OOOOOO O
+말하시기를 OOOOO O
+처방받고도 OOOOO O
+호전되지않으면 OOOOOOO O
+뇌수막염을 XXXXO B-DS
+의심해보라고 OOOOOO O
+하시더라고요 OOOOOO O
+. O O
+
+다음날 OOO O
+두통과 XXO B-ST
+고열은 XXO B-ST
+바로 OO O
+그쳤는데 OOOO O
+병원다녀온지 OOOOOO O
+이틀여 OOO O
+지난 OO O
+지금은 OOO O
+미열이 XXO B-ST
+있는것도 OOOO O
+같고 OO O
+뒷목이 XXO B-BD
+너무 OO O
+뻐근하고 XXXX B-ST
+속이 OO O
+메스껍습니다 XXXXXX B-ST
+. O O
+
+하지만 OOO O
+구토는 XXO B-ST
+한번도 OOO O
+한적이 OOO O
+없구요 OOO O
+. O O
+
+이번주에 OOOO O
+해외에 OOO O
+삼일정도 OOOO O
+갔다오게돼서 OOOOOO O
+치료도 OOO O
+당장 OO O
+받기가 OOO O
+힘들어서 OOOO O
+걱정스럽습니다 OOOOOOO O
+. O O
+
+이것도 OOO O
+뇌수막염이라고 XXXXOOO B-DS
+단정지을 OOOO O
+수 O O
+있을까요 OOOO O
+. O O
+
+혹시나 OOO O
+뇌수막염이라면 XXXXOOO B-DS
+증상이 OOO O
+나타나고 OOOO O
+열흘정도 OOOO O
+방치해도 OOOO O
+후유증은 OOOO O
+없을지도 OOOO O
+궁금합니다 OOOOO O
+. O O
+
+답변부탁드립니다 OOOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+목디스크나 XXXXO B-DS
+신경의 OOO O
+문제로 OOO O
+비골신경마비가 XXXXXXO B-DS
+올수있나요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+코막혀서오트리빈쓰고있는 OOOOOOOOOOOO O
+학생인데요 OOOOO O
+밤에 OO O
+잘때마다 OOOO O
+코막히는데 OOOOO O
+오트리빈쓰면 OOOOOO O
+뻥뚫려서 OOOO O
+좋아서요 OOOO O
+그런데 OOO O
+계속 OO O
+쓰면만성비염같은거 XXXXXXOOO B-DS
+걸리구안좋다해서요 OOOOOOOOO O
+잘때 OO O
+숨을 OO O
+못쉬니까 OOOO O
+입을 XO B-BD
+벌리구 OOO O
+자게되니까 OOOOO O
+목도 XO B-BD
+부은거같고요 XXXXXX B-ST
+. O O
+
+어떡하죠 OOOO O
+. O O
+
+그냥 OO O
+병원가는게 OOOOO O
+나을까요 OOOO O
+. O O
+
+잘때 OO O
+숨을 OO O
+못쉬어서 OOOO O
+고개가 OOO O
+뒤로 OO O
+젖혀져서 OOOO O
+잠도 OO O
+항상 OO O
+새벽에 OOO O
+깨요 OO O
+매일밤오면증상때문에 OOOOOOOOOO O
+잠도 OO O
+못자서요 OOOO O
+혹시 OO O
+오트리빈말구코뻥뚫리는음식이나 OOOOOOOOOOOOOOO O
+방법있을까요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+수면위내시경 OOOOOO O
+검사 OO O
+전날 OO O
+과음했더니 OOOOO O
+하고나서 OOOO O
+너무 OO O
+힘드네요 OOOO O
+. O O
+
+간에 XO B-BD
+무리가 OOO O
+갔을까요 OOOO O
+. O O
+
+설사는 XXO B-ST
+2 O O
+일이 OO O
+지나고 OOO O
+잡혔고 OOO O
+3 O O
+일이 OO O
+지났는데도 OOOOO O
+머리도 XXO B-BD
+멍합니다 OOOO O
+. O O
+
+머리에 XXO B-BD
+문제는 OOO O
+없겠죠 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+다름이 OOO O
+아니라 OOO O
+제가 OO O
+작년부터 OOOO O
+계속 OO O
+머리가 XXO B-BD
+어지웟는데 XXXXX B-ST
+그렇게 OOO O
+심사지는 OOOO O
+않고 OO O
+주위가 OOO O
+빙빙돌면서 OOOOO O
+주워에모든색깔이 OOOOOOOO O
+보라색으로 OOOOO O
+변한다고 OOOO O
+해야하나 OOOO O
+암튼한달에 OOOOO O
+한 O O
+5 O O
+번 O O
+6 O O
+번정도 OOO O
+한 O O
+1 O O
+초간 OO O
+어지럽더리고요 OOOOOOO O
+옛날에 OOO O
+쫌 O O
+빈혈이잇엇는데 XXOOOOO B-DS
+이런증상은 OOOOO O
+어떤증상인가요 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+감기여서 XXOO B-ST
+방금 OO O
+샤워할때 OOOO O
+코를 XO B-BD
+세게 OO O
+풀엇거든요 OOOOO O
+근데 OO O
+양쪽 XX B-BD
+귀가 XO I-BD
+막혀서 OOO O
+멍멍하네요 OOOOO O
+. O O
+
+침삼키고 OOOO O
+코막고 OOO O
+숨쉬어보고 OOOOO O
+별 O O
+방법 OO O
+다 O O
+써봣는데 OOOO O
+안 O O
+되요 OO O
+. O O
+
+어떡하죠 OOOO O
+. O O
+
+답변 OO O
+부탁드릴게요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+회를 OO O
+같이 OO O
+먹었는데 OOOO O
+저만 OO O
+배탈이 OOO O
+났어요 OOO O
+. O O
+
+왜 O O
+저만 OO O
+자꾸 OO O
+설사를 XXO B-ST
+하나요 OOO O
+장 X B-BD
+상태가 OOO O
+않좋은 OOO O
+사람을 OOO O
+그럴수 OOO O
+있나요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+원래 OO O
+오랜 OO O
+비염과 XXO B-DS
+후비루가 XXXO B-DS
+있었어요 OOOO O
+. O O
+
+그래서 OOO O
+조금의 OOO O
+가래는 XXO B-ST
+늘 O O
+가지고 OOO O
+있었지만 OOOO O
+지금처럼 OOOO O
+많거나 OOO O
+하진 OO O
+않았는데 OOOO O
+얼마전 OOO O
+축농증에 XXXO B-DS
+걸려서 OOO O
+약을 OO O
+먹고 OO O
+치료를 OOO O
+했어요 OOO O
+. O O
+
+그후 OO O
+코막힘이나 XXXOO B-ST
+밖으로 OOO O
+나오는 OOO O
+콧물도 XXO B-ST
+현저하게 OOOO O
+줄고 OO O
+후비루도 XXXO B-DS
+덜 O O
+한것 OO O
+같은데 OOO O
+가래는 XXO B-ST
+여전히 OOO O
+많아요 OOO O
+. O O
+
+목안에 XXO B-BD
+끈끈하면서도 OOOOOO O
+덩어리진 OOOO O
+느낌으로 OOOO O
+뱉어도 OOO O
+잘 O O
+나오지도 OOOO O
+않구요 OOO O
+. O O
+
+늘 O O
+고여있어요 OOOOO O
+. O O
+
+목쪽으로 XOOO B-BD
+무슨 OO O
+큰병이리도 OOOOO O
+걸렸을까 OOOO O
+. O O
+
+봐 O O
+겁이 OO O
+나네요 OOO O
+. O O
+
+갑상선에 XXXO B-BD
+물혹이 XXO B-ST
+하나 OO O
+있다던데 OOOO O
+그거와도 OOOO O
+연관 OO O
+지을수 OOO O
+있나요 OOO O
+. O O
+
+아니면 OOO O
+목쪽에 XOO B-BD
+무슨 OO O
+병이라도 OOOO O
+생긴걸까요 OOOOO O
+. O O
+
+이비인후과 OOOOO O
+가긴 OO O
+해야되는데 OOOOO O
+갑자기 OOO O
+걱정이 OOO O
+되면서 OOO O
+잠이 OO O
+안오네요 OOOO O
+. O O
+
+지금도 OOO O
+목안 XX B-BD
+가득 OO O
+가래가 XXO B-ST
+있어요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+작년 OO O
+9 O O
+월 O O
+오른쪽 OOO O
+안면마비가 XXXXO B-DS
+와서 OO O
+치료를 OOO O
+했구요 OOO O
+. O O
+
+완치는 OOO O
+안되었지만 OOOOO O
+밖에 OO O
+돌아다녀도 OOOOO O
+다른사람이 OOOOO O
+몰라볼정도로 OOOOOO O
+돌아왔어요 OOOOO O
+. O O
+
+작년 OO O
+12 OO O
+월 O O
+갑자기 OOO O
+오른쪽입술 XXXXX B-BD
+윗부분이 OOOO O
+바르르 OOO O
+떨기 OO O
+시작아다가 OOOOO O
+오른쪽눈이 XXXXO B-BD
+떨리고 OOO O
+있요요올해 OOOOO O
+1 O O
+월에는 OOO O
+오른쪽 XXX B-BD
+안면을 XXO I-BD
+움직일때마다 OOOOOO O
+오른쪽 XXX B-BD
+눈이 XO I-BD
+살짝씩 OOO O
+감키기 OOO O
+시작하네요 OOOOO O
+. O O
+
+특히 OO O
+밥먹을때 OOOO O
+많이 OO O
+불편하네요 OOOOO O
+. O O
+
+그리고 OOO O
+요즘 OO O
+하체부위가 XXOOO B-BD
+많이 OO O
+저려요 OOO O
+양반다리로 OOOOO O
+앉아있어도 OOOOO O
+그럽니다 OOOO O
+. O O
+
+질문 OO O
+신경외과에서는 OOOOOOO O
+셀투만 OOO O
+마그네슘보충제 OOOOOOO O
+1 O O
+달째처방중이고요 OOOOOOOO O
+병을 OO O
+모르겠다고 OOOOO O
+. O O
+
+합니다 OOO O
+. O O
+
+어찌해야돌까요 OOOOOOO O
+. O O
+
+안면마비랑 XXXXO B-BD
+연관이 OOO O
+있는걸까요 OOOOO O
+간난안 OOO O
+피검사정도는 OOOOOO O
+받았는데 OOOO O
+정상이고요 OOOOO O
+혈압은 OOO O
+130 OOO O
+85 OO O
+입니다 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+학교에서 OOOO O
+하는 OO O
+건강검진에서 OOOOOO O
+폐결핵 XXX B-DS
+혹은 OO O
+폐렴이 XXO B-DS
+의심간다는거에요 OOOOOOOO O
+그래서 OOO O
+큰병원갓는대 OOOOOO O
+똑같은 OOO O
+소릴하는거에요 OOOOOOO O
+제가 OO O
+사진을 OOO O
+봣는대 OOO O
+폐에 XO B-BD
+하얀게 OOO O
+거미줄에 OOOO O
+핵달린것처럼 OOOOOO O
+칭칭 OO O
+있더라 OOO O
+. O O
+
+고요 OO O
+근대 OO O
+기침이나 XXOO B-ST
+가래 XX B-ST
+열 X B-ST
+구토 XX B-ST
+뭐 O O
+이런게 OOO O
+하나도 OOO O
+없어요 OOO O
+. O O
+
+즉 O O
+증상이 OOO O
+아무것도 OOOO O
+없다는거에요 OOOOOO O
+이런 OO O
+경우 OO O
+폐결핵 XXX B-DS
+혹은 OO O
+폐렴이 XXO B-DS
+맞긴한가요 OOOOO O
+보니까 OOO O
+맞긴한거같은데 OOOOOOO O
+그리고 OOO O
+를 O O
+찍자는거에요 OOOOOO O
+근대 OO O
+제가 OO O
+뒤져본결과 OOOOO O
+가래통만으로도 XXOOOOO B-ST
+확인이 OOO O
+가능하다는데 OOOOOO O
+가래가 XXO B-ST
+안껴서 OOO O
+문제지 OOO O
+구지 OO O
+를 O O
+찍을 OO O
+필요가 OOO O
+있나요 OOO O
+. O O
+
+빠른답변 OOOO O
+부탁드립니다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+무심코 OOO O
+기지개를 OOOO O
+하다가 OOO O
+겨드랑이가 XXXXX B-BD
+아릿 XX B-ST
+한거 OO O
+같아서 OOO O
+만져봤는데요 OOOOOO O
+왼쪽 XX B-BD
+겨드랑이 XXXX I-BD
+좀위쪽에 OOOO O
+딱딱한게 OOOO O
+만져져서요 OOOOO O
+겉으로 OOO O
+보기에 OOO O
+많이 OO O
+튀어나오진 OOOOO O
+않았는데 OOOO O
+잡으니까 OOOO O
+강낭콩만한 OOOOO O
+혹이 XO B-ST
+잡히는거 OOOO O
+같아요 OOO O
+. O O
+
+제가 OO O
+제모시술을 OOOOO O
+3 O O
+회정도 OOO O
+받았구요 OOOO O
+. O O
+
+요새 OO O
+땀이 OO O
+많이 OO O
+나는거 OOO O
+같아서 OOO O
+땀 O O
+억제제를 OOOO O
+바르고 OOO O
+있습니다 OOOO O
+. O O
+
+어젯밤에 OOOO O
+땀 O O
+억제제 OOO O
+바를 OO O
+때 O O
+살짝 OO O
+그 O O
+부위가 OOO O
+아픈거같긴 OOOOO O
+했는데 OOO O
+대수롭지 OOOO O
+않게 OO O
+넘겼거든요 OOOOO O
+. O O
+
+왜 O O
+이런걸까요 OOOOO O
+. O O
+
+갑자기 OOO O
+혹이 OO O
+있는걸 OOO O
+알고나니까 OOOOO O
+팔이 XO B-BD
+저린거같기도 XXXOOO B-ST
+하고 OO O
+그러네요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+다름이 OOO O
+아니라 OOO O
+여쭤볼게 OOOO O
+. O O
+
+있어서 OOO O
+글을 OO O
+씁니다 OOO O
+. O O
+
+제가 OO O
+작년 OO O
+4 O O
+5 O O
+월중에 OOO O
+대학병원에 OOOOO O
+가서 OO O
+손목에 XXO B-BD
+신경주사 OOOO O
+맞아서 OOO O
+치료를 OOO O
+받았거든요 OOOOO O
+. O O
+
+1 O O
+2 O O
+번째 OO O
+받을때는 OOOO O
+괜찮았는데 OOOOO O
+3 O O
+번째에 OOO O
+왼쪽손목 XXXX B-BD
+바깥쪽에 OOOO O
+주사를 OOO O
+놓다가 OOO O
+갑자기 OOO O
+손이 XO B-BD
+내려치듯 OOOO O
+아프더니 OOOO O
+수시간정도 OOOOO O
+새끼손가락쪽부터 XXXXXOOO B-BD
+손목쪽 XXO B-BD
+까지 OO O
+퉁퉁 OO O
+붓고 XX B-ST
+너무 OO O
+뜨겁고 OOO O
+안움직여서 OOOOO O
+의사선생님께 OOOOOO O
+여쭤봤더니 OOOOO O
+신경 OO O
+치료하다가 OOOOO O
+정중신경 OOOO O
+건든것 OOO O
+같다고 OOO O
+. O O
+
+시간이 OOO O
+지나면 OOO O
+괜찮아 OOO O
+질거라고 OOOO O
+하셨어요 OOOO O
+. O O
+
+그 O O
+날에 OO O
+운동하려고 OOOOO O
+턱걸이 OOO O
+하다가 OOO O
+주사맞은곳이 OOOOOO O
+약간 OO O
+찢어지는 OOOO O
+느낌도 OOO O
+들었습니다 OOOOO O
+. O O
+
+근데 OO O
+그 O O
+이후 OO O
+손가락이 XXXO B-BD
+그냥 OO O
+맘대로 OOO O
+살짝씩 OOO O
+움직일때도 OOOOO O
+있고 OO O
+팔뚝 XX B-BD
+안쪽 OO O
+근육이 OOO O
+딱딱해 OOO O
+질때도 OOO O
+있더라구요 OOOOO O
+. O O
+
+원래 OO O
+안좋아서 OOOO O
+주사 OO O
+맞았던 OOO O
+쪽은 OO O
+그냥 OO O
+피부가 XXO B-BD
+예민한건 OOOO O
+똑같구요 OOOO O
+. O O
+
+팔과 XO B-BD
+손 X B-BD
+이어지는 OOOO O
+손목쪽 XXO B-BD
+관절이 OOO O
+헐렁한 OOO O
+느낌도 OOO O
+들고 OO O
+딱딱 OO O
+소리도 OOO O
+오른쪽에 OOOO O
+비해 OO O
+많이 OO O
+납니다 OOO O
+. O O
+
+자고 OO O
+일어나면 OOOO O
+혈액순환 OOOO O
+안되서 OOO O
+피안통하는 OOOOO O
+느낌도 OOO O
+조금 OO O
+들구요 OOO O
+옷입고 OOO O
+하면 OO O
+오른팔에 XXXO B-BD
+비해 OO O
+왼팔이 XXO B-BD
+아주 OO O
+약간 OO O
+거슬리는정도 OOOOOO O
+긴 O O
+하구요 OOO O
+인터넷보다 OOOOO O
+를 O O
+보고 OO O
+무서워서 OOOO O
+증상이나 OOOO O
+이런저런 OOOO O
+것들 OO O
+검색해봤는데 OOOOOO O
+참을수없는 OOOOO O
+극심한 OOO O
+통증이 XXO B-ST
+있다거나 OOOO O
+만진다고 OOOO O
+막 O O
+자지러질 OOOO O
+정도로 OOO O
+아프거나 OOOO O
+다른곳에 OOOO O
+비해 OO O
+땀이 OO O
+많이 OO O
+난다거나 OOOO O
+그러진 OOO O
+않습니다 OOOO O
+. O O
+
+털이 OO O
+선다는 OOO O
+느낌도 OOO O
+없구요 OOO O
+. O O
+
+10 OO O
+도 O O
+정도의 OOO O
+냉수 OO O
+받아서 OOO O
+아픈 OO O
+손 X B-BD
+넣어보면 OOOO O
+1 O O
+분넘게 OOO O
+있어도 OOO O
+아무 OO O
+지장없구요 OOOOO O
+. O O
+
+작년에 OOO O
+의사선생님꼐 OOOOOO O
+두달후에 OOOO O
+여쭤봤을때 OOOOO O
+같은건 OOO O
+아니라고 OOOO O
+걱정마시고 OOOOO O
+엄청 OO O
+아프면 OOO O
+오라 OO O
+하시더라구요 OOOOOO O
+. O O
+
+다만 OO O
+혹시라도 OOOO O
+같은 OO O
+무서운병이진 OOOOOO O
+않을까 OOO O
+. O O
+
+걱정되기도하고 OOOOOOO O
+많이 OO O
+아프진 OOO O
+않은데 OOO O
+매일 OO O
+약간의 OOO O
+예민한상태로 OOOOOO O
+운동하거나 OOOOO O
+무리하면 OOOO O
+약간 OO O
+심해지고 OOOO O
+그러는게 OOOO O
+신경 OO O
+쓰이기도 OOOO O
+하구요 OOO O
+. O O
+
+주사로 OOO O
+신경손상의 OOOOO O
+부작용으로 OOOOO O
+이런 OO O
+증상이 OOO O
+남아 OO O
+있을수있는지 OOOOOO O
+아니면 OOO O
+관절쪽 OOO O
+문제인지 OOOO O
+아니면 OOO O
+제가 OO O
+너무 OO O
+과하게 OOO O
+걱정하는건지 OOOOOO O
+걱정되기도 OOOOO O
+해서 OO O
+글올려봅니다 OOOOOO O
+. O O
+
+진료를 OOO O
+보면 OO O
+어느과에서 OOOOO O
+봐야할지도 OOOOO O
+답변 OO O
+달아주시는것 OOOOOO O
+보고 OO O
+병원 OO O
+진료 OO O
+보러 OO O
+갈생각이긴 OOOOO O
+합니다 OOO O
+. O O
+
+긴글 OO O
+봐주셔서 OOOO O
+감사하구요 OOOOO O
+글보시고 OOOO O
+상황 OO O
+봐주시면 OOOO O
+감사하겠습니다 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+저희 OO O
+엄마가 OOO O
+얼굴 XX B-BD
+귀있는쪽이 XOOOO B-BD
+뭔가 OO O
+기분나쁘게 OOOOO O
+찌릿거리면서 XXXXXX B-ST
+아프다는데 OOOOO O
+왜그런건가요 OOOOOO O
+. O O
+
+혹시 OO O
+병 O O
+같은건 OOO O
+아니겠죠 OOOO O
+. O O
+
+아님 OO O
+스트레스땜에 XXXXOO B-ST
+그런건가요 OOOOO O
+. O O
+
+최대한 OOO O
+빨리 OO O
+답장해주세요 OOOOOO O
+내공 OO O
+55 OO O
+겁니다 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+저는 OO O
+올해 OO O
+2012 OOOO O
+년 O O
+4 O O
+월쯤에 OOO O
+목 X B-BD
+부위가 OOO O
+조금 OO O
+부어 OO O
+올라 OO O
+병원에 OOO O
+내원하게 OOOO O
+되었습니다 OOOOO O
+. O O
+
+의사선생님께서는 OOOOOOOO O
+초음파로 OOOO O
+검사하고 OOOO O
+갑상선 XXX B-DS
+비대증이라는 XXXOOO I-DS
+진단을 OOO O
+내렸고 OOO O
+씬지로이드라는 OOOOOOO O
+약을 OO O
+6 O O
+개월동안 OOOO O
+먹어보자고 OOOOO O
+. O O
+
+하시면서 OOOO O
+2 O O
+달분을 OOO O
+처방해주었고 OOOOOO O
+2 O O
+달후에 OOO O
+내원했더니 OOOOO O
+또 O O
+2 O O
+달분 OO O
+또 O O
+2 O O
+달후에 OOO O
+내원했더니 OOOOO O
+2 O O
+달분을 OOO O
+처방해주었습니다 OOOOOOOO O
+. O O
+
+약 O O
+복용후 OOO O
+2 O O
+개월 OO O
+후부터 OOO O
+살이 OO O
+급격히 OOO O
+빠져 OO O
+한 O O
+2 O O
+달동안 OOO O
+10 OO O
+킬로 OO O
+정도 OO O
+빠졌습니다 OOOOO O
+. O O
+
+그러면서 OOOO O
+계속 OO O
+피곤하고 OOOO O
+땀이 OO O
+주르르 OOO O
+흐르며 OOO O
+심장이 XXO B-BD
+뛰고 OO O
+손이 XO B-BD
+떨리고 OOO O
+근육경련이 XXXXO B-ST
+일어나고 OOOO O
+머리도 XXO B-BD
+멍해지며 XXXX B-ST
+심지어 OOO O
+말을 OO O
+하려고 OOO O
+하는데 OOO O
+발음조차도 OOOOO O
+나오지 OOO O
+않았습니다 OOOOO O
+. O O
+
+예전엔 OOO O
+전혀 OO O
+없던 OO O
+증상 OO O
+이런 OO O
+증상이 OOO O
+계속되자 OOOO O
+직장생활도 OOOOO O
+지장을 OOO O
+받고 OO O
+일상생활도 OOOOO O
+힘들어서 OOOO O
+그 O O
+병원에 OOO O
+5 O O
+개월쯤 OOO O
+약을 OO O
+먹은 OO O
+후에 OO O
+내원하였습니다 OOOOOOO O
+. O O
+
+병원에서는 OOOOO O
+혈액을 OOO O
+채취하고 OOOO O
+약 O O
+복용을 OOO O
+당장 OO O
+중단하라고 OOOOO O
+했습니다 OOOO O
+. O O
+
+그리고 OOO O
+3 O O
+일후에 OOO O
+전화가 OOO O
+왔는데 OOO O
+갑상선 XXX B-DS
+항진증이 XXXO I-DS
+의심되니 OOOO O
+10 OO O
+일 O O
+후에 OO O
+다시 OO O
+혈액검사하여 OOOOOO O
+확실히 OOO O
+진단을 OOO O
+내리자고 OOOO O
+. O O
+
+하셨습니다 OOOOO O
+. O O
+
+일상 OO O
+생활이 OOO O
+너무 OO O
+힘들어서 OOOO O
+제가 OO O
+아는 OO O
+한의원에 OOOO O
+갔는데 OOO O
+단순히 OOO O
+갑상선 XXX B-DS
+비대증에 XXXO I-DS
+씬디로이드를 OOOOOO O
+처방한것은 OOOOO O
+오진이라고 OOOOO O
+하였고 OOO O
+덧붙여서 OOOO O
+이 O O
+약은 OO O
+저하증에 XXXO B-DS
+쓰는 OO O
+약인데 OOO O
+단순히 OOO O
+비대증에 XXXO B-DS
+사용한다는 OOOOO O
+것은 OO O
+있을 OO O
+수 O O
+없는 OO O
+일이라고 OOOO O
+하였습니다 OOOOO O
+. O O
+
+처음에 OOO O
+병원에 OOO O
+내원했을때 OOOOO O
+조금 OO O
+커져있긴 OOOO O
+하나 OO O
+기능에는 OOOO O
+전혀 OO O
+문제가 OOO O
+없다고 OOO O
+했거든요 OOOO O
+갑상선 XXX B-DS
+비대증에 XXXO I-DS
+씬디로이드 OOOOO O
+처방은 OOO O
+적합한지 OOOO O
+알고 OO O
+싶습니다 OOOO O
+. O O
+
+답변부탁드립니다 OOOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+얼마전 OOO O
+회사에 OOO O
+제출할 OOO O
+서류를 OOO O
+준비하던중에 OOOOOO O
+우연히 OOO O
+빈혈이 XXO B-DS
+있음을 OOO O
+알게 OO O
+되었습니다 OOOOO O
+. O O
+
+6 O O
+7 O O
+그리고 OOO O
+한달동안철분제 OOOOOOO O
+복용을 OOO O
+하고 OO O
+다시 OO O
+빈혈검사를 OOOOO O
+했는데 OOO O
+이번엔 OOO O
+5 O O
+3 O O
+이 O O
+나왔습니다 OOOOO O
+. O O
+
+그래서 OOO O
+종합검진을 OOOOO O
+했는데 OOO O
+다른데는 OOOO O
+별로 OO O
+이상이 OOO O
+없고 OO O
+갑상선에 XXXO B-BD
+1 O O
+결절이 OOO O
+발견되었습니다 OOOOOOO O
+. O O
+
+이때는 OOO O
+약보름정도 OOOOO O
+지난시점이었는데 OOOOOOOO O
+검진시에 OOOO O
+나온 OO O
+빈혈수치는 XXOOO B-DS
+6 O O
+3 O O
+이었습니다 OOOOO O
+. O O
+
+갑상선 XXX B-DS
+결절이 XXO I-DS
+빈혈의 XXO B-DS
+원인이 OOO O
+될수 OO O
+있나요 OOO O
+. O O
+
+그리고 OOO O
+이렇게 OOO O
+빈혈수치가 XXOOO B-DS
+들쑥날쑥한 OOOOO O
+이유는 OOO O
+무엇인가요 OOOOO O
+요즘도 OOO O
+가끔 OO O
+순간적으로 OOOOO O
+어지럼증을 XXXXO B-ST
+느낄때가 OOOO O
+있습니다 OOOO O
+. O O
+
+빈혈치료에 XXOOO B-DS
+좋은 OO O
+방법은 OOO O
+무엇인지 OOOO O
+궁금합니다 OOOOO O
+. O O
+
+그리고 OOO O
+손가락에 XXXO B-BD
+혈관종이 XXXO B-DS
+오래전부터 OOOOO O
+있었습니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+천식이 XXO B-DS
+있어서 OOO O
+천식 XX B-DS
+약 O O
+드시고 OOO O
+심장 XX B-BD
+쪽 O O
+하고 OO O
+혈관이 OOO O
+안 O O
+좋와서 OOO O
+약을 OO O
+드시고 OOO O
+있읍니다 OOOO O
+. O O
+
+와파린도 OOOO O
+같이 OO O
+요즘 OO O
+숨이 OO O
+차고 OO O
+기침을 XXO B-ST
+자주 OO O
+하셔서 OOO O
+검사를 OOO O
+했읍니다 OOOO O
+. O O
+
+엑스레이 OOOO O
+심전도 OOO O
+심초음파 OOOO O
+검사 OO O
+근데 OO O
+별 O O
+이상이 OOO O
+없다고 OOO O
+하시는데 OOOO O
+아직도 OOO O
+기침과 XXO B-ST
+숨이 OO O
+차십니다 OOOO O
+. O O
+
+기침을 XXO B-ST
+하는 OO O
+이유 OO O
+천식 XX B-DS
+말고 OO O
+어디가 OOO O
+안 O O
+좋으면 OOO O
+하는지요 OOOO O
+숨이 OO O
+찬 O O
+이유도 OOO O
+다른 OO O
+어디가 OOO O
+안 O O
+좋으면 OOO O
+숨이 OO O
+차는지요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+저희 OO O
+할머니께서 OOOOO O
+머리가 XXO B-BD
+아프셔서 OOOO O
+검사를 OOO O
+하셨는데 OOOO O
+머리에 XXO B-BD
+풍이라는 XOOO B-DS
+진단을 OOO O
+받으시고 OOOO O
+지금 OO O
+입원하셨다고 OOOOOO O
+. O O
+
+합니다 OOO O
+. O O
+
+많이 OO O
+위험한가요 OOOOO O
+좋은 OO O
+음식이나 OOOO O
+생활할때 OOOO O
+관리는 OOO O
+어떻게 OOO O
+하는것이 OOOO O
+좋을까요 OOOO O
+. O O
+
+멀리 OO O
+떨어져 OOO O
+살고있어서 OOOOO O
+혼자 OO O
+계신데 OOO O
+보호자가 OOOO O
+필요한 OOO O
+경우일까요 OOOOO O
+간다고 OOO O
+하니 OO O
+오지말고 OOOO O
+일하라고 OOOO O
+하시네요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+아버지가 OOOO O
+소세포폐암 XXXXX B-DS
+확장기 OOO O
+진단을 OOO O
+받았습니다 OOOOO O
+. O O
+
+전이는 OOO O
+폐쪽과 XOO B-BD
+림프 XX B-BD
+그리고 OOO O
+척추뼈아래 XXXOO B-BD
+조금 OO O
+전이가 OOO O
+되었구요 OOOO O
+. O O
+
+진단받은지 OOOOO O
+1 O O
+년 O O
+2 O O
+개월쯤 OOO O
+지났습니다 OOOOO O
+. O O
+
+지금까지 OOOO O
+항암치료를 OOOOO O
+계속 OO O
+받으셨고 OOOO O
+사이즈가 OOOO O
+조금 OO O
+커지긴 OOO O
+했지만 OOO O
+진단 OO O
+받았을 OOO O
+때보다 OOO O
+전이는 OOO O
+안됬어요 OOOO O
+그런데 OOO O
+항암을 OOO O
+1 O O
+년 O O
+넘게 OO O
+맞다보니 OOOO O
+소세포폐암은 XXXXXO B-DS
+약이 OO O
+많이 OO O
+없어서 OOO O
+이제 OO O
+쓸약이 OOO O
+없다고 OOO O
+하시더라고요 OOOOOO O
+. O O
+
+물론 OO O
+이전에 OOO O
+썼던 OO O
+여러 OO O
+항암제가 OOOO O
+효과를 OOO O
+많이 OO O
+보지 OO O
+못했구요 OOOO O
+. O O
+
+그래서 OOO O
+이번에 OOO O
+방사선 OOO O
+치료를 OOO O
+들어갔는데 OOOOO O
+오늘 OO O
+진료를 OOO O
+보고 OO O
+오니 OO O
+방사선 OOO O
+치료가 OOO O
+효과를 OOO O
+보지 OO O
+못하면 OOO O
+치료가 OOO O
+어려울수도 OOOOO O
+있다고 OOO O
+. O O
+
+하시더라고요 OOOOOO O
+. O O
+
+사실 OO O
+아버지께서 OOOOO O
+항암치료를 OOOOO O
+오래받다보니 OOOOOO O
+면역력이 OOOO O
+많이 OO O
+떨어지셨지만 OOOOOO O
+그래도 OOO O
+활동은 OOO O
+가능하시고 OOOOO O
+정말 OO O
+어떻게 OOO O
+해야 OO O
+좋을지 OOO O
+모르겠어요 OOOOO O
+. O O
+
+지금은 OOO O
+집이 OO O
+있는 OO O
+부산에서 OOOO O
+치료를 OOO O
+하고 OO O
+계신데 OOO O
+서울에 OOO O
+가면 OO O
+다른방법이 OOOOO O
+있을지 OOO O
+또 O O
+소세포 OOO O
+폐암이 XXO B-DS
+전이속도가 OOOOO O
+빠른데 OOO O
+괜히 OO O
+서울갔다가 OOOOO O
+검사기간동안 OOOOOO O
+전이가 OOO O
+되진 OO O
+않을지 OOO O
+너무나 OOO O
+막막합니다 OOOOO O
+. O O
+
+제발 OO O
+도움좀 OOO O
+주세요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제동생이 OOOO O
+지금 OO O
+고 O O
+2 O O
+남자입니다 OOOOO O
+. O O
+
+한번 OO O
+잠을 OO O
+자면 OO O
+알람 OO O
+사람이 OOO O
+깨워도 OOO O
+잘 O O
+일어나질 OOOO O
+못합니다 OOOO O
+. O O
+
+부모님이 OOOO O
+깨워주셧다고 OOOOOO O
+. O O
+
+하고 OO O
+말도 OO O
+햇다는데 OOOO O
+일어나면 OOOO O
+기억나질 OOOO O
+않아요 OOO O
+. O O
+
+학교도 OOO O
+매일 OO O
+지각하고 OOOO O
+학업에 OOO O
+지장을 OOO O
+줍니다 OOO O
+. O O
+
+늦게자는 OOOO O
+것도 OO O
+잇지만 OOO O
+몸이 OO O
+무겁고 OOO O
+힘이 OO O
+든다고 OOO O
+합니다 OOO O
+. O O
+
+어떻게 OOO O
+해야 OO O
+할까요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+심장 XX B-BD
+초음파검사를 OOOOOO O
+받아야되서 OOOOO O
+받기전에 OOOO O
+흉부 XX B-BD
+엑스레이랑 OOOOO O
+심전도 OOO O
+검사랑 OOO O
+채혈을 OOO O
+했습니다 OOOO O
+. O O
+
+근데 OO O
+심전도 OOO O
+검사를 OOO O
+할때 OO O
+간호사가 OOOO O
+심장쪽에 XXOO B-BD
+집게같은 OOOO O
+뽁뽁이로 OOOO O
+고정시키는데 OOOOOO O
+움직여서 OOOO O
+다시 OO O
+해야 OO O
+한다는 OOO O
+식으로 OOO O
+말을 OO O
+했습니다 OOOO O
+. O O
+
+제 O O
+생각이지만 OOOOO O
+기분나쁜데 OOOOO O
+티안내려고 OOOOO O
+하는게 OOO O
+보였고 OOO O
+뭔가 OO O
+기분이 OOO O
+안좋아 OOO O
+보였습니다 OOOOO O
+. O O
+
+그리고 OOO O
+채혈을 OOO O
+하는데 OOO O
+간호사가 OOOO O
+제 O O
+왼쪽 XX B-BD
+팔에 XO I-BD
+주사바늘을 OOOOO O
+깊게 OO O
+꼿고 OO O
+뺄때 OO O
+위로 OO O
+살짝 OO O
+팅기면서 OOOO O
+뽑는데 OOO O
+뽑을때 OOO O
+엄청 OO O
+통증이 XXO B-ST
+심했습니다 OOOOO O
+. O O
+
+그리고 OOO O
+의사에게 OOOO O
+심장초음파 OOOOO O
+검사를 OOO O
+받고 OO O
+받은 OO O
+후에 OO O
+의사에게 OOOO O
+채혈할때 OOOO O
+너무 OO O
+통증이 XXO B-ST
+심하다고 OOOO O
+. O O
+
+호소했습니다 OOOOOO O
+. O O
+
+근데 OO O
+의사는 OOO O
+멍자국도 XXXO B-ST
+없고 OO O
+금방 OO O
+괜찮아질꺼라고 OOOOOOO O
+걱정하지 OOOO O
+말라고 OOO O
+. O O
+
+했습니다 OOOO O
+. O O
+
+그 O O
+후에 OO O
+몇일이 OOO O
+지나도록 OOOO O
+통증이 XXO B-ST
+있는데 OOO O
+약깐 OO O
+멍은 XO B-ST
+아닌거같고 OOOOO O
+이런식으로 OOOOO O
+채혈한 OOO O
+곳 O O
+주위에 OOO O
+빨간색으로 OOOOO O
+상처가 OOO O
+보였습니다 OOOOO O
+. O O
+
+병원에 OOO O
+전화해보니 OOOOO O
+금방 OO O
+나을꺼라는 OOOOO O
+식으로 OOO O
+또 O O
+말하고 OOO O
+저를 OO O
+또 O O
+안심 OO O
+시켰습니다 OOOOO O
+. O O
+
+그 O O
+후 O O
+일주일이 OOOO O
+지나니 OOO O
+좀 O O
+큰 O O
+범위에 OOO O
+노란색 OOO O
+멍같은게 XOOO B-ST
+들었습니다 OOOOO O
+. O O
+
+무서워서 OOOO O
+병원에 OOO O
+전화해보니 OOOOO O
+멍이 XO B-ST
+들고 OO O
+멍이 XO B-ST
+빠질때 OOO O
+노란색으로 OOOOO O
+변한다고 OOOO O
+안심시키는데 OOOOOO O
+전 O O
+애초에 OOO O
+파란 OO O
+멍이 XO B-ST
+들지도 OOO O
+않았고 OOO O
+노란색으로 OOOOO O
+변한거로 OOOO O
+안심하라는데 OOOOOO O
+신경쪽에 OOOO O
+의심이 OOO O
+가고 OO O
+감염된건 OOOO O
+아닌지 OOO O
+걱정이 OOO O
+듭니다 OOO O
+. O O
+
+이거 OO O
+의료사고인가요 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+저는 OO O
+한초등학생입니다 OOOOOOOO O
+. O O
+
+뻐근한건지 XXXOO B-ST
+아픈건지 OOOO O
+잘모르겠음 OOOOO O
+그런데요자꾸 OOOOOO O
+뒷목이 XXO B-BD
+아프네요 OOOO O
+. O O
+
+그런데요 OOOO O
+뒷목이 XXO B-BD
+아파서 OOO O
+그런지요 OOOO O
+자꾸 OO O
+목을 XO B-BD
+돌리게되고요 OOOOOO O
+. O O
+
+1 O O
+시간에 OOO O
+100 OOO O
+은 O O
+넘게 OO O
+돌리게되고요 OOOOOO O
+버릇처럼됫어요 OOOOOOO O
+체육하는데 OOOOO O
+선생님이 OOOO O
+목에 XO B-BD
+이상있는사람들이 OOOOOOOO O
+많다고 OOO O
+. O O
+
+하던데 OOO O
+자꾸 OO O
+목을 XO B-BD
+돌리게되고요 OOOOOO O
+. O O
+
+좀 O O
+뻐근한거같기도하고요 XXXXOOOOOO B-ST
+. O O
+
+아픈거같기도한데요 OOOOOOOOO O
+요즘에는 OOOO O
+원래 OO O
+배고자던 OOOO O
+비게도목아파서 OOOOOOO O
+못하구요 OOOO O
+. O O
+
+더낮은거를 OOOOO O
+배고자야하고요 OOOOOOO O
+. O O
+
+제일 OO O
+심각한거는 OOOOO O
+자꾸 OO O
+목을 XO B-BD
+돌리게댑니다 OOOOOO O
+. O O
+
+아참 OO O
+목을 XO B-BD
+돌리면모래씹으면 OOOOOOOO O
+우드득 OOO O
+뿌드득 OOO O
+그런소리가나요 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제목 OO O
+처럼 OO O
+요즘 OO O
+걸을때 OOO O
+마다 OO O
+. O O
+
+어지러움증이 XXXXXO B-ST
+심해서 OOO O
+걷기도 OOO O
+힘들고 OOO O
+오른쪽 XXX B-BD
+얼굴이 XXO I-BD
+감각이 OOO O
+이상합니다 OOOOO O
+. O O
+
+입안쪽포함해서 XXOOOOO B-BD
+감각이상을 OOOOO O
+느낍니다 OOOO O
+. O O
+
+그래서 OOO O
+신경내과 OOOO O
+진료도 OOO O
+받고 OO O
+도 O O
+찍었는데 OOOO O
+상에는 OOO O
+문제가 OOO O
+없다고 OOO O
+하십니다 OOOO O
+. O O
+
+그래서 OOO O
+신경 OO O
+내과 OO O
+의사분도 OOOO O
+일단 OO O
+스트레스 XXXX B-ST
+많이 OO O
+받는 OO O
+일 O O
+있느냐 OOO O
+. O O
+
+머 O O
+그런질문하시고 OOOOOOO O
+약 O O
+처방해주시고 OOOOOO O
+휴식을 OOO O
+취해라고만 OOOOO O
+하시는데 OOOO O
+약을 OO O
+복용해도 OOOO O
+효과도 OOO O
+없고 OO O
+증상이 OOO O
+달라지는게 OOOOO O
+없습니다 OOOO O
+. O O
+
+시간이 OOO O
+지날 OO O
+수록 OO O
+더해지는 OOOO O
+느낌만 OOO O
+듭니다 OOO O
+. O O
+
+무슨 OO O
+문제 OO O
+일까요 OOO O
+걱정이 OOO O
+됩니다 OOO O
+. O O
+
+꼭 O O
+답변 OO O
+좀 O O
+부탁드립니다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+세수를 OOO O
+해도 OO O
+코피가 XXO B-ST
+나고 OO O
+코를 XO B-BD
+풀어도 OOO O
+코피가 XXO B-ST
+나고 OO O
+앞으로 OOO O
+누웠을때도 OOOOO O
+갑자기 OOO O
+나고 OO O
+자다가도 OOOO O
+나고 OO O
+갑자기 OOO O
+머리 XX B-BD
+띵 X B-ST
+하더니 XXX I-ST
+나고 OO O
+밥먹다가도 OOOOO O
+나고 OO O
+수시로 OOO O
+코피가나요 XXOOO B-ST
+. O O
+
+요즘 OO O
+피를 OO O
+흘려서 OOO O
+몸이 OO O
+피곤한건지 OOOOO O
+6 O O
+일전에 OOO O
+갑자기 OOO O
+몸살걸렸다가 XXOOOO B-DS
+2 O O
+일만에 OOO O
+나았는데 OOOO O
+어제부터 OOOO O
+다시 OO O
+기관지가 XXXO B-BD
+약해진듯 OOOO O
+해요 OO O
+병원 OO O
+가봐야할가요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+일주일 OOO O
+정도 OO O
+전에 OO O
+자리에 OOO O
+눕다가 OOO O
+침대 OO O
+모서리에 OOOO O
+왼쪽 XX B-BD
+팔꿈치를 XXXO I-BD
+꽤 O O
+세개 OO O
+찍었는데 OOOO O
+갑자기 OOO O
+타는 OO O
+듯한 OO O
+극심한 OOO O
+통증과 XXO B-ST
+함께 OO O
+잠시 OO O
+왼쪽 XX B-BD
+팔꿈치 XXX I-BD
+아래부터 OOOO O
+손까지 XOO B-BD
+마비가 XXO B-ST
+된듯한 OOO O
+느낌을 OOO O
+받았습니다 OOOOO O
+. O O
+
+그러고 OOO O
+좀 O O
+괜찮아 OOO O
+진다 OO O
+싶었는데 OOOO O
+팔꿈치 XXX B-BD
+연골 XX B-BD
+쪽에 OO O
+자극이 OOO O
+가거나 OOO O
+살짝만 OOO O
+닿아도 OOO O
+왼손에 XXO B-BD
+힘이 OO O
+빠지고 OOO O
+시큰한 XXX B-ST
+느낌이 OOO O
+듭니다 OOO O
+. O O
+
+소위 OO O
+작열통을 XXXO B-ST
+경험 OO O
+한것 OO O
+같은데 OOO O
+왼쪽 XX B-BD
+손이 XO I-BD
+불에 OO O
+타는듯한 XXXX B-ST
+느낌을 XXO I-ST
+받았습니다 OOOOO O
+. O O
+
+지금 OO O
+팔꿈치랑 XXXO B-BD
+팔뚝의 XXO B-BD
+연결부위라고 OOOOOO O
+해야하나 OOOO O
+그 O O
+지점이 OOO O
+시큰합니다 OOOOO O
+. O O
+
+병원 OO O
+가봐야 OOO O
+할까요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+신경외과에 OOOOO O
+가서 OO O
+묻고 OO O
+싶은게 OOO O
+있는데요 OOOO O
+제가요 OOO O
+이빨 XX B-BD
+세개가 OOO O
+자전거 OOO O
+타다가 OOO O
+넘어져서 OOOO O
+부러졌는데요 OOOOOO O
+그래서 OOO O
+고운치과에서 OOOOOO O
+경희대 OOO O
+치과대학 OOOO O
+나온 OO O
+사람한테 OOOO O
+치료를 OOO O
+받았는데요 OOOOO O
+그 O O
+때 O O
+신경 OO O
+치료를 OOO O
+받았는데요 OOOOO O
+어떻게 OOO O
+신경이 OOO O
+없어졌는지 OOOOO O
+왜 O O
+17 OO O
+세부터 OOO O
+신경이 OOO O
+쓰려서 OOO O
+손을 XO B-BD
+움직이기가 OOOOO O
+힘든지 OOO O
+알 O O
+수 O O
+있는 OO O
+곳은 OO O
+어디일까요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+아빠가 OOO O
+며칠전부터 OOOOO O
+감기에 XXO B-DS
+걸리셧는데 OOOOO O
+병원은 OOO O
+안갓는데 OOOO O
+약 O O
+을 O O
+먹어도 OOO O
+낫지는 OOO O
+안고 OO O
+기침을 XXO B-ST
+많이하는데 OOOOO O
+조금씩 OOO O
+피가 OO O
+나온다네요 OOOOO O
+. O O
+
+병에 OO O
+걸리지 OOO O
+않았나 OOO O
+. O O
+
+걱정되네요 OOOOO O
+. O O
+
+최대한 OOO O
+빨리 OO O
+답변 OO O
+부탁드릴게요요 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+오래전부터 OOOOO O
+평소에 OOO O
+왼쪽귀에서만 XXXOOO B-BD
+삼 O O
+사초정도의 OOOOO O
+큰 O O
+삐하는 OOO O
+소리가 OOO O
+낫엇어요 OOOO O
+보통 OO O
+3 O O
+5 O O
+일에 OO O
+한번씩이요 OOOOO O
+근데 OO O
+그냥 OO O
+별 O O
+대수롭지 OOOO O
+않게 OO O
+여겼었는데 OOOOO O
+엊그제부터 OOOOO O
+갑자기 OOO O
+오른쪽귀에서 XXXXOO B-BD
+기계음인데 OOOOO O
+약간 OO O
+높은톤인데 OOOOO O
+소리의 OOO O
+세기는 OOO O
+약 O O
+2 O O
+3 O O
+정도의 OOO O
+크기로 OOO O
+24 OO O
+시간 OO O
+내내 OO O
+들려요 OOO O
+아 O O
+신경이 OOO O
+너무 OO O
+쓰여서 OOO O
+자고일어나면 OOOOOO O
+괜찮을 OOO O
+거란 OO O
+생각에 OOO O
+자고 OO O
+일어났든데도 OOOOOO O
+계속 OO O
+소리나서 OOOO O
+동네 OO O
+이비인후과를 OOOOOO O
+갔어요 OOO O
+. O O
+
+별다른 OOO O
+이상은 OOO O
+없다고 OOO O
+약을 OO O
+주었는데 OOOO O
+오전 OO O
+오후 OO O
+약에 OO O
+잠자기직전에 OOOOOO O
+따로 OO O
+먹는약을 OOOO O
+주었어요 OOOO O
+. O O
+
+근데 OO O
+어제 OO O
+종일 OO O
+약을 OO O
+먹어도 OOO O
+소리가 OOO O
+안들리는것도 OOOOOO O
+아니고 OOO O
+별반다른게 OOOOO O
+없어서 OOO O
+약을 OO O
+안먹으려고 OOOOO O
+했는데 OOO O
+어제 OO O
+자려고 OOO O
+누우니까 OOOO O
+소리가 OOO O
+더 O O
+커져들려서 OOOOO O
+잠을 OO O
+쉽게 OO O
+들지 OO O
+못했어요 OOOO O
+. O O
+
+병원서 OOO O
+잠들기 OOO O
+직전에 OOO O
+먹으라 OOO O
+. O O
+
+던 O O
+약이생각나서 OOOOOO O
+먹었더니 OOOO O
+좀 O O
+뒤척이다강잠든것같아요 OOOOOOOOOOO O
+. O O
+
+근데 OO O
+아직두 OOO O
+소리가 OOO O
+계속들리느데 OOOOOO O
+걍 O O
+약을 OO O
+계속 OO O
+먹어야 OOO O
+하나요 OOO O
+아니면 OOO O
+무언가 OOO O
+지금 OO O
+제 O O
+몸이 OO O
+잘못되었다는 OOOOOO O
+신호인가요 OOOOO O
+. O O
+
+참고로 OOO O
+최근에 OOO O
+심한 OO O
+소음에 OOO O
+노출된적은 OOOOO O
+없습니다 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+머리 XX B-BD
+전체가 OOO O
+쑤시듯이 XXXX B-ST
+아파요 OOO O
+. O O
+
+어제부터 OOOO O
+계속 OO O
+아팟어요 OOOO O
+어제 OO O
+두통약을 XXOO B-ST
+먹고 OO O
+자고일어나니 OOOOOO O
+아침에는 OOOO O
+괜찮아졌는데 OOOOOO O
+오늘 OO O
+오전쯤에 OOOO O
+다시 OO O
+아프기 OOO O
+시작햇어요 OOOOO O
+. O O
+
+두통에 XXO B-ST
+대해서 OOO O
+검색해보고 OOOOO O
+다해봣는데 OOOOO O
+머리 XX B-BD
+전체가 OOO O
+아픈건 OOO O
+안나오더라고요 OOOOOOO O
+머리전체가 XXOOO B-BD
+쑤시듯이 XXXX B-ST
+이틀째네요 OOOOO O
+. O O
+
+병원을 OOO O
+가봐야할정도일까요 OOOOOOOOO O
+집에 OO O
+서 O O
+스스로 OOO O
+치료할수잇는 OOOOOO O
+방법이 OOO O
+없을까요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+고 O O
+3 O O
+시절부터 OOOO O
+생긴 OO O
+편두통인데요 XXXOOO B-DS
+자고 OO O
+일어나면 OOOO O
+꼭 O O
+아픕니다 OOOO O
+. O O
+
+자다가 OOO O
+아파서 OOO O
+일어나는 OOOO O
+것 O O
+같기도 OOO O
+하고요 OOO O
+. O O
+
+원래 OO O
+자던 OO O
+시간이 OOO O
+아닌 OO O
+시간에 OOO O
+자면 OO O
+아파서 OOO O
+일어나는 OOOO O
+것 O O
+같습니다 OOOO O
+. O O
+
+매번 OO O
+그런 OO O
+건 O O
+아니고 OOO O
+컨디션이 OOOO O
+안좋을 OOO O
+때나 OO O
+잠이 OO O
+부족할 OOO O
+때 O O
+아픕니다 OOOO O
+. O O
+
+고 O O
+3 O O
+때 O O
+병원에 OOO O
+가서 OO O
+머리에 XXO B-BD
+무엇을 OOO O
+붙히고 OOO O
+검사했었는데 OOOOOO O
+오른쪽 OOO O
+혈관이 OOO O
+좁아서 OOO O
+아프다 OOO O
+라는 OO O
+소견만 OOO O
+듣고 OO O
+조치를 OOO O
+취하지 OOO O
+않았습니다 OOOOO O
+. O O
+
+20 OO O
+살이 OO O
+된 O O
+이후부터는 OOOOO O
+만성은 OOO O
+아니고 OOO O
+가끔 OO O
+잠 O O
+부족할 OOO O
+때 O O
+컨디션이 OOOO O
+안 O O
+좋을 OO O
+때 O O
+세 O O
+달에 OO O
+한번 OO O
+정도로 OOO O
+빈도수가 OOOO O
+낮으나 OOO O
+한번 OO O
+아프면 OOO O
+정말 OO O
+미칠 OO O
+것 O O
+같습니다 OOOO O
+. O O
+
+진통제도 OOOO O
+당연히 OOO O
+약효가 OOO O
+없고요 OOO O
+. O O
+
+어떤 OO O
+치료를 OOO O
+받으면 OOO O
+좋을까요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+침삼키기도 XXXXX B-ST
+힘들고 XXX I-ST
+물삼키기도 XXXXX B-ST
+힘들어요 XXXX I-ST
+. O O
+
+시험기간이라 OOOOOO O
+병원가기도 OOOOO O
+힘들고 OOO O
+가까운 OOO O
+병원은 OOO O
+메르스때문에 XXXOOO B-DS
+쉬고있다는 OOOOO O
+말도 OO O
+있네요 OOO O
+. O O
+
+목이랑 XOO B-BD
+귀도 XO B-BD
+같이 OO O
+아프고 OOO O
+아침에 OOO O
+일어나면 OOOO O
+목이 XO B-BD
+말라있어서 XXXXX B-ST
+엄청아픕니다 OOOOOO O
+. O O
+
+어떠한 OOO O
+증상이고 OOOO O
+당장어떤 OOOO O
+조치를 OOO O
+취해야하는지 OOOOOO O
+궁금합니다 OOOOO O
+. O O
+
+아그리고 OOOO O
+실제로 OOO O
+보면 OO O
+사진보더 OOOO O
+좀더 OO O
+심합니다 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+치킨 OO O
+먹다가 OOO O
+허겁지겁 OOOO O
+먹어서 OOO O
+목에 XO B-BD
+걸린 XX B-ST
+느낌이 XXO I-ST
+나고 OO O
+좀 O O
+누르는 OOO O
+그 O O
+느낌도 OOO O
+났는데요 OOOO O
+확실히 OOO O
+뭐가 OO O
+걸린 OO O
+거 O O
+같았어요 OOOO O
+. O O
+
+평소랑 OOO O
+느낌이 OOO O
+달랐으니까여 OOOOOO O
+근데 OO O
+자고 OO O
+일어나니까 OOOOO O
+좀 O O
+괜찮아진 OOOO O
+느낌이고 OOOO O
+밥먹고 OOO O
+하니까 OOO O
+지금은 OOO O
+그런 OO O
+느낌 OO O
+없구요 OOO O
+. O O
+
+아주 OO O
+조금 OO O
+뭔가 OO O
+걸린 OO O
+느낌 OO O
+날 O O
+때도 OO O
+있긴 OO O
+한데 OO O
+지금은 OOO O
+평소랑 OOO O
+같아요 OOO O
+. O O
+
+이게 OO O
+목에 XO B-BD
+계속 OO O
+남아있을 OOOO O
+수도 OO O
+있나요 OOO O
+. O O
+
+이럴 OO O
+때도 OO O
+병원 OO O
+가야 OO O
+하나요 OOO O
+병원 OO O
+가면 OO O
+이비인후과 OOOOO O
+가면 OO O
+되나요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+꽤 O O
+오래전부터 OOOOO O
+허리가 XXX B-BD
+아파왔는데 OOOOO O
+일주일전부터 OOOOOO O
+너무 OO O
+심해져서 OOOO O
+오늘 OO O
+동네에 OOO O
+가까운 OOO O
+병원에 OOO O
+갔는데 OOO O
+병원에서 OOOO O
+엑스레이를 OOOOO O
+찍었는데 OOOO O
+척추 XX B-DS
+이분증이란 XXXOO I-DS
+진단을 OOO O
+받았어요 OOOO O
+. O O
+
+물리치료해서 OOOOOO O
+낳아질까요 OOOOO O
+전 O O
+너무 OO O
+너무 OO O
+아픕니다 OOOO O
+. O O
+
+의사쌤은 OOOO O
+운동하랬는데 OOOOOO O
+전 O O
+지금 OO O
+일어날때도 OOOOO O
+아프고 OOO O
+걸어다니는거 OOOOOO O
+조차도 OOO O
+너무 OO O
+아파서 OOO O
+운동할 OOO O
+생각은 OOO O
+하지도 OOO O
+못하겠어요 OOOOO O
+. O O
+
+어떻해야하죠 OOOOOO O
+. O O
+
+그리고 OOO O
+선천적으로 OOOOO O
+그렇다는데 OOOOO O
+왜 O O
+태어나서 OOOO O
+지금까지 OOOO O
+허리통증이 XXXXO B-DS
+없다가 OOO O
+고 O O
+1 O O
+17 OO O
+살 O O
+여름때부터 OOOOO O
+갑자기 OOO O
+허리통증이 XXXXO B-DS
+생긴건가요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+몇일전부터 OOOOO O
+호흡이 OOO O
+시원하게 OOOO O
+되지않아요 OOOOO O
+. O O
+
+제가 OO O
+거의 OO O
+2 O O
+년동안 OOO O
+배달 OO O
+아르바이트를 OOOOOO O
+하고있는데 OOOOO O
+매연도 OOO O
+많이 OO O
+마십니다 OOOO O
+. O O
+
+배달하면서 OOOOO O
+담배도 OOO O
+많이 OO O
+피구요 OOO O
+흡연량은 OOOO O
+하루 OO O
+한갑정도구요 OOOOOO O
+음주는 OOO O
+거의 OO O
+안해요 OOO O
+한달에 OOO O
+한번 OO O
+있을까 OOO O
+. O O
+
+말까 OO O
+한정도 OOO O
+겨울이라 OOOO O
+조금 OO O
+몸살끼가 XXOO B-ST
+오길래 OOO O
+감기약도 XXOO B-ST
+먹었었구요 OOOOO O
+. O O
+
+그후에 OOO O
+조금 OO O
+괜찮아 OOO O
+진다싶었어요 OOOOOO O
+. O O
+
+그러더니 OOOO O
+언제부턴가 OOOOO O
+호흡이 XXO B-BD
+조금 OO O
+시원하게 OOOO O
+되지않고 OOOO O
+코가 XO B-BD
+막히고 OOO O
+콧물이 XXO B-ST
+나니까 OOO O
+입으로 XOO B-BD
+계속 OO O
+숨쉬게되꺼든요 OOOOOOO O
+콧물약 OOO O
+좀 O O
+먹다가 OOO O
+안난다싶어서 OOOOOO O
+코로 XO B-BD
+숨쉬는데 OOOO O
+아 O O
+뭐랄까 OOO O
+100 OOO O
+채워야하는 OOOOO O
+통에 OO O
+30 OO O
+50 OO O
+만 O O
+채워진다는 OOOOO O
+느낌이랄까요 OOOOOO O
+원래 OO O
+제가 OO O
+비염이 XXO B-DS
+있어서 OOO O
+입으로 XOO B-BD
+숨쉬는 OOO O
+습관이 OOO O
+있긴해요 OOOO O
+코로는 XOO B-BD
+거의 OO O
+안쉬거든요 OOOOO O
+입으로 XOO B-BD
+숨쉬면 OOO O
+숨쉬는것 OOOO O
+같은데 OOO O
+코로쉬려니 XOOOO B-ST
+. O O
+
+까 O O
+힘드네요 OOOO O
+. O O
+
+숨 O O
+참는것도 OOOO O
+40 OO O
+초 O O
+정도 OO O
+밖에 OO O
+못하고 OOO O
+그리고 OOO O
+숨쉬기 OOO O
+힘들어지는거랑 OOOOOOO O
+같이 OO O
+온게 OO O
+속쓰림이예요 XXXOOO B-ST
+제가 OO O
+매콤한 OOO O
+음식을 OOO O
+좋아하거든요 OOOOOO O
+. O O
+
+너무 OO O
+매운건 OOO O
+못먹지만 OOOO O
+즐겨 OO O
+먹는데 OOO O
+이게 OO O
+숨쉬기 OOO O
+힘들다 OOO O
+생각들때부터 OOOOOO O
+매콤한걸 OOOO O
+먹으면 OOO O
+식도가 XXO B-BD
+뜨겁고 OOO O
+쓰려요 XXX B-ST
+다른것들은 OOOOO O
+괜찮은데 OOOO O
+매운것들이 OOOOO O
+유독 OO O
+그래요 OOO O
+원래 OO O
+안그랬는데 OOOOO O
+한 O O
+일주일째 OOOO O
+지속되고 OOOO O
+있습니다 OOOO O
+. O O
+
+잦은 OO O
+트름도 XXO B-ST
+있었구요 OOOO O
+. O O
+
+잠깐 OO O
+먹는걸 OOO O
+좀 O O
+많이 OO O
+먹어요 OOO O
+. O O
+
+한번에 OOO O
+폭식으루요 OOOOO O
+이것도 OOO O
+관계있는지는 OOOOOO O
+모르겠지만 OOOOO O
+일단 OO O
+적어볼께요 OOOOO O
+. O O
+
+총정리 OOO O
+숨쉬기가 OOOO O
+개운치않고 OOOOO O
+힘들다 OOO O
+가끔 OO O
+숨이 OO O
+막힐때가 OOOO O
+있다 OO O
+숨이 OO O
+완전히 OOO O
+안쉬어져서 OOOOO O
+매운걸 OOO O
+먹을때 OOO O
+속이 OO O
+쓰리다 XXX B-ST
+부탁드립니다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+얼마전에 OOOO O
+노래를 OOO O
+부르다가 OOOO O
+고음부분에서 OOOOOO O
+갑자기 OOO O
+머리가 XXO B-BD
+죄어오는 OOOO O
+느낌을 OOO O
+받아 OO O
+멈췄는데 OOOO O
+그순간 OOO O
+기침이 XXO B-ST
+나오는겁니다 OOOOOO O
+. O O
+
+그리고 OOO O
+그순간 OOO O
+머리에서 XXOO B-BD
+종이 XX B-ST
+울리는듯한 XXXXX I-ST
+느낌있죠 XXOO I-ST
+. O O
+
+파장이 OOO O
+울리는것같은 OOOOOO O
+그런 OO O
+두근두근 XXXX B-ST
+하는 XX I-ST
+느낌이 XXO I-ST
+엄청나게 OOOO O
+느껴지면서 OOOOO O
+머리가 XXO B-BD
+깨질거 OOO O
+같은겁니다 OOOOO O
+. O O
+
+한 O O
+5 O O
+분넘게 OOO O
+아팠나 OOO O
+. O O
+
+서서히 OOO O
+통증이 XXO B-ST
+줄긴하는데 OOOOO O
+그여운이 OOOO O
+자기전까지도 OOOOOO O
+계속 OO O
+남더라고요 OOOOO O
+. O O
+
+우선 OO O
+순간적인 OOOO O
+통증인거같아서 XXOOOOO B-ST
+넘겼는데 OOOO O
+문제는 OOO O
+제가 OO O
+힘을줄때 OOOO O
+머리까지 XXOO B-BD
+제 O O
+힘이 OO O
+올라가는 OOOO O
+행동을 OOO O
+할때 OO O
+예를들어 OOOO O
+대변볼때 OOOO O
+머리까지 XXOO B-BD
+힘들어가죠 OOOOO O
+. O O
+
+그러면 OOO O
+뒤통수가 XXXO B-BD
+저번처럼 OOOO O
+아프네요 OOOO O
+. O O
+
+그리구 OOO O
+물 O O
+원샷할때도 OOOOO O
+아프려다가 OOOOO O
+마는 OO O
+느낌있죠 OOOO O
+. O O
+
+그러구요 OOOO O
+. O O
+
+이게 OO O
+원인이 OOO O
+무엇인지 OOOO O
+가장 OO O
+궁금한데요 OOOOO O
+그리고 OOO O
+시간이 OOO O
+지나면 OOO O
+괜찮아질줄알았는데 OOOOOOOOO O
+한 O O
+1 O O
+주정도 OOO O
+지났는데 OOOO O
+그러네요 OOOO O
+. O O
+
+그래서 OOO O
+어떤 OO O
+증상인지 OOOO O
+그원인을 OOOO O
+알고싶구요 OOOOO O
+. O O
+
+병원가야되는지 OOOOOOO O
+궁금합니다 OOOOO O
+. O O
+
+혹시 OO O
+어떤 OO O
+검사받아야되는지도요 OOOOOOOOOO O
+머리아픈거외엔 XXOOOOO B-BD
+특별한 OOO O
+증상은 OOO O
+없구요 OOO O
+. O O
+
+힘주거나 OOOO O
+물마실때 OOOO O
+뒤통수가 XXXO B-BD
+울리듯이 OOOO O
+깨질것처럼 OOOOO O
+아프네요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+목옆에 XOO B-BD
+왼쪽이구요 OOOOO O
+. O O
+
+혹같은 XOO B-ST
+게 O O
+두개 OO O
+세개 OO O
+정도 OO O
+만쳐집니다 OOOOO O
+. O O
+
+뭐가 OO O
+문제일까요 OOOOO O
+아프지는 OOOO O
+않아요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+갑자기 OOO O
+발음이 OOO O
+안됍니다 OOOO O
+. O O
+
+턱밑쪽이랑 XXOOO B-BD
+혀 X B-BD
+쪽이 OO O
+떙기는 XXX B-ST
+느낌을 XXO I-ST
+받구요 OOO O
+. O O
+
+발음이 OOO O
+잘 O O
+안됍니다 OOOO O
+. O O
+
+특히 OO O
+발음이 OOO O
+그런거 OOO O
+같네요 OOO O
+. O O
+
+예전엔 OOO O
+아무렇지 OOOO O
+않았는데 OOOO O
+어느순간 OOOO O
+갑자기 OOO O
+발음이 OOO O
+안돼네요 OOOO O
+. O O
+
+턱밑쪽이랑 XXOOO B-BD
+혀가 XO B-BD
+근육이 OOO O
+떙겨지는 OOOO O
+머 O O
+이상한 OOO O
+느낌이 OOO O
+매일 OO O
+납니다 OOO O
+. O O
+
+이 O O
+느낌이 OOO O
+난 O O
+후부터 OOO O
+발음이 OOO O
+잘 O O
+안돼는데요 OOOOO O
+왜그런건가요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+이명에 XXO B-DS
+시달리고 OOOO O
+있는데요 OOOO O
+특별한 OOO O
+치료법은 OOOO O
+없나요 OOO O
+. O O
+
+귀전문병원은 XOOOOO B-BD
+비싸서 OOO O
+좀 O O
+그러는데 OOOO O
+마땅한 OOO O
+치료법없을까요 OOOOOOO O
+. O O
+
+음식이라던지 OOOOOO O
+운동이라던지 OOOOOO O
+약물도좋아요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+원래 OO O
+재채기할때 OOOOO O
+침이나 XOO B-ST
+콧물이 XXO B-ST
+튀는게 OOO O
+좀 O O
+그래서 OOO O
+재채기할때마다 XXXOOOO B-ST
+코랑 XO B-BD
+입을 XO B-BD
+막고 OO O
+하거든요 OOOO O
+여태까지 OOOO O
+아무이상없었는데 OOOOOOOO O
+오늘 OO O
+딱하고나니 OOOOO O
+왼쪽 XX B-BD
+고막이 XXO I-BD
+완전팽창 OOOO O
+하는 OO O
+느낌이 OOO O
+들면서 OOO O
+순간 OO O
+고막이 XXO B-BD
+멍하더라구요 XXXXXX B-ST
+. O O
+
+그러다가 OOOO O
+침을 OO O
+삼키니까 OOOO O
+진짜 OO O
+진짜 OO O
+고막이 XXO B-BD
+너무너무 OOOO O
+아프더라구요 OOOOOO O
+. O O
+
+아까는 OOO O
+침살킬때마다 OOOOOO O
+아팟는데 OOOO O
+지금은 OOO O
+고막이 XXO B-BD
+좀 O O
+멍하고 OOO O
+가만히 OOO O
+있어도 OOO O
+욱씬욱씬 XXXX B-ST
+거리고 XXX I-ST
+고막에 XXO B-BD
+이상이 OOO O
+있는건아니겠죠 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+요즘 OO O
+코에 XO B-BD
+코딱지가 OOOO O
+계속 OO O
+생겨서 OOO O
+계속 OO O
+때어냇거든요 OOOOOO O
+오늘 OO O
+갑자기 OOO O
+그냥 OO O
+코 X B-BD
+흥햇더니 OOOO O
+피가 OO O
+엄청나와요 OOOOO O
+. O O
+
+보니깐 OOO O
+피가 OO O
+콧물에 XXO B-BD
+다 O O
+합쳐져잇구요 OOOOOO O
+. O O
+
+가레뱉을때도 OOOOOO O
+계속 OO O
+피가 OO O
+섞여서 OOO O
+나오내요 OOOO O
+. O O
+
+이거 OO O
+무슨증상인가요 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+항상 OO O
+이어폰을 OOOO O
+끼는 OO O
+습관과 OOO O
+얼마전 OOO O
+축제와 OOO O
+페스티벌로인해 OOOOOOO O
+큰소리를 OOOO O
+듣거나 OOO O
+귀에 XO B-BD
+큰 O O
+무리를 OOO O
+주는 OO O
+소리를 OOO O
+자주들었습니다 OOOOOOO O
+. O O
+
+그런데 OOO O
+2 O O
+주전부터 OOOO O
+왼쪽귀가 XXXO B-BD
+아프다고 OOOO O
+. O O
+
+는 O O
+느꼈는데 OOOO O
+갈수록 OOO O
+심해지고 OOOO O
+있습니다 OOOO O
+. O O
+
+안이 OO O
+욱신거리고 XXXXX B-ST
+찌르는 XXX B-ST
+느낌이 XXO I-ST
+계속나고 OOOO O
+음식씹을때도 OOOOOO O
+욱신거립니다 XXXXXX B-ST
+. O O
+
+그냥 OO O
+괜찮아 OOO O
+지겠지 OOO O
+하고 OO O
+했는데 OOO O
+방금전에 OOOO O
+오른쪽귀는 XXXXO B-BD
+하품하는것처럼 OOOOOOO O
+머리에 XXO B-BD
+울리는 XXX B-ST
+느낌이었는데 XXOOOO I-ST
+왼쪽귀는 XXXO B-BD
+아무런 OOO O
+반응이 OOO O
+없는겁니다 OOOOO O
+. O O
+
+왼쪽귀는 XXXO B-BD
+나사풀린거마냥 OOOOOOO O
+뻥 O O
+뚫린소리가 OOOOO O
+나고 OO O
+오른쪽에선 OOOOO O
+멍멍한소리가 XXXXXO B-ST
+나다가 OOO O
+다시 OO O
+원래대로 OOOO O
+돌아왔습니다 OOOOOO O
+. O O
+
+갈수록 OOO O
+불안해져서 XXOOO B-ST
+신경쓰입니다 OOOOOO O
+. O O
+
+병원을 OOO O
+가더라도 OOOO O
+대충 OO O
+제귀가 OOO O
+어떤상황인지 OOOOOO O
+알고싶어서 OOOOO O
+이렇게 OOO O
+글을 OO O
+써서 OO O
+올립니다 OOOO O
+. O O
+
+괜찮은거면 OOOOO O
+병원을 OOO O
+안가도 OOO O
+되는건지 OOOO O
+확인하고싶습니다 OOOOOOOO O
+. O O
+
+병원갈시간이 OOOOOO O
+없으 OO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+어머니께서 OOOOO O
+머리가 XXO B-BD
+자꾸 OO O
+아프다고 OOOO O
+. O O
+
+하셔서 OOO O
+촬영을 OOO O
+했더니 OOO O
+뇌혈관에 XXXO B-BD
+이상소견이 OOOOO O
+보인다고 OOOO O
+하여 OO O
+몇일전 OOO O
+뇌 X B-BD
+를 O O
+촬영했더니 OOOOO O
+의사 OO O
+선생님께서 OOOOO O
+뇌동맥류 XXXX B-DS
+1 O O
+8 O O
+라고 OO O
+하시더군요 OOOOO O
+. O O
+
+위치 OO O
+귀뒤쪽 XXX B-BD
+수술을 OOO O
+하려면 OOO O
+개두술을 OOOO O
+해야 OO O
+한다는데 OOOO O
+막상 OO O
+수술을 OOO O
+하려고 OOO O
+하니 OO O
+어머니께서 OOOOO O
+연세가 OOO O
+많고 OO O
+현재 OO O
+8 O O
+년전 OO O
+협심증수술후 XXXOOO B-DS
+복용중인 OOOO O
+약이 OO O
+있는데 OOO O
+협심증과 XXXO B-DS
+동맥류는 XXXO B-DS
+정반대의 OOOO O
+약을 OO O
+투약해야 OOOO O
+한다기에 OOOO O
+수술중 OOO O
+또는 OO O
+수술후 OOO O
+후유증이 OOOO O
+걱정이 OOO O
+됩니다 OOO O
+. O O
+
+어머니 OOO O
+모시고 OOO O
+병원에가면 OOOOO O
+의사선생님께서 OOOOOOO O
+어머니는 OOOO O
+기력이 OOO O
+약하시고 OOOO O
+혈액이 OOO O
+부족하다는 OOOOO O
+이야기를 OOOO O
+많이 OO O
+들었습니다 OOOOO O
+. O O
+
+과연 OO O
+수술을 OOO O
+하는것이 OOOO O
+좋을까요 OOOO O
+. O O
+
+수술후 OOO O
+일어날 OOO O
+수 O O
+있는 OO O
+합병증에는 OOOOO O
+어떤것이 OOOO O
+있을까요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+저는 OO O
+일단 OO O
+16 OO O
+살 O O
+여자이고요 OOOOO O
+. O O
+
+요즘 OO O
+몸에 OO O
+이상이 OOO O
+많이 OO O
+있는것 OOO O
+같아서 OOO O
+질문드리려고 OOOOOO O
+합니다 OOO O
+. O O
+
+근데 OO O
+그 O O
+증상이 OOO O
+갑상선기능저하증의 XXXXXXXXO B-DS
+증상과도 OOOO O
+유사해서요 OOOOO O
+1 O O
+손발이 XXO B-BD
+엄청 OO O
+차요 OO O
+괜찮다가도 OOOOO O
+정신차려보면 OOOOOO O
+진짜차가워집니다 OOOOOOOO O
+. O O
+
+뜨뜻한곳에 OOOOO O
+들어가도 OOOO O
+유지가 OOO O
+되요 OO O
+. O O
+
+그게 OO O
+2 O O
+추위를 OOO O
+잘타요 OOO O
+. O O
+
+교실에서도 OOOOO O
+애들다 OOO O
+돌아다니는데 OOOOOO O
+저는 OO O
+너무 OO O
+추워서 OOO O
+잠바에담요까지 OOOOOOO O
+쓰고히터앞에 OOOOOO O
+있습니다 OOOO O
+. O O
+
+막 O O
+소름돋는추위랄까 OOOOOOOO O
+그런게 OOO O
+느껴져요 OOOO O
+. O O
+
+3 O O
+무기력해요 XXXOO B-ST
+. O O
+
+몸에 OO O
+힘이 OO O
+많이 OO O
+없어요 OOO O
+. O O
+
+24 OO O
+시간 OO O
+그런건 OOO O
+아니고 OOO O
+막 O O
+갑자기 OOO O
+확쳐졋다가 OOOOO O
+살아나고 OOOO O
+그래요 OOO O
+무기력할태는정말 XXXOOOOO B-ST
+아무것도 OOOO O
+하기싫고 OOOO O
+짜증만 XXO B-ST
+납니다 OOO O
+. O O
+
+4 O O
+기면증같은게잇어요 XXXOOOOOO B-DS
+. O O
+
+수업시간이나 OOOOOO O
+어떤 OO O
+시간이라도 OOOOO O
+잘지내다가 OOOOO O
+어느순간홰까닥합니다 OOOOOOOOOO O
+. O O
+
+저도 OO O
+제가 OO O
+자는줄모르게 OOOOOO O
+요학업에 OOOO O
+지장이 OOO O
+많아서 OOO O
+힘듭니다 OOOO O
+. O O
+
+5 O O
+빈혈기잇어요 XXXOOO B-DS
+. O O
+
+앉앗다가 OOOO O
+일어나면 OOOO O
+앞이 OO O
+새까매지고 OOOOO O
+머리가 XXO B-BD
+띵합니다 XXXX B-ST
+. O O
+
+저번에는 OOOO O
+한번쓰러지긷 OOOOOO O
+했어요 OOO O
+. O O
+
+6 O O
+아토피있어요 XXXOOO B-DS
+. O O
+
+태어날때부터요 OOOOOOO O
+근데 OO O
+요즘들어 OOOO O
+더 O O
+심해요 OOO O
+. O O
+
+7 O O
+갑상선부분이 XXXOOO B-BD
+볼록 OO O
+튀어나왔어요 OOOOOO O
+. O O
+
+그래서 OOO O
+약 O O
+3 O O
+4 O O
+년전에 OOO O
+내과에가서 OOOOO O
+혈액검사랑 OOOOO O
+그막젤같은거 OOOOOO O
+바르고문질문질해서 OOOOOOOOO O
+화면띄우고 OOOOO O
+그런거햇는데 OOOOOO O
+괜찮다그랫거든요 OOOOOOOO O
+근데도 OOO O
+요즘 OO O
+증상이 OOO O
+있으니까 OOOO O
+겁이나요 OOOO O
+8 O O
+생리불순생리를 XXXXOOO B-ST
+일찍시작해서 OOOOOO O
+불규칙한거라 OOOOOO O
+. O O
+
+생긱이들었는디 OOOOOOO O
+거의 OO O
+5 O O
+년가까이 OOOO O
+제대로된주기를 OOOOOOO O
+찾지못하는건 OOOOOO O
+문제가잇는것 OOOOOO O
+같아서요 OOOO O
+중간에 OOO O
+약 O O
+1 O O
+년정도는유지가 OOOOOOO O
+어느정도됏어요 OOOOOOO O
+일단몇달전에 OOOOOO O
+생리가 OOO O
+끊기고까만덩어리랑흔적이뭍기만해서 OOOOOOOOOOOOOOOOO O
+한약지어먹어서 OOOOOOO O
+생리를 OOO O
+하긴했는데 OOOOO O
+지금은 OOO O
+끊었구요 OOOO O
+. O O
+
+이번달에는 OOOOO O
+생리를 OOO O
+2 O O
+번했고요 OOOO O
+. O O
+
+그생리모두그냥 OOOOOOO O
+까만피였습니다 OOOOOOO O
+. O O
+
+양도 OO O
+적어요 OOO O
+. O O
+
+하루에 OOO O
+2 O O
+번정도 OOO O
+갈면될정도에요 OOOOOOO O
+스트레스에요 XXXXXO B-ST
+9 O O
+몸무게는 OOOO O
+딱히변화없어요 OOOOOOO O
+. O O
+
+다른거는 OOOO O
+잘생각이 OOOO O
+안나고요 OOOO O
+. O O
+
+그냥 OO O
+요즘전체적으로 OOOOOOO O
+몸의컨디션이 OOOOOO O
+많이 OO O
+낮아졌다는게 OOOOOO O
+느껴져요 OOOO O
+. O O
+
+그리고 OOO O
+보니까 OOO O
+갑상선기능저하증의 XXXXXXXXO B-DS
+증세와 OOO O
+거의 OO O
+대부분유사해서요판단 OOOOOOOOOO O
+부탁드립니다 OOOOOO O
+감사합니다 OOOOO O
+. O O
+
+그리구대학병원에서 OOOOOOOOO O
+검사받는게 OOOOO O
+나을까요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+요추 XX B-BD
+5 O O
+번 O O
+천추 XX B-BD
+1 O O
+번 O O
+디스크가 OOOO O
+거의 OO O
+다 O O
+터져서 OOO O
+응급으로 OOOO O
+수술한후 OOOO O
+오른쪽 XXX B-BD
+엉덩이 XXX I-BD
+허벅지 XXX B-BD
+종아리 XXX B-BD
+발목 XX B-BD
+발가락 XXX B-BD
+4 O O
+5 O O
+번째 OO O
+감각이상과 XXXXO B-ST
+저리기도 XXXO B-ST
+하고 OO O
+당기기도하고 XXXOOO B-ST
+까치발을 OOOO O
+못합니다 OOOO O
+. O O
+
+종아리쪽은 XXXOO B-BD
+눈에 OO O
+띄게 OO O
+근력약화로 XXXXO B-ST
+가늘어졌고 OOOOO O
+발도 XO B-BD
+살이 OO O
+많이 OO O
+빠져서 OOO O
+아픕니다 OOOO O
+. O O
+
+척추전문병원 XXXXXX B-DS
+한방병원 XXXX B-DS
+대학병원등 OOOOO O
+돌아다녀도 OOOOO O
+답이 OO O
+없기에 OOO O
+답답한 OOO O
+마음에 OOO O
+글을 OO O
+올립니다 OOOO O
+. O O
+
+지금 OO O
+현재 OO O
+걷기운동과 OOOOO O
+물리치료 OOOO O
+집에서 OOO O
+허리근력운동을 XXOOOOO B-BD
+꾸준히 OOO O
+하고있습니다 OOOOOO O
+. O O
+
+그럼에도 OOOO O
+불구하고 OOOO O
+근력이 OOO O
+붙기는 OOO O
+커녕 OO O
+계속 OO O
+약화됩니다 OOOOO O
+. O O
+
+수술한 OOO O
+대학병원에서는 OOOOOOO O
+신경이 OOO O
+너무 OO O
+많이 OO O
+눌려서 OOO O
+다안돌아올수도 OOOOOOO O
+있다고만 OOOO O
+하더군요 OOOO O
+. O O
+
+수술한지 OOOO O
+일년이 OOO O
+지났는데 OOOO O
+통증도 XXO B-ST
+계속 OO O
+있어서 OOO O
+괴롭습니다 OOOOO O
+. O O
+
+다시 OO O
+검사를 OOO O
+해보고싶기도한데 OOOOOOOO O
+솔직히 OOO O
+어느병원 OOOO O
+어느과로 OOOO O
+가야할지도 OOOOO O
+모르겠어요 OOOOO O
+. O O
+
+좋은 OO O
+답변 OO O
+부탁드립니다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+갑상선 XXX B-BD
+약을 OO O
+복용하고 OOOO O
+있는데 OOO O
+탈모가 XXO B-DS
+있어 OO O
+탈모약도 OOOO O
+복용을 OOO O
+하고 OO O
+싶은데 OOO O
+같이 OO O
+먹어도 OOO O
+되나요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+그저께 OOO O
+밤부터 OOO O
+지금까지 OOOO O
+몇분 OO O
+때로는 OOO O
+몇초 OO O
+간격으로 OOOO O
+오른쪽 OOO O
+뒷머리에 XXXO B-BD
+심한 OO O
+통증이 XXO B-ST
+옵니다 OOO O
+. O O
+
+망치로 OOO O
+얻어맞는 OOOO O
+느낌같기도하고 OOOOOOO O
+전기충격을 OOOOO O
+받는 OO O
+느낌이기도 OOOOO O
+한데 OO O
+단순한 OOO O
+두통인줄 XXOO B-ST
+알고 OO O
+나뒀다가 OOOO O
+타이레놀도 OOOOO O
+먹어봤는데 OOOOO O
+일상생활이 OOOOO O
+불가능할 OOOO O
+정도로 OOO O
+고통이 XXO B-ST
+점점 OO O
+심해집니다 OOOOO O
+. O O
+
+악 O O
+소리가 OOO O
+절로 OO O
+나올만큼 OOOO O
+고통스럽습니다 XXXXXXX B-ST
+. O O
+
+어떻게 OOO O
+해야할까요 OOOOO O
+한번도 OOO O
+느껴본 OOO O
+적 O O
+없는 OO O
+통증입니다 XXOOO B-ST
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+중 O O
+1 O O
+여학생인데요 OOOOOO O
+목소리가 OOOO O
+낮아서 OOO O
+전화할때는 OOOOO O
+목소리밖에 OOOOO O
+안들리니까 OOOOO O
+남자같다는 OOOOO O
+소리도 OOO O
+엄청듣고요 OOOOO O
+. O O
+
+노래방가면 OOOOO O
+높은음을 OOOO O
+진짜 OO O
+못불러가지고 OOOOOO O
+음치라는 OOOO O
+소리도 OOO O
+듣는데 OOO O
+낮은거부르면 OOOOOO O
+낮은거부르니까 OOOOOOO O
+잘부르는거같은데 OOOOOOOO O
+이런소리 OOOO O
+들어요 OOO O
+. O O
+
+근데 OO O
+애들이 OOO O
+같이 OO O
+부르는노래 OOOOO O
+다 O O
+높으니까 OOOO O
+결국 OO O
+못부르는애 OOOOO O
+되구요 OOO O
+. O O
+
+목소리 OOO O
+낮은거 OOO O
+진짜 OO O
+스트레스에요 XXXXOO B-ST
+물많이 OOO O
+마셔라 OOO O
+노래많이불러라 OOOOOOO O
+. O O
+
+이런거 OOO O
+다해봤는데 OOOOO O
+다 O O
+안돼요 OOO O
+. O O
+
+제가 OO O
+목소리높게해보려했는데 OOOOOOOOOOO O
+높은거말고 OOOOO O
+그냥 OO O
+음이탈소리밖에 OOOOOOO O
+안되고요 OOOO O
+. O O
+
+어떻게 OOO O
+해야 OO O
+자연스럽게 OOOOO O
+높은목소리가 OOOOOO O
+날까요 OOO O
+제발 OO O
+알려주세요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+******질문이 OOOOOOOOO O
+없음 OO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+얼마전 OOO O
+아침에 OOO O
+지하철을 OOOO O
+타고 OO O
+가다가 OOO O
+잠깐 OO O
+1 O O
+분정도 OOO O
+기절했었는데 XXOOOO B-ST
+이유가 OOO O
+뭘까요 OOO O
+평소 OO O
+아침은 OOO O
+안먹고 OOO O
+그날도 OOO O
+물몇모금말고는 OOOOOOO O
+먹은게 OOO O
+없습니다 OOOO O
+. O O
+
+전날 OO O
+생리가 OOO O
+시작했고 OOOO O
+저혈압은 XXXO B-DS
+아니지만 OOOO O
+혈압이 OOO O
+조금 OO O
+낮습니다 OOOO O
+. O O
+
+100 OOO O
+에 O O
+60 OO O
+70 OO O
+정도 OO O
+기절하기 XXOO B-ST
+전에 OO O
+윗배 OO O
+중앙부분이 OOOOO O
+꽉 O O
+막힌듯하다가 OOOOOO O
+숨쉬기 OOO O
+어려워지고 OOOOO O
+어지럽고 OOOO O
+약간의 OOO O
+구토감과 XXXO B-ST
+식은땀이 XXXO B-ST
+많이 OO O
+났습니다 OOOO O
+. O O
+
+완전히 OOO O
+기절한건 XXOO B-ST
+아닌듯하고 OOOOO O
+서있긴했는데 OOOOOO O
+몸에 OO O
+힘이 OO O
+풀려서 OOO O
+들고 OO O
+있던 OO O
+짐을 OO O
+다 O O
+놓칠정도였고 OOOOOO O
+기절한 XXO B-ST
+동안 OO O
+기억이 OOO O
+없습니다 OOOO O
+. O O
+
+십분정도 OOOO O
+힘이 OO O
+없었지만 OOOO O
+걸을수는 OOOO O
+있었고 OOO O
+그뒤로 OOO O
+일상생활을 OOOOO O
+평소처럼 OOOO O
+하고 OO O
+있습니다 OOOO O
+. O O
+
+현재도 OOO O
+약간의 OOO O
+체끼는 XXO B-ST
+있긴한데 OOOO O
+혹시 OO O
+급체로 OOO O
+기절했던건가요 XXOOOOO B-ST
+. O O
+
+참고로 OOO O
+여자입니다 OOOOO O
+. O O
+
+정보가 OOO O
+남자로 OOO O
+잘못나와서 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+저기 OO O
+제가 OO O
+오늘 OO O
+아침에 OOO O
+일어났는데 OOOOO O
+귀밑쪽이 XXOO B-BD
+아프네요 OOOO O
+. O O
+
+이건 OO O
+무슨 OO O
+증상인가요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+한 O O
+달 O O
+두 O O
+달 O O
+전부터 OOO O
+이명이 XXO B-DS
+들리는 OOO O
+것 O O
+같습니다 OOOO O
+. O O
+
+찾아보니 OOOO O
+엄청 OO O
+고생하는 OOOO O
+사람들도 OOOO O
+있고 OO O
+완치보다 OOOO O
+관리로 OOO O
+생각하고 OOOO O
+이명에 XXO B-DS
+집중하지 OOOO O
+말라는 OOO O
+조언도 OOO O
+읽었습니다 OOOOO O
+. O O
+
+저는 OO O
+고통스러운 OOOOO O
+정도는 OOO O
+아니고 OOO O
+이틀에 OOO O
+한 O O
+번 O O
+정도씩 OOO O
+짧게는 OOO O
+삼 O O
+십초 OO O
+길게는 OOO O
+이분 OO O
+정도씩 OOO O
+들리는 OOO O
+것 O O
+같습니다 OOOO O
+. O O
+
+최근에는 OOOO O
+하루에 OOO O
+한 O O
+번씩 OO O
+그런 OO O
+것 O O
+같습니다 OOOO O
+. O O
+
+라디오 OOO O
+주파수 OOO O
+소리같기도 OOOOO O
+하고 OO O
+고정된 OOO O
+한 O O
+음이 OO O
+계속 OO O
+들립니다 OOOO O
+. O O
+
+그런 OO O
+순간은 OOO O
+온 O O
+몸이 OO O
+긴장하고 OOOO O
+스트레스를 XXXXO B-ST
+받을 OO O
+때였음을 OOOO O
+이명을 XXO B-DS
+듣고 OO O
+깨닫게 OOO O
+됩니다 OOO O
+. O O
+
+제가 OO O
+생각이 OOO O
+많고 OO O
+걱정을 OOO O
+좀 O O
+하는 OO O
+편이라서요 OOOOO O
+그럴 OO O
+때는 OO O
+몸을 OO O
+이완시켜 OOOO O
+주고 OO O
+손도 XO B-BD
+털어주고 OOOO O
+하며 OO O
+평안함을 OOOO O
+찾으려고 OOOO O
+노력합니다 OOOOO O
+. O O
+
+이것이 OOO O
+이명이 XXO B-DS
+맞는지 OOO O
+꼭 O O
+병원에 OOO O
+가서 OO O
+이상이 OOO O
+없는지 OOO O
+확인을 OOO O
+해야 OO O
+하는지 OOO O
+답해 OO O
+주시면 OOO O
+좋을 OO O
+것 O O
+같습니다 OOOO O
+. O O
+
+이명의 XXO B-DS
+관리 OO O
+차원은 OOO O
+어떻게 OOO O
+하면 OO O
+되는지도 OOOO O
+알려 OO O
+주시면 OOO O
+감사하겠습니다 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+머리가 XXO B-BD
+어지러워요 OOOOO O
+. O O
+
+그젓게 OOO O
+훠사에서 OOOO O
+일하는데 OOOO O
+스트레스를 XXXXO B-ST
+많이 OO O
+받습니다 OOOO O
+. O O
+
+일하는도중레 OOOOOO O
+고개를 OOO O
+돌렷는데 OOOO O
+순간 OO O
+어지럼증과 XXXXO B-ST
+몸이 OO O
+비틀거리는겁니다 OOOOOOOO O
+. O O
+
+2 O O
+초간 OO O
+순간 OO O
+기절하는 OOOO O
+느낌 OO O
+뇌종양 XXX B-DS
+아닐까 OOO O
+깊어서 OOO O
+겁이나기도하고 OOOOOOO O
+그이루로 OOOO O
+살짝 OO O
+어지러움도 XXXXO B-ST
+있고 OO O
+안그래도 OOOO O
+요근래에 OOOO O
+너무 OO O
+스트레스도 XXXXO B-ST
+받고 OO O
+당뇨도 XXO B-DS
+있고 OO O
+목디스크도 XXXXO B-DS
+심합니다 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+저는 OO O
+중 O O
+3 O O
+학생인데요 OOOOO O
+다름이 OOO O
+아니라 OOO O
+어머니깨서 OOOOO O
+투석을 OOO O
+할정도로 OOOO O
+신장이 XXO B-BD
+많이 OO O
+악화가 OOO O
+되셧거든요 OOOOO O
+. O O
+
+그래서 OOO O
+투석을 OOO O
+해야할거같은데 OOOOOOO O
+아는분이 OOOO O
+투석보다는 OOOOO O
+생식을 OOO O
+하는게 OOO O
+어떻겠냐며 OOOOO O
+자기도 OOO O
+그것을 OOO O
+먹구 OO O
+당뇨를 XXO B-DS
+낳았다고 OOOO O
+. O O
+
+하더라고요 OOOOO O
+. O O
+
+그러면서 OOOO O
+권해주신 OOOO O
+효소가 OOO O
+노봉수교수의 OOOOOO O
+하루참효소라는 OOOOOOO O
+효소거든요 OOOOO O
+과연 OO O
+효소를먹으며 OOOOOO O
+건간관리를 OOOOO O
+하는게 OOO O
+나은지 OOO O
+아님 OO O
+투석을 OOO O
+해야 OO O
+하는지 OOO O
+알려주세요 OOOOO O
+. O O
+
+그리고 OOO O
+혹시 OO O
+투석중에 OOOO O
+생식이나 OOOO O
+이효소를먹을수있는지도 OOOOOOOOOOO O
+알려주시면 OOOOO O
+좋겠습니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+왼쪽 XX B-BD
+눈밑이 XXO I-BD
+떨리기는 OOOO O
+한 O O
+10 OO O
+년정도 OOO O
+넘은거 OOO O
+같아요 OOO O
+. O O
+
+내 O O
+의지와는 OOOO O
+상관없이 OOOO O
+떨리기 OOO O
+시작하더니 OOOOO O
+대인 OO O
+기피마저 OOOO O
+들정도로 OOOO O
+심하게 OOO O
+느껴져서 OOOO O
+인터넷을 OOOO O
+검색하여 OOOO O
+그쪽 OO O
+권위자라고 OOOOO O
+하는 OO O
+연세세브란스 OOOOOO O
+병원 OO O
+신경외과교수님께 OOOOOOOO O
+특진비까지 OOOOO O
+내가며 OOO O
+진료를 OOO O
+받았지만 OOOO O
+전문적인 OOOO O
+검사는 OOO O
+하지 OO O
+안고 OO O
+약을 OO O
+복용하라고 OOOOO O
+처방전을 OOOO O
+내려주신 OOOO O
+약들이 OOO O
+아로나민씨와 OOOOOO O
+은행추출물 OOOOO O
+뇌혈관쪽 XXXO B-BD
+혈액순환 OOOO O
+잘되는 OOO O
+알약과 OOO O
+마그네슘이였어요 OOOOOOOO O
+. O O
+
+몇달 OO O
+동안 OO O
+먹어도 OOO O
+나아지지 OOOO O
+안아 OO O
+몇차례더 OOOO O
+진료를 OOO O
+받았고 OOO O
+할수있는 OOOO O
+치료는 OOO O
+귀뒤쪽 XXX B-BD
+두뇌골을 XXXO I-BD
+잘라 OO O
+그쪽에 OOO O
+신경을 OOO O
+뭐 O O
+어떻게 OOO O
+하는 OO O
+수술이 OOO O
+있는데 OOO O
+그런 OO O
+수술을 OOO O
+할정도로 OOOO O
+심각하지 OOOO O
+안다 OO O
+스트레스등 XXXXO B-ST
+여러 OO O
+이유가 OOO O
+있을수 OOO O
+있으니 OOO O
+꾸준하게 OOOO O
+전에 OO O
+처방해준 OOOO O
+약들을 OOO O
+먹으라고 OOOO O
+하셨고 OOO O
+지금은 OOO O
+10 OO O
+년의 OO O
+세월이 OOO O
+흘렀습니다 OOOOO O
+. O O
+
+그런데 OOO O
+눈밑떨림이 XXXXO B-ST
+있고 OO O
+계속 OO O
+방치를 OOO O
+하였더니 OOOO O
+눈밑떨림이 XXXXO B-ST
+있을시 OOO O
+입술도 XXO B-BD
+실룩실룩 XXXX B-ST
+몇년전부터 OOOOO O
+그러기 OOO O
+시작하더니 OOOOO O
+웃을때 OOO O
+입꼬리도 XXXO B-BD
+왼쪽은 OOO O
+잘 O O
+올라가지 OOOO O
+안아 OO O
+웃을때 OOO O
+입이 XO B-BD
+삐뚫어져요 OOOOO O
+. O O
+
+몇주전 OOO O
+부터는 OOO O
+왼쪽 XX B-BD
+눈꺼풀 XXX I-BD
+뜨는 OO O
+힘도 OO O
+약해졌는지 OOOOO O
+오른쪽과 OOOO O
+차이가 OOO O
+있어요 OOO O
+. O O
+
+왼쪽얼굴 XXXX B-BD
+신경들이 OOOO O
+제 O O
+의지와는 OOOO O
+상관없이 OOOO O
+움직이고 OOOO O
+약해지고 OOOO O
+점점 OO O
+더 O O
+사람들 OOO O
+대할때 OOO O
+얼굴을 XXO B-BD
+마주볼수가 OOOOO O
+웃을수가 OOOO O
+없습니다 OOOO O
+. O O
+
+미소지으려고 OOOOOO O
+하면 OO O
+왼쪽 XX B-DS
+얼굴 XX I-DS
+경련이 XXO I-DS
+더 O O
+심해지고 OOOO O
+병원에 OOO O
+가려면 OOO O
+어느과로 OOOO O
+가서 OO O
+무슨 OO O
+검사들을 OOOO O
+받아야 OOO O
+하는걸까요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+운동하다가 OOOOO O
+가끔 OO O
+빈혈처럼 XXOO B-DS
+눈앞이 OOO O
+하얘지고 OOOO O
+귀가 XO B-BD
+먹먹하고 XXXX B-ST
+어지럽고 XXXX B-ST
+메스꺼운 XXXX B-ST
+증상이 OOO O
+보이는데 OOOO O
+무슨 OO O
+질환인가요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+메르스 XXX B-DS
+첫환자 OOO O
+터지기 OOO O
+전에 OO O
+감기 XX B-ST
+같이 OO O
+걸렸었는데 OOOOO O
+열은 XO B-ST
+없었구요 OOOO O
+. O O
+
+그때부터 OOOO O
+시작해서 OOOO O
+기침을 XXO B-ST
+엄청나게 OOOO O
+해댔습니다 OOOOO O
+. O O
+
+병원은 OOO O
+가지않고 OOOO O
+버텨냈고요 OOOOO O
+. O O
+
+그때는 OOO O
+기침하면 XXOO B-ST
+숨쉬기 OOO O
+불편하고 OOOO O
+그런건 OOO O
+없었죠 OOO O
+. O O
+
+최근 OO O
+1 O O
+주일동안은 OOOOO O
+기침이 XXO B-ST
+나기 OO O
+시작하면 OOOO O
+목구멍이 XXXO B-BD
+좁아지는 XXXX B-ST
+느낌이 XXO I-ST
+들고 OO O
+숨이 OO O
+쉬어지지 OOOO O
+않습니다 OOOO O
+. O O
+
+기침하면서 XXOOO B-ST
+숨을 OO O
+토해내듯이 OOOOO O
+하고 OO O
+숨을 OO O
+마시려고 OOOO O
+하면 OO O
+마시는게 OOOO O
+안되더라고요 OOOOOO O
+. O O
+
+기침을 XXO B-ST
+하기 OO O
+싫은데 OOO O
+갑자기 OOO O
+나오니까 OOOO O
+어찌할수도 OOOOO O
+없고 OO O
+하면 OO O
+정말 OO O
+괴롭습니다 OOOOO O
+. O O
+
+고 O O
+3 O O
+이라 OO O
+시간도 OOO O
+잘 O O
+안나서 OOO O
+그러는데 OOOO O
+혹시 OO O
+심각한건가요 OOOOOO O
+. O O
+
+병원을 OOO O
+가봐야 OOO O
+할정도일까요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+중학교때처음 OOOOOO O
+간질시작해서 XXOOOO B-ST
+2 O O
+3 O O
+년먹었어요 OOOOO O
+. O O
+
+약을 OO O
+끊고 OO O
+괜찮다가 OOOO O
+스무살정도에 OOOOOO O
+다시 OO O
+발작하여 XXOO B-DS
+약을 OO O
+다시 OO O
+먹었어요 OOOO O
+. O O
+
+또 O O
+2 O O
+3 O O
+년먹다가 OOOO O
+괜찮아서 OOOO O
+다시 OO O
+끊고 OO O
+일년에 OOO O
+한두번 OOO O
+발작은 XXO B-DS
+있었지만 OOOO O
+나름대로의 OOOOO O
+이유가 OOO O
+있을거라 OOOO O
+. O O
+
+생각하고 OOOO O
+병원에는 OOOO O
+가지않았어요 OOOOOO O
+. O O
+
+과음하고 OOOO O
+늦게자고 OOOO O
+그러면 OOO O
+발작있더라 XXOOO B-DS
+. O O
+
+구요 OO O
+발작하지 OOOO O
+않더라도 OOOO O
+약간의 OOO O
+증상들이 OOOO O
+있으면 OOO O
+차에서 OOO O
+쉬고 OO O
+그럼 OO O
+괜찮아지고 OOOOO O
+그래서 OOO O
+그냥 OO O
+버텼는데 OOOO O
+요즘은 OOO O
+술도 OO O
+안먹고 OOO O
+잠도 OO O
+푹자고 OOO O
+잘쉬고있는데 OOOOOO O
+신경쓰는게 OOOOO O
+많아서 OOO O
+그런지 OOO O
+가끔씩 OOO O
+손이나 XOO B-BD
+입 X B-BD
+한번씩 OOO O
+약한 OO O
+경련이 XXO B-ST
+있어요 OOO O
+. O O
+
+심한 OO O
+간질은 XXO B-ST
+아니라고 OOOO O
+혼자판단되어 OOOOOO O
+간질에 XXO B-ST
+좋지않은것들은 OOOOOOO O
+하지않으면서 OOOOOO O
+약을 OO O
+먹기는 OOO O
+이르다는 OOOO O
+생각에 OOO O
+버티고있는데 OOOOOO O
+이렇게 OOO O
+약한 OO O
+경련들이 XXOO B-ST
+있으면 OOO O
+기분상불안해지곤하거든요 OOOOOOOOOOOO O
+궁금한점은 OOOOO O
+쓰러지는 OOOO O
+전체 OO O
+경련없이 XXOO B-ST
+그냥 OO O
+한번 OO O
+손떨림 XXX B-ST
+몸의 OO O
+부분떨림 XXXX B-ST
+이런게 OOO O
+있어도 OOO O
+약을 OO O
+먹어야할까요 OOOOOO O
+. O O
+
+그냥 OO O
+이상태로 OOOO O
+큰 O O
+간질발작이 XXXXO B-DS
+없다면 OOO O
+거품을 OOO O
+물고 OO O
+쓰러지는 OOOO O
+정신을 OOO O
+잃는 OO O
+발작이 XXO B-DS
+없다면 OOO O
+이정도의 OOOO O
+약간 OO O
+경련은 XXO B-ST
+그냥 OO O
+약없이 OOO O
+버티는데까지 OOOOOO O
+버티고싶거든요 OOOOOOO O
+간질환자로서 XXOOOO B-ST
+더 O O
+악화될수있을까요 OOOOOOOO O
+. O O
+
+간질환자분들 XXOOOO B-ST
+다들 OO O
+정도가 OOO O
+심하고 OOO O
+약하고 OOO O
+차이가 OOO O
+있을꺼에요 OOOOO O
+저도 OO O
+간질환자중 XXOOO B-ST
+한명으로서 OOOOO O
+정말 OO O
+건강하고싶고 OOOOOO O
+답답하고 OOOO O
+억울할때도 OOOOO O
+많아요 OOO O
+. O O
+
+하지만 OOO O
+힘들내셔서 OOOOO O
+긍정적으로 OOOOO O
+생각하는것 OOOOO O
+자체도 OOO O
+힘들지만 OOOO O
+그래도 OOO O
+어떻합니다 OOOOO O
+. O O
+
+한번이렇게 OOOOO O
+됐잖아요 OOOO O
+. O O
+
+주어진 OOO O
+여건안에서 OOOOO O
+우리모두최선을 OOOOOOO O
+다합시다 OOOO O
+. O O
+
+화이팅합시다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+일년 OO O
+전부터 OOO O
+발과 XO B-BD
+다리의 XXO B-BD
+감각 XX B-ST
+둔마와 XXO I-ST
+밤이되면 OOOO O
+심해지는 OOOO O
+통증과 XXO B-ST
+저림 XX B-ST
+증상이 OOO O
+나타났는데요 OOOOOO O
+올해부터는 OOOOO O
+같은 OO O
+증상이 OOO O
+팔과 XO B-BD
+손으로도 XOOO B-BD
+나타나더군요 OOOOOO O
+. O O
+
+신경과에 OOOO O
+가서 OO O
+신경전도검사를 OOOOOOO O
+했는데 OOO O
+말초신경 OOOO O
+기능은 OOO O
+정상이라네요 OOOOOO O
+. O O
+
+저는 OO O
+감각도 OOO O
+둔하고 OOO O
+찌르고 OOO O
+무언가로 OOOO O
+때리는 OOO O
+듯한 OO O
+통증과 XXO B-ST
+저린 XX B-ST
+증상이 XXO I-ST
+있는데 OOO O
+검사 OO O
+결과는 OOO O
+정상으로 OOOO O
+나오고 OOO O
+이거 OO O
+어떻게 OOO O
+해야하나요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+3 O O
+일전 OO O
+갑자기 OOO O
+어지럽더니 OOOOO O
+구토하고 XXOO B-ST
+식은땀나고 XXXOO B-ST
+어지럽고 XXXX B-ST
+퇴근하고 OOOO O
+차타고 OOO O
+가다가 OOO O
+또 O O
+어지러워서 OOOOO O
+비상등키고 OOOOO O
+천천히 OOO O
+겨우도착했네요 OOOOOOO O
+. O O
+
+자고나면 OOOO O
+갠찮겟지했는데 OOOOOOO O
+아직도 OOO O
+멍하고 XXX B-ST
+술취한느낌에 OOOOOO O
+머리가 XXO B-BD
+맑지않는 OOOO O
+느낌이 OOO O
+드네요 OOO O
+. O O
+
+이비인후과에선 OOOOOOO O
+귀에 XO B-BD
+이상이 OOO O
+없다는데 OOOO O
+갑자기 OOO O
+어지러운 OOOO O
+이유가 OOO O
+뭐죠 OO O
+답답해미치겠네요 OOOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+말 O O
+그대로 OOO O
+제가 OO O
+한 O O
+1 O O
+기간 OO O
+30 OO O
+분 O O
+동안 OO O
+휴대폰으로 OOOOO O
+게임하다가 OOOOO O
+밥묵을라고 OOOOO O
+. O O
+
+일어나서 OOOO O
+기지개 OOO O
+펴는데 OOO O
+잠깐 OO O
+어지럽더니 OOOOO O
+이상한 OOO O
+정신이 OOO O
+들더라구요 OOOOO O
+. O O
+
+뭔가 OO O
+처음 OO O
+보는 OO O
+그런 OO O
+형태로 OOO O
+신기하게 OOOO O
+됬었는데 OOOO O
+그런정신이 OOOOO O
+들었어요 OOOO O
+. O O
+
+그리고 OOO O
+발이 XO B-BD
+저릿저릿하는 XXXXXX B-ST
+기분이 OOO O
+들었고요 OOOO O
+. O O
+
+정신 OO O
+차리고 OOO O
+보니 OO O
+제가 OO O
+앉아있었어요 OOOOOO O
+. O O
+
+기지개 OOO O
+펴다가 OOO O
+쓰러진 OOO O
+것 O O
+같은데 OOO O
+이거 OO O
+혹시 OO O
+병같은건 OOOO O
+아니겠죠 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+오늘 OO O
+내과가서 OOOO O
+항생제 OOO O
+받을려구하는데 OOOOOOO O
+항생제만 OOOO O
+먹으면 OOO O
+진물과 XXO B-ST
+가려움이 XXXO B-ST
+사라지나요 OOOOO O
+갑자기 OOO O
+잘지내다가 OOOOO O
+가려워서 XXXX B-ST
+긁기시작했는데 OOOOOOO O
+진물이 XXO B-ST
+나오고 OOO O
+아픕니다 OOOO O
+. O O
+
+답변 OO O
+부탁합니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+평상시때는 OOOOO O
+괜찮다가 OOOO O
+간혹 OO O
+잠들기 OOO O
+전에 OO O
+눈만 XO B-BD
+감으면 OOO O
+머리가 XXO B-BD
+엄청 OO O
+울리고 OOO O
+아프라고요 OOOOO O
+몸도 OO O
+안움직이구요 OOOOOO O
+. O O
+
+막 O O
+몸에 OO O
+힘주고 OOO O
+한번에 OOO O
+움직이면 OOOO O
+움직여지구요 OOOOOO O
+정말 OO O
+심각합니다 OOOOO O
+. O O
+
+병원에 OOO O
+가봐야할까여 OOOOOO O
+모든 OO O
+내공 OO O
+겁니다 OOO O
+. O O
+
+증상은 OOO O
+머리가 XXO B-BD
+웅웅 XX B-ST
+거리고 OOO O
+머리에 XXO B-BD
+파동이 OOO O
+있듯이 OOO O
+강약 OO O
+강약 OO O
+이런식으로 OOOOO O
+쪼개질듯 OOOO O
+웅웅거립니다 XXXXXX B-ST
+. O O
+
+빠른 OO O
+답변과 OOO O
+정확한 OOO O
+답을 OO O
+찾고 OO O
+싶어요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+최근 OO O
+일주일 OOO O
+넘도록 OOO O
+두통이 XXO B-ST
+지속되고 OOOO O
+있습니다 OOOO O
+. O O
+
+아침에 OOO O
+일어났을때부터 OOOOOOO O
+지끈거리며 OOOOO O
+머리 XX B-BD
+전체가 OOO O
+아픈 OO O
+느낌을 OOO O
+받습니다 OOOO O
+. O O
+
+자세를 OOO O
+바꾸거나 OOOO O
+기침 XX B-ST
+재채기를 XXXO B-ST
+할 O O
+때에는 OOO O
+두통이 XXO B-ST
+더 O O
+심해집니다 OOOOO O
+. O O
+
+통증이 XXO B-ST
+심한 OO O
+경우에는 OOOO O
+마치 OO O
+혈액이 OOO O
+펌핑되는 OOOO O
+그런 OO O
+느낌으로 OOOO O
+어 O O
+두근 XX B-ST
+두근을 XXO I-ST
+지끈 XX B-ST
+지끈으로 XXOO I-ST
+바꾸면 OOO O
+될 O O
+것 O O
+같습니다 OOOO O
+. O O
+
+만 O O
+정확한 OOO O
+설명이 OOO O
+되지는 OOO O
+않는 OO O
+것 O O
+같습니다 OOOO O
+타이레놀을 OOOOO O
+두통이 XXO B-ST
+심할 OO O
+경우 OO O
+하루 OO O
+두번정도 OOOO O
+복용합니다 OOOOO O
+. O O
+
+약을 OO O
+복용하면 OOOO O
+견딜만 OOO O
+하지만 OOO O
+두통이 XXO B-ST
+사라지는 OOOO O
+것은 OO O
+아닙니다 OOOO O
+. O O
+
+어떻게 OOO O
+하면 OO O
+좋을까요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+중학교 OOO O
+2 O O
+학년인 OOO O
+학생인데요 OOOOO O
+오늘 OO O
+점심쯔음 OOOO O
+부터 OO O
+두통이 XXO B-ST
+지속되고 OOOO O
+있습니다 OOOO O
+. O O
+
+두통 XX B-ST
+원인은 OOO O
+학교 OO O
+에어컨에서 OOOOO O
+온갖 OO O
+먼지들이 OOOO O
+섞인 OO O
+냄새 OO O
+때문이라고 OOOOO O
+두통약없이 OOOOO O
+집에가면 OOOO O
+자연스레 OOOO O
+괜찮아질거라고 OOOOOOO O
+보건선생님이 OOOOOO O
+그러셨는데 OOOOO O
+도저히 OOO O
+참을수가 OOOO O
+없어서 OOO O
+수업시간에 OOOOO O
+양해를 OOO O
+구하고 OOO O
+잠을 OO O
+잤는데 OOO O
+계속 OO O
+진동하는 OOOO O
+에어컨 OOO O
+냄새에 OOO O
+선풍기까지 OOOOO O
+돌아가니 OOOO O
+춥기까지 OOOO O
+하더군요 OOOO O
+. O O
+
+끝나고 OOO O
+집에와서 OOOO O
+4 O O
+시부터 OOO O
+약 O O
+2 O O
+시간동안 OOOO O
+잠을 OO O
+잤는데 OOO O
+나아질 OOO O
+기미가 OOO O
+안보입니다 OOOOO O
+. O O
+
+지금 OO O
+느낌상으로는 OOOOOO O
+심장박동따라 OOOOOO O
+머리가 XXO B-BD
+계속 OO O
+지끈지끈거립니다 XXXXOOOO B-ST
+. O O
+
+어떻게 OOO O
+해결해야할까요 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+현기증이랑 XXXOO B-ST
+다른 OO O
+거 O O
+같아서 OOO O
+물어봐요 OOOO O
+. O O
+
+서있었는데 OOOOO O
+갑자기 OOO O
+가슴이 XXO B-BD
+답답해지면서 XXXXXX B-ST
+숨도 OO O
+못쉬겠고 OOOO O
+삐소리가 OOOO O
+엄청 OO O
+심하게 OOO O
+났었어요 OOOO O
+. O O
+
+온몸이 XXO B-BD
+다 O O
+차가워지고 OOOOO O
+그 O O
+상태로 OOO O
+움직이니까 OOOOO O
+앞에 OO O
+시야가 OOO O
+검애지고 OOOO O
+다리에 XXO B-BD
+힘이 OO O
+풀리면서 OOOO O
+그대로 OOO O
+주저앉았는데 OOOOOO O
+몸은 OO O
+계속 OO O
+차갑고 OOO O
+땀이 OO O
+계속 OO O
+났었어요 OOOO O
+. O O
+
+누우니까 OOOO O
+괜찮아졌는데 OOOOOO O
+이것도 OOO O
+현기증인가요 XXXOOO B-ST
+. O O
+
+-DOCSTART- -X- -X- O
+
+저 O O
+갑자기 OOO O
+어제부터인지 OOOOOO O
+혀 X B-BD
+아래에 OOO O
+사진처럼 OOOO O
+큰 O O
+동그라미가 OOOOO O
+하나 OO O
+낫어요 OOO O
+동그라미는 OOOOO O
+살짝 OO O
+하얗기도하고 OOOOOO O
+아프진않은데 OOOOOO O
+뭐 O O
+큰 O O
+병인지 OOO O
+걱정되네요 OOOOO O
+. O O
+
+전문 OO O
+의사님 OOO O
+답변 OO O
+부탁드려용 OOOOO O
+내공 OO O
+100 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+목 X B-BD
+성대 XX B-BD
+긴장 OO O
+푸는방법 OOOO O
+노래할때 OOOO O
+목에 XO B-BD
+힘이 OO O
+좀 O O
+들어가는거같아서요 OOOOOOOOO O
+노래잘부르고싶은마음에 OOOOOOOOOOO O
+질문올림니다 OOOOOO O
+6 O O
+. O O
+
+-DOCSTART- -X- -X- O
+
+현재 OO O
+군복무중인 OOOOO O
+군인입니다 OOOOO O
+. O O
+
+1 O O
+월에 OO O
+입대했는데 OOOOO O
+5 O O
+월쯤에 OOO O
+훈련하다 OOOO O
+허리를 XXO B-BD
+삐끗해서 OOOO O
+군병원에서 OOOOO O
+랑 O O
+를 O O
+찍엇더니 OOOO O
+요추간판전위 XXXXXX B-DS
+라고 OO O
+판명이 OOO O
+나고 OO O
+수술할정도는 OOOOOO O
+아니라고 OOOO O
+군의관님이 OOOOO O
+2 O O
+주에 OO O
+한번 OO O
+물리치료만 OOOOO O
+받으라고 OOOO O
+했는데 OOO O
+그 O O
+후에 OO O
+조금 OO O
+더 O O
+심해진거 OOOO O
+같아서 OOO O
+휴가 OO O
+나가서 OOO O
+민간병원 OOOO O
+진료를 OOO O
+받았습니다 OOOOO O
+. O O
+
+일산병원에서 OOOOOO O
+진료받았는데 OOOOOO O
+랑 O O
+민간병원에서 OOOOOO O
+찍고 OO O
+나서 OO O
+민간병원 OOOO O
+의사분이 OOOO O
+써준 OO O
+진단서에는 OOOOO O
+병명 OO O
+신경뿌리병증을 XXXXXXO B-DS
+동반한 OOO O
+요추 XX B-BD
+및 O O
+기타 OO O
+추간판 XXX B-DS
+장애 XX I-DS
+향후 OO O
+치료소견 OOOO O
+요통으로 XXOO B-ST
+내원하여 OOOO O
+요추부 XXX B-BD
+등의 OO O
+검사 OO O
+후 O O
+제 O O
+5 O O
+6 O O
+요추간판 XXXX B-DS
+탈출증 XXX I-DS
+좌측 OO O
+으로 OO O
+진단함 OOO O
+후장 XX B-DS
+골극이 XXO I-DS
+있으며 OOO O
+주위에 OOO O
+연성 XX B-DS
+추간판 XXX I-DS
+돌출이 XXO I-DS
+있음 OO O
+만성의 OOO O
+추간판 XXX B-DS
+탈출과 XXO I-DS
+함께 OO O
+급성악화가 OOOOO O
+된 O O
+상태임 OOO O
+과격한 OOO O
+운동이나 OOOO O
+군사훈련시에는 OOOOOOO O
+악화될 OOO O
+수 O O
+있음 OO O
+화면에는 OOOO O
+동그랗게 OOOO O
+디스크가 OOOO O
+튀어나온 OOOO O
+것처럼 OOO O
+보이고 OOO O
+의사선생님이 OOOOOO O
+아직까지는 OOOOO O
+수술할 OOO O
+정도는 OOO O
+아니고 OOO O
+그냥 OO O
+생활하기 OOOO O
+적당한 OOO O
+정도인데 OOOO O
+더 O O
+심해지면 OOOO O
+수술해야 OOOO O
+한다고 OOO O
+하셧어요 OOOO O
+. O O
+
+오래앉아있거나 OOOOOOO O
+걸을때 OOO O
+허리 XX B-BD
+똑같은 OOO O
+부위가 OOO O
+막 O O
+못참을 OOO O
+정도로 OOO O
+아픈건 OOO O
+아니고 OOO O
+뻐근한 XXX B-ST
+느낌이랄까 OOOOO O
+그런게 OOO O
+조금씩 OOO O
+있고 OO O
+다리도 XXO B-BD
+막 O O
+저린건 XXX B-ST
+아닌데 OOO O
+엉덩이 XXX B-BD
+쪽부분에 OOOO O
+어느정도 OOOO O
+약간 OO O
+통증이 XXO B-ST
+있습니다 OOOO O
+. O O
+
+그런데 OOO O
+제가 OO O
+징병신검규정인가 OOOOOOOO O
+네이버 OOO O
+지식인에서 OOOOO O
+보니까 OOO O
+현 O O
+징병신체검가 OOOOOO O
+국방부령 OOOO O
+제 O O
+670 OOO O
+호에 OO O
+의하면 OOO O
+허리디스크가 XXXXXO B-DS
+있고 OO O
+신경근의 OOOO O
+압박이 OOO O
+없는 OO O
+경우 OO O
+2 O O
+급 O O
+허리디스크가 XXXXXO B-DS
+있고 OO O
+신경근의 OOOO O
+압박이 OOO O
+있는 OO O
+경우 OO O
+4 O O
+급 O O
+신경근의 OOOO O
+단절및 OOO O
+편위가 OOO O
+확정된 OOO O
+경우 OO O
+5 O O
+급 O O
+를 O O
+통하여 OOO O
+척추강 XXX B-DS
+협착증으로 XXXOO I-DS
+50 OO O
+이상의 OOO O
+신경관이 OOOO O
+협착된경우 OOOOO O
+5 O O
+급 O O
+이런 OO O
+자료가 OOO O
+있고 OO O
+기준에 OOO O
+따라 OO O
+의병제대할수 OOOOOO O
+있다고 OOO O
+. O O
+
+하더라고요 OOOOO O
+. O O
+
+제 O O
+병명이 OOO O
+신경뿌리병증을 XXXXXXO B-DS
+동반한 OOO O
+요추 XX B-BD
+및 O O
+기타 OO O
+추간판 XXX B-DS
+장애인데 XXOO I-DS
+이게 OO O
+신경근 OOO O
+압박이 OOO O
+있는 OO O
+것인가요 OOOO O
+. O O
+
+그러면 OOO O
+저도 OO O
+의병 OO O
+전역 OO O
+기준에 OOO O
+해당하는 OOOO O
+건지 OO O
+알고 OO O
+싶어서 OOO O
+문의하게 OOOO O
+되었습니다 OOOOO O
+. O O
+
+자세히 OOO O
+알려주시면 OOOOO O
+감사하겠습니다 OOOOOOO O
+. O O
+
+또 O O
+피해야 OOO O
+하는 OO O
+운동이나 OOOO O
+권장하는 OOOO O
+운동도 OOO O
+알려주시면 OOOOO O
+감사하겠습니다 OOOOOOO O
+. O O
+
+줄넘기 OOO O
+윗몸일으키기 OOOOOO O
+같은거 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+원래 OO O
+두통이 XXO B-ST
+없는데 OOO O
+약 O O
+5 O O
+일전부터 OOOO O
+갑자기 OOO O
+뒤통수부터 XXXOO B-BD
+아프더니 OOOO O
+새벽에 OOO O
+잠을 OO O
+못잘정도로 OOOOO O
+너무 OO O
+아픕니다 OOOO O
+. O O
+
+그래서 OOO O
+신경과를 OOOO O
+갔는디 OOO O
+뒤쪽 OO O
+목근육때문에 XOOOOO B-BD
+두통이 XXO B-ST
+올 O O
+수 O O
+있다는 OOO O
+처방을 OOO O
+받아서 OOO O
+약도 OO O
+먹어봐도 OOOO O
+효과가 OOO O
+없고 OO O
+주로 OO O
+새벽 OO O
+오전까지 OOOO O
+내내 OO O
+아픕니다 OOOO O
+. O O
+
+너무 OO O
+아파서 OOO O
+잠을 OO O
+자다가 OOO O
+응급실도 OOOO O
+가서 OO O
+랑 O O
+랑 O O
+피검사도 OOOO O
+해봤는데 OOOO O
+이상없고 OOOO O
+진통제맞고 OOOOO O
+약처방받아 OOOOO O
+그냥 OO O
+왔어요 OOO O
+. O O
+
+오늘도 OOO O
+괜찮은가 OOOO O
+. O O
+
+했더니 OOO O
+점점 OO O
+더 O O
+심해져서 OOOO O
+지금도 OOO O
+아픈데 OOO O
+잠자기가 OOOO O
+두려워 OOO O
+글남겨요 OOOO O
+. O O
+
+이게 OO O
+근육때문에 OOOOO O
+긴장성 XXX B-DS
+두통이라고 XXOOO I-DS
+해도 OO O
+약을 OO O
+먹는데 OOO O
+나아지질 OOOO O
+않아요 OOO O
+. O O
+
+원래 OO O
+이런건가요 OOOOO O
+아니면 OOO O
+어떻게 OOO O
+해야하나요 OOOOO O
+너무 OO O
+힘듭니다 OOOO O
+. O O
+
+방법좀 OOO O
+부탁드립니다 OOOOOO O
+. O O
+
+자기가 OOO O
+무서워요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+2 O O
+년전에 OOO O
+오른손가락 XXXXX B-BD
+지문에 OOO O
+기름때가 OOOO O
+묻어 OO O
+있어 OO O
+목욕탕 OOO O
+바닥에 OOO O
+문질러서 OOOO O
+기름때를 OOOO O
+없앴습니다 OOOOO O
+. O O
+
+과거에도 OOOO O
+이러한 OOO O
+방법으로 OOOO O
+없애곤 OOO O
+하였습니다 OOOOO O
+. O O
+
+그런데 OOO O
+이번에는 OOOO O
+손가락에 XXXO B-BD
+기름때를 OOOO O
+없앴던 OOO O
+부분이 OOO O
+너무 OO O
+예민해져서 OOOOO O
+껍질이 OOO O
+벗겨진 OOO O
+느낌 OO O
+물체가 OOO O
+닿으면 OOO O
+아프지는 OOOO O
+않지만 OOO O
+신경이 OOO O
+곤두서곤합니다 OOOOOOO O
+. O O
+
+그리고 OOO O
+엄지 XX B-BD
+인지 OO O
+중지손가락만 XXXXXO B-BD
+그랬었는데 OOOOO O
+다섯손가락과 XXXXXO B-BD
+손바닥까지 XXXOO B-BD
+번졌습니다 OOOOO O
+. O O
+
+부산대학교 OOOOO O
+병원에가서 OOOOO O
+신경근전도검사 OOOOOOO O
+유발전위검사 OOOOOO O
+머리 XX B-BD
+검사를 OOO O
+했지만 OOO O
+이상이 OOO O
+없다고 OOO O
+합니다 OOO O
+. O O
+
+시간이 OOO O
+지나면 OOO O
+회복이 OOO O
+되겠지 OOO O
+하고 OO O
+지금까지 OOOO O
+기다려 OOO O
+왔는데 OOO O
+차도가 OOO O
+없습니다 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+새벽에 OOO O
+화장실가려고 OOOOOO O
+일어났다가 OOOOO O
+왼쪽목이 XXXO B-BD
+순간 OO O
+아파서 OOO O
+움찔했어요 OOOOO O
+. O O
+
+하루지나면 OOOOO O
+괜찮겠지 OOOO O
+했는데 OOO O
+그날부터 OOOO O
+왼쪽 XX B-BD
+귀 X I-BD
+뒷쪽 XX B-BD
+머리가 XXO I-BD
+계속 OO O
+아픕니다 OOOO O
+. O O
+
+왼쪽 XX B-BD
+귓볼과 XXO I-BD
+목라인이 XOOO B-ST
+만나는지점 OOOOO O
+살짝 OO O
+패인곳을 OOOO O
+누르면 OOO O
+더 O O
+아픕니다 OOOO O
+. O O
+
+아픈거의 OOOO O
+원인같습니다 OOOOOO O
+. O O
+
+고개를 OOO O
+돌릴때나 OOOO O
+숙일때 OOO O
+통증이 XXO B-ST
+있고 OO O
+점점 OO O
+왼쪽머리 XXXX B-BD
+전체가 OOO O
+아픕니다 OOOO O
+. O O
+
+병원을 OOO O
+가려면 OOO O
+어디쪽으로 OOOOO O
+가야할까요 OOOOO O
+일하고 OOO O
+있는 OO O
+직장인이라 OOOOO O
+병원가기가 OOOOO O
+눈치가 OOO O
+보여 OO O
+급한맘에 OOOO O
+물어봅니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+몸무게 OOO O
+67 OO O
+키 O O
+174 OOO O
+건강검진을 OOOOO O
+받았습니다 OOOOO O
+. O O
+
+전날밤 OOO O
+10 OO O
+시 O O
+30 OO O
+분경 OO O
+피자 OO O
+4 O O
+조각 OO O
+콜라 OO O
+500 OOO O
+미리마셨구요 OOOOOO O
+. O O
+
+뒷날 OO O
+아침 OO O
+9 O O
+시반쯤 OOO O
+건강검진 OOOO O
+받았습니다 OOOOO O
+. O O
+
+공복혈당이 OOOOO O
+109 OOO O
+가 O O
+나왔는데 OOOO O
+정상인건가요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+어제 OO O
+부터 OO O
+목이 XO B-BD
+간지럽고 XXXX B-ST
+기침도하며 XXOOO B-ST
+기침할때마다 XXOOOO B-ST
+가래같은게 XXOOO B-ST
+나오고 OOO O
+숨쉴때마다 OOOOO O
+까드득 OOO O
+소리가 OOO O
+나며 OO O
+목소리까지 OOOOO O
+쉬엇는데 OOOO O
+어떻게 OOO O
+해야 OO O
+빨리 OO O
+낫나요 OOO O
+. O O
+
+내일 OO O
+바로 OO O
+학교가야되는데 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+제가 OO O
+오른쪽 XXX B-BD
+왼쪽귀를 XXXO I-BD
+뚫어는데 OOOO O
+오른쪽이 OOOO O
+점점 OO O
+부었는데 XXXX B-ST
+이틀 OO O
+지나고 OOO O
+나서 OO O
+귀걸이가 OOOO O
+들어가서 OOOO O
+치료를 OOO O
+해는데 OOO O
+일주일정도 OOOOO O
+지나고 OOO O
+이번엔 OOO O
+왼쪽귀가 XXXO B-BD
+부을려고해요 OOOOOO O
+두개를 OOO O
+뚫었는데 OOOO O
+그사이도 OOOO O
+첫번째 OOO O
+뚫은데도 OOOO O
+아프고 OOO O
+간지러워요 XXXXX B-ST
+. O O
+
+달아 OO O
+오르는것도 OOOOO O
+같고 OO O
+어떡해요 OOOO O
+. O O
+
+빼는게 OOO O
+좋을까요 OOOO O
+. O O
+
+제가 OO O
+처음 OO O
+해보는건데 OOOOO O
+답변 OO O
+부탁드립니다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+가끔 OO O
+심계항진이 XXXXO B-DS
+심할때도 OOOO O
+있고 OO O
+손저림이랑 XXXOO B-ST
+왼손 XX B-BD
+수전증증세 XXXOO B-ST
+있구여 OOO O
+특별히 OOO O
+문제있다는걸 OOOOOO O
+못느끼다가 OOOOO O
+최근에 OOO O
+확인해보니까 OOOOOO O
+들쑥 OO O
+날쑥 OO O
+하네요 OOO O
+. O O
+
+132 OOO O
+는 O O
+뛰고 OO O
+5 O O
+분 O O
+쉬고 OO O
+쟀을때 OOO O
+입니다 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+피로해서 XXOO B-ST
+그런가하고 OOOOO O
+2 O O
+시간 OO O
+정도 OO O
+잤는데 OOO O
+잘때도 OOO O
+두통이 XXO B-ST
+계속 OO O
+느껴지네요 OOOOO O
+. O O
+
+이마랑 XXO B-BD
+뒷통수가 XXXO B-ST
+짓누르듯이 OOOOO O
+아프고 OOO O
+머리가 XXO B-BD
+무거워요 OOOO O
+. O O
+
+가끔씩 OOO O
+어금니 XXX B-BD
+쪽으로 OOO O
+통증이 XXO B-ST
+내려오기도 OOOOO O
+하는데 OOO O
+거의 OO O
+5 O O
+시간 OO O
+정도 OO O
+두통이 XXO B-ST
+계속되니 OOOO O
+어떻게 OOO O
+할지 OO O
+모르겠습니다 OOOOOO O
+. O O
+
+찾아보닌까 OOOOO O
+이마랑 XXO B-BD
+뒷통수가 XXXO B-ST
+아프면 OOO O
+긴장성 XXX B-DS
+두통이라던데 XXOOOO I-DS
+제가 OO O
+거북목도 XXXO B-DS
+있고 OO O
+자세도 OOO O
+안 O O
+좋거든요 OOOO O
+두통 XX B-ST
+잠깐이라도 OOOOO O
+완화시키는 OOOOO O
+방법 OO O
+있으시면 OOOO O
+알려주세요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+가끔씩 OOO O
+그러는데요 OOOOO O
+가끔씩 OOO O
+뜨거운거 OOOO O
+먹거나 OOO O
+그래서 OOO O
+머리가 XXO B-BD
+띵해지면 XXXX B-ST
+눈이 XO B-BD
+초점이 OOO O
+안맞거나 OOOO O
+하고 OO O
+막 O O
+앞이 OO O
+돌더라구요 OOOOO O
+. O O
+
+한 O O
+10 OO O
+20 OO O
+초 O O
+동안 OO O
+그러는거 OOOO O
+같애요 OOO O
+. O O
+
+몸에 OO O
+균형도 OOO O
+안 O O
+맞고 OO O
+그러 OO O
+이 O O
+어지럼증이 XXXXO B-ST
+넘어가길 OOOO O
+간절히 OOO O
+빌구 OO O
+요 O O
+그러구 OOO O
+나면 OO O
+식은땀이 XXXO B-ST
+막 O O
+나고 OO O
+머리는 XXO B-BD
+계속 OO O
+무겁고 OOO O
+목뒤쪽도 XXXO B-BD
+아프고 OOO O
+속은 OO O
+놀이기구 OOOO O
+탄 O O
+듯이 OO O
+울렁거리고 XXXXX B-ST
+몇일 OO O
+동안 OO O
+그런 OO O
+느낌이 OOO O
+계속 OO O
+남아 OO O
+있습니다 OOOO O
+. O O
+
+제가 OO O
+진짜 OO O
+치료하고 OOOO O
+싶습니다 OOOO O
+. O O
+
+이런지는 OOOO O
+일년정도 OOOO O
+되었습니다 OOOOO O
+. O O
+
+한달에 OOO O
+한 O O
+두번 OO O
+정도 OO O
+그러는거 OOOO O
+같습니다 OOOO O
+. O O
+
+어느 OO O
+병원에서 OOOO O
+무슨 OO O
+진단을 OOO O
+받아야 OOO O
+하는지 OOO O
+알려주세요 OOOOO O
+곧 O O
+군대도 OOO O
+가 O O
+야하는데 OOOO O
+군대 OO O
+가서도 OOO O
+이러면 OOO O
+단순히 OOO O
+핑계밖에 OOOO O
+안될꺼 OOO O
+같습니다 OOOO O
+. O O
+
+자세히 OOO O
+알려주세요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+일정한 OOO O
+주기는 OOO O
+없고 OO O
+가끔씩 OOO O
+두통이 XXO B-ST
+있어왔는데 OOOOO O
+요즘들어 OOOO O
+더 O O
+심해지네요 OOOOO O
+관자놀이쪽이 XXXXOO B-BD
+아플때도 OOOO O
+있고 OO O
+머리 XX B-BD
+오른쪽만 OOOO O
+아플때도 OOOO O
+있고 OO O
+눈이 XO B-BD
+짓눌리듯이 OOOOO O
+아플때도 OOOO O
+있어요 OOO O
+. O O
+
+약은 OO O
+먹으면 OOO O
+나아질때도 OOOOO O
+있지만 OOO O
+약을 OO O
+자주 OO O
+먹으면 OOO O
+내성이 OOO O
+생겨서 OOO O
+잘 O O
+안듣는다고 OOOOO O
+. O O
+
+해서 OO O
+정말 OO O
+참지 OO O
+못할 OO O
+정도로 OOO O
+아프지 OOO O
+않으면 OOO O
+왠만하면 OOOO O
+안먹는 OOO O
+편이구요 OOOO O
+. O O
+
+평소엔 OOO O
+자고 OO O
+일어나면 OOOO O
+두통이 XXO B-ST
+없어졌는데 OOOOO O
+어제도 OOO O
+아프더니 OOOO O
+오늘도 OOO O
+너무 OO O
+아프네요 OOOO O
+. O O
+
+만약에 OOO O
+병원에 OOO O
+가게되면 OOOO O
+무슨과를 OOOO O
+가야하고 OOOO O
+가게되면 OOOO O
+하게 OO O
+될 O O
+검사랑 OOO O
+비용을 OOO O
+알고싶네요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+뇌경색을 XXXO B-DS
+앓고 OO O
+계신지 OOO O
+9 O O
+개월정도 OOOO O
+되어 OO O
+가고 OO O
+있습니다 OOOO O
+. O O
+
+왼쪽뇌가 XXXO B-BD
+모두 OO O
+기능을 OOO O
+잃으셨습니다 OOOOOO O
+. O O
+
+일주일에 OOOO O
+한번씩 OOO O
+얼굴에 XXO B-BD
+열이 XO B-ST
+오르고 OOO O
+식은땀을 XXXO B-ST
+심하게 OOO O
+실어증으로 XXXOO B-DS
+말을 OO O
+전혀 OO O
+못하시는데 OOOOO O
+아픈게 OOO O
+확실한데 OOOO O
+담당재활학과과장님이라는분이 OOOOOOOOOOOOOO O
+어쩔수 OOO O
+없다고 OOO O
+하네요 OOO O
+. O O
+
+답답합니다 OOOOO O
+. O O
+
+말도 OO O
+못하는분이라서 OOOOOOO O
+어디가 OOO O
+아프다 OOO O
+얘기도 OOO O
+못하시는데 OOOOO O
+이대로 OOO O
+그냥 OO O
+아버지를 OOOO O
+담당의 OOO O
+말대로 OOO O
+어쩔수없으니 OOOOOO O
+내버려둬야하나요 OOOOOOOO O
+왜전문의가 OOOOO O
+있는지 OOO O
+아픈 OO O
+아버지를 OOOO O
+매일 OO O
+보는 OO O
+저는 OO O
+어떻게 OOO O
+해드려야 OOOO O
+하는지 OOO O
+답답할뿐입니다 OOOOOOO O
+. O O
+
+를 O O
+찍으면 OOO O
+더 O O
+악화되고 OOOO O
+있는지 OOO O
+알수있지 OOOO O
+않을까 OOO O
+. O O
+
+해서 OO O
+담당의사분한테 OOOOOOO O
+얘기하니 OOOO O
+비급여로 OOOO O
+찍을라면 OOOO O
+알아서 OOO O
+하랍니다 OOOO O
+. O O
+
+돈때문이 OOOO O
+아니라 OOO O
+의사가 OOO O
+표현하는것이 OOOOOO O
+정말 OO O
+화가 OO O
+나네요 OOO O
+. O O
+
+이의사 OOO O
+말대로 OOO O
+그냥 OO O
+둬야합니까 OOOOO O
+. O O
+
+뇌경색을 XXXO B-DS
+앓고 OO O
+있는분들은 OOOOO O
+말을 OO O
+못하니 OOO O
+염증이 XXO B-ST
+있어 OO O
+그럴수도 OOOO O
+있을것같고 OOOOO O
+기력이 OOO O
+떨어져서 OOOO O
+그럴수있을거 OOOOOO O
+같은데 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+장이 XO B-BD
+예민해서 OOOO O
+가스생기고 OOOOO O
+변비 XX B-DS
+생기고 OOO O
+힘듭니다 OOOO O
+. O O
+
+어떻게 OOO O
+해야 OO O
+튼튼하게 OOOO O
+관리할수 OOOO O
+있을까요 OOOO O
+. O O
+
+커피나 OOO O
+밀가루 OOO O
+아예 OO O
+안 O O
+먹을 OO O
+수 O O
+없고 OO O
+좋은방법 OOOO O
+있을까요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+내일이 OOO O
+시험인데 OOOO O
+시험공부가 OOOOO O
+안될정도로 OOOOO O
+두통이 XXO B-ST
+심합니다 OOOO O
+. O O
+
+앉아있거나 OOOOO O
+누워있어도 OOOOO O
+아프고 OOO O
+일어나면서 OOOOO O
+주는 OO O
+충격에도 OOOO O
+머리가 XXO B-BD
+아픕니다 OOOO O
+. O O
+
+누군가 OOO O
+계속 OO O
+꾹 O O
+누르는듯한 OOOOO O
+고통입니다 XXOOO B-ST
+. O O
+
+어제는 OOO O
+정말 OO O
+열까지나서 XOOOO B-ST
+일찍잤고 OOOO O
+12 OO O
+시간을 OOO O
+넘게 OO O
+잤는 OO O
+아직도 OOO O
+두통이 XXO B-ST
+심합니다 OOOO O
+. O O
+
+약도 OO O
+먹고 OO O
+했는데 OOO O
+어떻게 OOO O
+다른 OO O
+방법없을까요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+오늘 OO O
+축구를 OOO O
+하고나서 OOOO O
+집에왔는데 OOOOO O
+몸이 OO O
+무거운느낌이 OOOOOO O
+나더라 OOO O
+. O O
+
+구요 OO O
+뭔지 OO O
+모르고 OOO O
+그냥 OO O
+누워있다가 OOOOO O
+왼쪽 XX B-BD
+발목은 XXO I-BD
+잘움직이는데 OOOOOO O
+오른쪽발목이 XXXXXO B-BD
+안움직였습니다 OOOOOOO O
+. O O
+
+발목으 XXO B-BD
+몸쪽으로 OOOO O
+전혀 OO O
+들리지않구요 OOOOOO O
+. O O
+
+무리해서 OOOO O
+들려고하면 OOOOO O
+허벅지근육이 XXXOOO B-BD
+아픕니다 OOOO O
+. O O
+
+축구는 OOO O
+2 O O
+3 O O
+시간 OO O
+정도로 OOO O
+평소 OO O
+주말에 OOO O
+하던것처럼 OOOOO O
+했는데 OOO O
+축구하는 OOOO O
+친구는 OOO O
+무리해서 OOOO O
+그렇다고 OOOO O
+. O O
+
+하는데 OOO O
+인터넷에 OOOO O
+검색해보니까 OOOOOO O
+이런저런 OOOO O
+심각하단 OOOO O
+말들이 OOO O
+많더라구요 OOOOO O
+. O O
+
+여태 OO O
+몸이 OO O
+좋아서 OOO O
+부상같은건 OOOOO O
+거의 OO O
+당해본적이 OOOOO O
+없습니다 OOOO O
+. O O
+
+내일 OO O
+아침까지 OOOO O
+안움직이면 OOOOO O
+병원가보려는데 OOOOOOO O
+제 O O
+증상이 OOO O
+더떤지 OOO O
+괜찮은건지 OOOOO O
+병원에 OOO O
+가봐야하는지 OOOOOO O
+알려주세요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+윗배에 XXO B-BD
+가스가 OOO O
+가득찬듯한 OOOOO O
+더부룩하고 XXXXX B-ST
+장이 XO B-BD
+꼬이는 XXX B-ST
+느낌이에요 XXOOO I-ST
+움직일수록 OOOOO O
+더 O O
+아픕니다 OOOO O
+. O O
+
+동시에 OOO O
+살짝 OO O
+머리도 XXO B-BD
+아프고 OOO O
+좀 O O
+어지러워요 XXXXX B-ST
+. O O
+
+속이 OO O
+그냥 OO O
+안좋고 OOO O
+왜이런거에요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+신체 OO O
+건강한 OOO O
+25 OO O
+세 O O
+청년입니다 OOOOO O
+. O O
+
+다름이 OOO O
+아니고 OOO O
+오늘 OO O
+심장쪽에 XXOO B-BD
+굉장히 OOO O
+기분나쁜 OOOO O
+통증을 XXO B-ST
+느껴서 OOO O
+질문 OO O
+드립니다 OOOO O
+. O O
+
+요즘 OO O
+공부하고 OOOO O
+있는게 OOO O
+있어서 OOO O
+학원에서 OOOO O
+공부를 OOO O
+하던도중에 OOOOO O
+심장쪽에 XXOO B-BD
+20 OO O
+분가량 OOO O
+통증을 XXO B-ST
+느꼈습니다 OOOOO O
+. O O
+
+가라 OO O
+앉는듯 OOO O
+하다가 OOO O
+또 O O
+다시 OO O
+재발하는 OOOO O
+식으로 OOO O
+콕콕 OO O
+쑤시기도하고 XXXXXX B-ST
+명치쪽으로도 XXOOOO B-BD
+쫌 O O
+아파왔다가 OOOOO O
+그렇게 OOO O
+20 OO O
+분가량 OOO O
+반복하다가 OOOOO O
+증상이 OOO O
+사라졌는데요 OOOOOO O
+예전에 OOO O
+담배를 OOO O
+피다가 OOO O
+제가 OO O
+금연을 OOO O
+한지 OO O
+서너달 OOO O
+지났거든요 OOOOO O
+. O O
+
+일년전쯤 OOOO O
+건강검진한번 OOOOOO O
+받았을때 OOOO O
+폐기종성 XXXX B-DS
+뭐시긴가 OOOO O
+그거 OO O
+의심된다고 OOOOO O
+해서 OO O
+흉부엑스레이 OOOOOO O
+찍었었는데 OOOOO O
+이상 OO O
+없다고 OOO O
+그랬었거든요 OOOOOO O
+. O O
+
+음 O O
+그거하고는 OOOOO O
+상관 OO O
+없을꺼같은데 OOOOOO O
+진짜 OO O
+오늘 OO O
+너무 OO O
+당황스러웠습니다 OOOOOOOO O
+. O O
+
+이러다 OOO O
+쓰러지는거 OOOOO O
+아닌가 OOO O
+하고 OO O
+이러한 OOO O
+증상이 OOO O
+반년전쯤에 OOOOO O
+한번 OO O
+5 O O
+분가량 OOO O
+통증이 XXO B-ST
+있었던거 OOOO O
+같은데요 OOOO O
+. O O
+
+음 O O
+오늘 OO O
+그래서 OOO O
+동네 OO O
+내과를 OOO O
+다녀왔는데 OOOOO O
+심전도 OOO O
+검사를 OOO O
+해보니 OOO O
+이상없다고 OOOOO O
+나왔구요 OOOO O
+. O O
+
+운동을 OOO O
+많이해서 OOOO O
+그런지 OOO O
+심박수가 OOOO O
+좀 O O
+늦다고 OOO O
+. O O
+
+그랬습니다 OOOOO O
+. O O
+
+1 O O
+분에 OO O
+50 OO O
+회가량 OOO O
+뛴다고 OOO O
+하더라구요 OOOOO O
+. O O
+
+내과선생님은 OOOOOO O
+20 OO O
+대에 OO O
+심장에 XXO B-BD
+문제가 OOO O
+있는건 OOO O
+말이 OO O
+안된다는 OOOO O
+식으로 OOO O
+말씀하셨고요 OOOOOO O
+. O O
+
+정말희박하지만 OOOOOOO O
+협심증일 XXXO B-DS
+가능성도 OOOO O
+있다고 OOO O
+. O O
+
+하시더라구요 OOOOOO O
+. O O
+
+다음에 OOO O
+또 O O
+문제 OO O
+있으면 OOO O
+대학병원 OOOO O
+가보라고 OOOO O
+하셨는데 OOOO O
+이거 OO O
+이거 OO O
+뭐 O O
+어찌되는건지요 OOOOOOO O
+저 O O
+진짜 OO O
+운동도 OOO O
+열심히하고 OOOOO O
+그런데 OOO O
+요즘 OO O
+공부한다고 OOOOO O
+잠좀 OO O
+못자고 OOO O
+스트레스 XXXX B-ST
+받아서 OOO O
+이런걸까요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+얼마전에 OOOO O
+동네의원에서 OOOOOO O
+혈액검사을 OOOOO O
+햇는데 OOO O
+갑강선호르몬이 OOOOOOO O
+너무 OO O
+많이 OO O
+나온다고 OOOO O
+높다고 OOO O
+. O O
+
+함 O O
+큰병원에가서 OOOOOO O
+검사받으라고 OOOOOO O
+해서 OO O
+큰병원가서 OOOOO O
+혈액검사 OOOO O
+그리고 OOO O
+목에 XO B-BD
+왼쪽에 OOO O
+혹이잇다고 XOOOO B-ST
+. O O
+
+해서 OO O
+3 O O
+바늘로 OOO O
+목왼쪽 XOO B-BD
+질러서 OOO O
+무슨검사한다고 OOOOOOO O
+하네요 OOO O
+. O O
+
+암인지 XOO B-DS
+아닌지 OOO O
+깊이잇다고 OOOOO O
+. O O
+
+해서 OO O
+한번에 OOO O
+잘안대는지 OOOOO O
+5 O O
+번정도 OOO O
+찔러서 OOO O
+빼드라고요 OOOOO O
+이번에 OOO O
+결과가 OOO O
+나왓는데 OOOO O
+암양성반응 OOOOO O
+자가항체 OOOO O
+양성반응나왓더라구요 OOOOOOOOOO O
+근데 OO O
+정확한게 OOOO O
+아니라고 OOOO O
+3 O O
+개월뒤에 OOOO O
+재검사 OOO O
+목찌르는거 OOOOO O
+한다고 OOO O
+하네요 OOO O
+. O O
+
+이게 OO O
+혹시 OO O
+깊이잇어서 OOOOO O
+잘안나와서 OOOOO O
+그런지 OOO O
+암이 XO B-DS
+아닐가능성잇는지 OOOOOOOO O
+3 O O
+개월뒤면 OOOO O
+진짜 OO O
+암이면 XOO B-DS
+늦는건아닌지 OOOOOO O
+목에 XO B-BD
+조직검사는 OOOOO O
+할수없는지 OOOOO O
+궁금합니다 OOOOO O
+. O O
+
+세포채취일단 OOOOOO O
+약은 OO O
+한달치 OOO O
+먹고 OO O
+다시 OO O
+혈액검사한다고 OOOOOOO O
+하는데 OOO O
+3 O O
+개월동안 OOOO O
+불안해서요 OOOOO O
+암인지 XOO B-DS
+목바늘찌를때 OOOOOO O
+좀 O O
+따끔한것도잇고 OOOOOOO O
+약먹고 OOO O
+혹잉 OO O
+어질수도잇는지 OOOOOOO O
+궁금합니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+어제 OO O
+폐렴백신을 OOOOO O
+맞았는데 OOOO O
+어제는 OOO O
+주사 OO O
+맞은곳이 OOOO O
+엄청아프더니 OOOOOO O
+오늘은 OOO O
+오한에 XXO B-ST
+손발저림이 XXXXO B-ST
+너무 OO O
+심해요 OOO O
+. O O
+
+병원 OO O
+가봤는데 OOOO O
+열은 XO B-ST
+없었고 OOO O
+구토나 XXO B-ST
+이런건 OOO O
+없어요 OOO O
+. O O
+
+손발저림이 XXXXO B-ST
+너무 OO O
+심해서 OOO O
+타자도 OOO O
+잘 O O
+못치겠어요 OOOOO O
+. O O
+
+왜 O O
+이러는 OOO O
+거죠 OO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+저는 OO O
+20 OO O
+살 O O
+남자입니다 OOOOO O
+. O O
+
+제가 OO O
+얼마전부터 OOOOO O
+몸이 OO O
+좀 O O
+안좋았거든요 OOOOOO O
+뒷목 XX B-BD
+윗쪽과 OOO O
+정수리 XXX B-BD
+양 O O
+옆쪽으로 OOOO O
+두통이 XXO B-ST
+찾아왔어요 OOOOO O
+. O O
+
+마치 OO O
+꽉 O O
+누르는 OOO O
+음 O O
+깨질것같다고 XXXXXO B-ST
+. O O
+
+하죠 OO O
+. O O
+
+그리고 OOO O
+제가 OO O
+요 O O
+며칠새에 OOOO O
+우유를 OOO O
+많이먹어서인지 OOOOOOO O
+속도 OO O
+좀 O O
+이상한것 OOOO O
+같았어요 OOOO O
+. O O
+
+지금 OO O
+한 O O
+여름인데도 OOOOO O
+추울땐 OOO O
+덜덜 OO O
+떨정도로 OOOO O
+엄청 OO O
+춥다가요 OOOO O
+갑자기 OOO O
+또 O O
+추위는 OOO O
+사라지고 OOOO O
+그러거든요 OOOOO O
+열도 XO B-ST
+좀 O O
+나구요 OOO O
+. O O
+
+이정도의 OOOO O
+증상으로 OOOO O
+봤을때에 OOOO O
+한번 OO O
+뇌종양 XXX B-DS
+검사를 OOO O
+받을만 OOO O
+한가요 OOO O
+혹시 OO O
+그렇다면 OOOO O
+병원에 OOO O
+어느과로 OOOO O
+가는겁니까 OOOOO O
+. O O
+
+제가 OO O
+병원을 OOO O
+잘 O O
+안가고 OOO O
+신경도 OOO O
+안써서 OOO O
+안과 OO O
+치과 OO O
+정형외과밖에 OOOOOO O
+모릅니다 OOOO O
+. O O
+
+꼭 O O
+좀 O O
+알 O O
+려 O O
+주 O O
+세 O O
+요 O O
+. O O
+
+-DOCSTART- -X- -X- O
+
+17 OO O
+살 O O
+여자 OO O
+입니다 OOO O
+. O O
+
+의자에 OOO O
+앉아있었는데 OOOOOO O
+눈앞이 XOO B-BD
+까매지더니 OOOOO O
+귀에서는 XOOO B-BD
+낮게 OO O
+우웅거리는 OOOOO O
+소리가 OOO O
+머리랑 XXO B-BD
+귀에서 XOO B-BD
+울리고 OOO O
+몸이 OO O
+갑자기 OOO O
+앞으로 OOO O
+기울어져서 OOOOO O
+앞으로 OOO O
+쓰러질 OOO O
+뻔 O O
+했는데 OOO O
+간신히 OOO O
+고개를 OOO O
+확 O O
+들어서 OOO O
+쓰러지지는 OOOOO O
+않았어요 OOOO O
+. O O
+
+이후에 OOO O
+조금 OO O
+멍한 XX B-ST
+느낌과 XXO I-ST
+어지러운 XXXX B-ST
+느낌이 XXO I-ST
+있었고 OOO O
+실신할 XXO B-ST
+뻔 O O
+하기 OO O
+전 O O
+이전에 OOO O
+식은땀이라던가 XXXOOOO B-ST
+두통 XX B-ST
+같은 OO O
+증세는 OOO O
+없었습니다 OOOOO O
+. O O
+
+월경중이 OOOO O
+아니라 OOO O
+빈혈때문에 XXOOO B-DS
+그런것도 OOOO O
+아닌것 OOO O
+같은데 OOO O
+이런 OO O
+증상이 OOO O
+나타날수 OOOO O
+있나요 OOO O
+. O O
+
+이런 OO O
+적은 OO O
+오늘이 OOO O
+처음입니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+왼쪽 XX B-BD
+발목을 XXO I-BD
+접지른 OOO O
+적이 OO O
+많아서 OOO O
+그런지 OOO O
+딱히 OO O
+이유가 OOO O
+없어도 OOO O
+고질병처럼 XXXOO B-DS
+종종 OO O
+발목 XX B-BD
+통증이 XXO B-ST
+있었긴 OOO O
+한데요 OOO O
+보통 OO O
+그러면 OOO O
+바깥쪽이 OOOO O
+아팠거던요 OOOOO O
+근데 OO O
+지난주에 OOOO O
+왼쪽 XX B-BD
+발목 XX I-BD
+안쪽 OO O
+복사뼈 XXX B-BD
+아래부터 OOOO O
+발바닥 XXX B-BD
+사이 OO O
+이 O O
+아프길래 OOOO O
+그전날 OOO O
+요가 OO O
+하면서 OOO O
+자세중에 OOOO O
+발목에 XXO B-BD
+무리가 OOO O
+가는게 OOO O
+있었으려니 OOOOO O
+. O O
+
+했는데 OOO O
+그날 OO O
+그러다 OOO O
+낫더니 OOO O
+몇일뒤에 OOOO O
+또 O O
+그렇게 OOO O
+아프네요 OOOO O
+. O O
+
+못걸을 OOO O
+것처럼 OOO O
+아프다거나 OOOOO O
+한건 OO O
+아닌데 OOO O
+걸을때 OOO O
+쿡쿡 OO O
+쑤시는게 XXXX B-ST
+신경쓰이게 OOOOO O
+아파요 OOO O
+. O O
+
+게다가 OOO O
+왼쪽 XX B-BD
+엉덩이부터 XXXOO I-BD
+허벅지 XXX B-BD
+뒷쪽 OO O
+윗부분까지가 OOOOOO O
+근육통처럼 XXXOO B-ST
+아픈데 OOO O
+이게 OO O
+요가하다 OOOO O
+근육이 OOO O
+뭉쳤나 OOO O
+. O O
+
+싶기도한데 OOOOO O
+디스크 XXX B-DS
+증상중에 OOOO O
+엉덩이 XXX B-BD
+통증도 XXO B-ST
+있단 OO O
+얘기가 OOO O
+있어서 OOO O
+걱정이 OOO O
+돼서요 OOO O
+작년 OO O
+초에 OO O
+오른쪽 OOO O
+골반 XX B-BD
+정확히는 OOOO O
+다리와 XXO B-BD
+골반 XX B-BD
+연결부분 OOOO O
+이 O O
+한동안 OOO O
+아파서 OOO O
+앉았다 OOO O
+일어났다를 OOOOO O
+제대로 OOO O
+못했었는데 OOOOO O
+그것도 OOO O
+디스크랑 XXXO B-DS
+뭔가 OO O
+관련이 OOO O
+있는게 OOO O
+아닌가 OOO O
+싶고 OO O
+지금은 OOO O
+평소 OO O
+생활하는데는 OOOOOO O
+전혀 OO O
+문제가 OOO O
+없지만 OOO O
+스트레칭을 OOOOO O
+한다거나 OOOO O
+하면 OO O
+그부분이 OOOO O
+아파서 OOO O
+오른쪽은 OOOO O
+강하게는 OOOO O
+못하고 OOO O
+있거든요 OOOO O
+. O O
+
+병원에 OOO O
+가봐야겠다 OOOOO O
+생각중인데 OOOOO O
+그전에 OOO O
+한번 OO O
+문의 OO O
+드리니 OOO O
+답변 OO O
+부탁드립니다 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+근데 OO O
+제가 OO O
+손님한테 OOOO O
+목부위 XOO B-BD
+5 O O
+대정도 OOO O
+맞자습니다 OOOOO O
+. O O
+
+다음날 OOO O
+병원가니깐 OOOOO O
+그냥 OO O
+목빼에서 XXOO B-ST
+아무이상없다고 OOOOOOO O
+2 O O
+주진단만끓어주었습니다 OOOOOOOOOOO O
+. O O
+
+근데 OO O
+4 O O
+일지났는데 OOOOO O
+목은 XO B-BD
+별로 OO O
+안아픈데 OOOO O
+왼쪽어깨 XXXX B-BD
+왼손만 XXO B-BD
+손끝까지 XXOO B-BD
+찌릿찌릿해요 XXXXXX B-ST
+증상이 OOO O
+먼가요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제목 OO O
+그대로 OOO O
+갑상선 XXX B-DS
+비대증에 XXXO I-DS
+대해 OO O
+궁금합니다 OOOOO O
+. O O
+
+인터넷으로 OOOOO O
+조금 OO O
+검색해보니 OOOOO O
+단순히 OOO O
+갑상선이 XXXO B-BD
+커져있는 OOOO O
+경우도 OOO O
+있고 OO O
+저하증 XXX B-DS
+항진증을 XXXO I-DS
+다 O O
+포함하는 OOOO O
+말이라고 OOOO O
+하던데요 OOOO O
+지금은 OOO O
+이십댄데고등학교때 OOOOOOOOO O
+신체검사를 OOOOO O
+하니 OO O
+갑상선 XXX B-DS
+비대증이라고 XXXOOO I-DS
+하더라구요 OOOOO O
+. O O
+
+그때 OO O
+당시 OO O
+인터넷 OOO O
+검색해보니 OOOOO O
+단순히 OOO O
+커져있는 OOOO O
+경우도 OOO O
+있다하여난 OOOOO O
+그런것일꺼다 OOOOOO O
+. O O
+
+하며 OO O
+안심하고 OOOO O
+지냈는데요 OOOOO O
+요새 OO O
+들어서 OOO O
+너무 OO O
+피곤하고 XXXX B-ST
+무기력해집니다 XXXOOOO B-ST
+. O O
+
+잠을 OO O
+자도 OO O
+잔것같지도 OOOOO O
+않고 OO O
+별로 OO O
+한것도 OOO O
+없는데 OOO O
+기운이 OOO O
+하나도 OOO O
+없기도 OOO O
+합니다 OOO O
+. O O
+
+그리고 OOO O
+제가 OO O
+뚱뚱한대요 OOOOO O
+전 O O
+그냥 OO O
+제가 OO O
+하루에 OOO O
+한끼정도 OOOO O
+밖에 OO O
+안먹는 OOO O
+식습관때문에 OOOOOO O
+살이 OO O
+쪘다고 OOO O
+. O O
+
+생각했었는데 OOOOOO O
+갑상선 XXX B-BD
+때문에 OOO O
+살이 OO O
+찔수도 OOO O
+있다고 OOO O
+. O O
+
+하더라구요 OOOOO O
+. O O
+
+그리고 OOO O
+목이 XO B-BD
+자주 OO O
+붓고 XX B-ST
+아픈 OO O
+편인데 OOO O
+이런것도 OOOO O
+갑상선과 XXXO B-BD
+관련이 OOO O
+있는지 OOO O
+궁금합니다 OOOOO O
+. O O
+
+혹시 OO O
+갑상선에 XXXO B-BD
+이상이 OOO O
+의심되는 OOOO O
+경우라면 OOOO O
+병원에 OOO O
+가서 OO O
+검사를 OOO O
+해야하나요 OOOOO O
+검사를 OOO O
+해야 OO O
+한다면 OOO O
+무슨 OO O
+과에 OO O
+가서 OO O
+어떤 OO O
+검사를 OOO O
+하게되는지 OOOOO O
+비용은 OOO O
+얼마정도 OOOO O
+들지 OO O
+궁금합니다 OOOOO O
+. O O
+
+답변부탁드립니다 OOOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+저희 OO O
+아버지께서 OOOOO O
+뇌출혈로 XXXO B-DS
+20 OO O
+년전에 OOO O
+쓰러지셔서 OOOOO O
+뇌병변 XXX B-DS
+장애 XX I-DS
+1 O O
+급으로 OOO O
+몸이 OO O
+많이 OO O
+불편하십니다 OOOOOO O
+. O O
+
+오랜 OO O
+기간 OO O
+투병하시면서 OOOOOO O
+상태가 OOO O
+호전되지는 OOOOO O
+않았지만 OOOO O
+오늘 OO O
+갑자기 OOO O
+예전 OO O
+처음에 OOO O
+쓰러지셨을때 OOOOOO O
+처럼 OO O
+말씀하실때 OOOOO O
+말과 OO O
+발음이 OOO O
+부정확하고 OOOOO O
+많이 OO O
+세며몸에 OOOO O
+기운이 XXX B-ST
+없으시다고 XXXXO I-ST
+. O O
+
+합니다 OOO O
+. O O
+
+방금 OO O
+목욕시켜드리면서 OOOOOOOO O
+살펴보니 OOOO O
+예전에는 OOOO O
+그런적이 OOOO O
+없었는데 OOOO O
+양쪽눈이 XXXO B-BD
+다 O O
+심하게 OOO O
+충혈되어 XXOO B-ST
+있으십니다 OOOOO O
+. O O
+
+혹시 OO O
+상태가 OOO O
+더 O O
+안좋아지시거나 OOOOOOO O
+어떤 OO O
+증상의 OOO O
+예비신호가 OOOOO O
+아닌지 OOO O
+너무 OO O
+걱정되고 OOOO O
+불안하네요 XXOOO B-ST
+. O O
+
+응급실이나 OOOOO O
+기타 OO O
+다른 OO O
+조치를 OOO O
+취해야하는건지 OOOOOOO O
+빠른 OO O
+답변좀 OOO O
+부탁드립니다 OOOOOO O
+. O O
+
+특이사항으로 OOOOOO O
+매일같이 OOOO O
+잠을 OO O
+잘 O O
+못 O O
+주무셔서 OOOO O
+매일같이 OOOO O
+술을 OO O
+드시고 OOO O
+수면제도 OOOO O
+드십니다 OOOO O
+. O O
+
+어제는 OOO O
+2 O O
+알드셨다고 OOOOO O
+. O O
+
+하시고 OOO O
+수면제는 OOOO O
+병원에서 OOOO O
+처방받아 OOOO O
+드신지 OOO O
+5 O O
+년정도 OOO O
+되셨습니다 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+다른 OO O
+증상은 OOO O
+없고 OO O
+온리 OO O
+기침 XX B-ST
+그것도 OOO O
+거의 OO O
+밤에만 OOO O
+왜그런거죠 OOOOO O
+. O O
+
+증상 OO O
+완화에 OOO O
+도움될만한 OOOOO O
+정보라도 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+. O O
+
+저는 OO O
+24 OO O
+세 O O
+여대생입니 OOOOO O
+. O O
+
+다 O O
+2006 OOOO O
+년경 OO O
+심한 OO O
+감기를 XXO B-ST
+앓고 OO O
+난 O O
+뒤 O O
+턱관절에서 XXXOO B-BD
+소리가 OOO O
+나고 OO O
+머리에 XXO B-BD
+벌레가 OOO O
+기어다니는듯한 OOOOOOO O
+두통을 XXO B-ST
+계속 OO O
+달고 OO O
+살고 OO O
+잇는데요 OOOO O
+원인을 OOO O
+알수가 OOO O
+없어서 OOO O
+너무 OO O
+답답합니다 OOOOO O
+. O O
+
+주로 OO O
+오른쪽 XXX B-BD
+머리 XX I-BD
+끝부분에 OOOO O
+뭐가 OO O
+기어다니는 OOOOO O
+듯한 OO O
+느낌을 OOO O
+자주 OO O
+받구요 OOO O
+. O O
+
+정수리나 XXXO B-BD
+왼쪽으로 OOOO O
+느낌이 OOO O
+이전될때도 OOOOO O
+있습니다 OOOO O
+. O O
+
+왜그런걸까요 OOOOOO O
+. O O
+
+머리가 XXO B-BD
+아파서 OOO O
+집중도 OOO O
+잘 O O
+안되고 OOO O
+잠이 OO O
+안오는데도 OOOOO O
+억지로 OOO O
+잘려고 OOO O
+해요 OO O
+대학병원을 OOOOO O
+가봐야 OOO O
+하는걸까요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+나이 OO O
+61 OO O
+세 O O
+남성 OO O
+당뇨약 OOO O
+혈압약 OOO O
+복용중이십니다 OOOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+약 O O
+2 O O
+달전부터 OOOO O
+허벅지서부터 XXXOOO B-BD
+해서 OO O
+종아리 XXX B-BD
+발목있는데까지 XXOOOOO B-BD
+저려옵니다 XXXXX B-ST
+. O O
+
+통증까지 XXOO B-ST
+있구요 OOO O
+. O O
+
+병원을 OOO O
+가려해도 OOOO O
+어떤 OO O
+병원을 OOO O
+가야 OO O
+할지 OO O
+몰라서 OOO O
+일단 OO O
+올려봅니다 OOOOO O
+. O O
+
+답변좀 OOO O
+해주세요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+요즘 OO O
+중요한 OOO O
+시험 OO O
+준비를 OOO O
+해서 OO O
+그런지 OOO O
+머리가 XXO B-BD
+정말 OO O
+터질꺼 OOO O
+같이 OO O
+아파요 OOO O
+. O O
+
+맨처음엔 OOOO O
+양쪽 XX B-BD
+머리가 XXO I-BD
+다 O O
+아프다가 OOOO O
+오른쪽 XXX B-BD
+윗머리에서 XXXOO I-BD
+통증이 XXO B-ST
+오른쪽 XXX B-BD
+귀뒤까찌 XXOO I-BD
+내려오면속도 OOOOOO O
+울렁거리고 XXXXX B-ST
+어지럽고 XXXX B-ST
+정말 OO O
+울것처럼 OOOO O
+아파와서 OOOO O
+미칠꺼 OOO O
+같야요누워 OOOOO O
+있거나 OOO O
+자고 OO O
+일어나면 OOOO O
+괜찮아 OOO O
+지겠지 OOO O
+했는데 OOO O
+누웠다 OOO O
+. O O
+
+일어나도 OOOO O
+자고 OO O
+일어나도 OOOO O
+똑같이 OOO O
+아파요 OOO O
+. O O
+
+두통약은 XXOO B-ST
+전혀 OO O
+먹질 OO O
+않았어요 OOOO O
+. O O
+
+1 O O
+알이 OO O
+2 O O
+알되고 OOO O
+2 O O
+알이 OO O
+8 O O
+알 O O
+될까봐 OOO O
+이런증상이 OOOOO O
+한 O O
+3 O O
+주 O O
+쯤 O O
+되어가는데 OOOOO O
+왜그런지 OOOO O
+모르겠어요 OOOOO O
+. O O
+
+아 O O
+그리고 OOO O
+머리도 XXO B-BD
+아프고 OOO O
+속도 OO O
+울렁거려서 XXXXX B-ST
+밥도 OO O
+거의 OO O
+먹질 OO O
+못하고 OOO O
+잠도 OO O
+깊이 OO O
+자질못해요 OOOOO O
+. O O
+
+매일 OO O
+악몽에 OOO O
+시달리고 OOOO O
+7 O O
+시간을 OOO O
+잔다하면 OOOO O
+7 O O
+번을 OO O
+깨는듯해요 OOOOO O
+. O O
+
+왜그럴까요 OOOOO O
+이번시험에 OOOOO O
+붙어야 OOO O
+되는데 OOO O
+아파서 OOO O
+집중력도 OOOO O
+떨어지고 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+이틀전에 OOOO O
+목에 XO B-BD
+뭔가 OO O
+걸리는 XXX B-ST
+느낌이 XXO I-ST
+들면서 OOO O
+침 O O
+삼키면 OOO O
+통증이 XXO B-ST
+왔습니다 OOOO O
+. O O
+
+하루를 OOO O
+버티고 OOO O
+다음날 OOO O
+침은 OO O
+더 O O
+삼키기 OOO O
+힘들고 OOO O
+머리가 XXO B-BD
+깨질듯이 OOOO O
+아파왔고 OOOO O
+열도나고 XXOO B-ST
+몸살인지 XXOO B-ST
+오한도 XXO B-ST
+느껴지고 OOOO O
+가래를 XXO B-ST
+뱉는데 OOO O
+노란색 OOO O
+덩어리로 OOOO O
+끈적끈적하게 OOOOOO O
+나오더라구요 OOOOOO O
+. O O
+
+그날은 OOO O
+하루죙일 OOOO O
+일어나면 OOOO O
+어지럽고 XXXX B-ST
+누워만 OOO O
+있다가 OOO O
+저녁에 OOO O
+열이 OO O
+더 O O
+올라서 OOO O
+해열제만 OOOO O
+복용하고 OOOO O
+잤습니다 OOOO O
+. O O
+
+오늘 OO O
+아침에 OOO O
+목이 XO B-BD
+칼칼해서 OOOO O
+가래를 XXO B-ST
+뱉는데 OOO O
+노란색가래에 XXXXXO B-ST
+피가 OO O
+섞인 OO O
+완전 OO O
+덩어리 OOO O
+자두씨처럼 OOOOO O
+나왔습니다 OOOOO O
+. O O
+
+갑자기 OOO O
+이래서 OOO O
+왜이러나 OOOO O
+싶네요 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+치질수술을 XXOOO B-DS
+금요일날 OOOO O
+했는데 OOO O
+일요일인 OOOO O
+오늘까지도 OOOOO O
+변이 OO O
+안나옵니다 OOOOO O
+. O O
+
+힘을 OO O
+너무 OO O
+안줘서 OOO O
+그런건지 OOOO O
+변이 OO O
+마려운 OOO O
+느낌도 OOO O
+안납니다 OOOO O
+. O O
+
+그리고 OOO O
+힘을 OO O
+살짝 OO O
+주면 OO O
+피만 OO O
+나오고 OOO O
+안싸면 OOO O
+또 O O
+안될거 OOO O
+같고 OO O
+아파도 OOO O
+힘을 OO O
+퐉 O O
+줘야 OO O
+될까요 OOO O
+수술부위가 OOOOO O
+전 O O
+아프진 OOO O
+않습니다 OOOO O
+. O O
+
+평소 OO O
+대변 OO O
+보고 OO O
+뭔가 OO O
+묵직한 OOO O
+느낌이 OOO O
+나는 OO O
+그정도랄까 OOOOO O
+많이 OO O
+아프지 OOO O
+않습니다 OOOO O
+. O O
+
+근데 OO O
+힘을 OO O
+주면 OO O
+좀 O O
+아프긴 OOO O
+합니다 OOO O
+. O O
+
+대변을 OOO O
+무조건 OOO O
+빨리 OO O
+봐야 OO O
+하는건가요 OOOOO O
+. O O
+
+평소에도 OOOO O
+일주일에 OOOO O
+1 O O
+2 O O
+번 O O
+봤었는데 OOOO O
+수술후에도 OOOOO O
+왠지 OO O
+같은거 OOO O
+같아서 OOO O
+방귀만 OOO O
+나오고 OOO O
+변은 OO O
+마렵지도 OOOO O
+않습니다 OOOO O
+. O O
+
+이거 OO O
+어찌해야 OOOO O
+되나요 OOO O
+물론 OO O
+식이섬유도 OOOOO O
+먹고 OO O
+물도 OO O
+평소보다 OOOO O
+훨씬 OO O
+많이 OO O
+마시고 OOO O
+있습니다 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+제가 OO O
+제작년부터 OOOOO O
+걷거다아니면 OOOOOO O
+어디건물에나와엘리베이터를 OOOOOOOOOOOOO O
+기다리거나 OOOOO O
+앉아잇다가 OOOOO O
+나와서 OOO O
+서잇을때 OOOO O
+땅이 OO O
+흔들거리거나 OOOOOO O
+어지러움울 XXXXO B-ST
+자주 OO O
+느낍니다 OOOO O
+. O O
+
+요근래에는 OOOOO O
+누어잇다가 OOOOO O
+일어낫는데 OOOOO O
+어지러움을 OOOOO O
+심하게 OOO O
+느끼고 OOO O
+흔들거림이 XXXXO B-ST
+심해졋는데 OOOOO O
+빈혈인건가요 XXOOOO B-DS
+병원을 OOO O
+가야하나요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+잠을 OO O
+아무리 OOO O
+많이 OO O
+자도 OO O
+졸립니다 OOOO O
+. O O
+
+하루 OO O
+12 OO O
+시간 OO O
+이상 OO O
+자도 OO O
+졸려요 OOO O
+몸에 OO O
+이상이 OOO O
+생긴건가 OOOO O
+. O O
+
+싶을 OO O
+정도로 OOO O
+심각하구요 OOOOO O
+. O O
+
+신기한 OOO O
+건 O O
+졸리지 OOO O
+않아도 OOO O
+일단 OO O
+눈을 XO B-BD
+감으면 OOO O
+기본 OO O
+5 O O
+시간 OO O
+이상 OO O
+자요 OO O
+또 O O
+일어나면 OOOO O
+귀 X B-BD
+위에 OO O
+양옆 XX B-BD
+머리가 XXO I-BD
+지끈지끈 XXXX B-ST
+아프고 OOO O
+눈을 XO B-BD
+양옆으로 OOOO O
+굴리면 OOO O
+위에 OO O
+눈동자가 OOOO O
+아픈 OO O
+건 O O
+아닌데 OOO O
+뭐랄까 OOO O
+간지럽다 XXXX B-ST
+뻐근하다 XXXX B-ST
+그래요 OOO O
+또 O O
+입술도 XXO B-BD
+건조해져서 OOOOO O
+터지구요 OOOO O
+스트레스를 XXXXO B-ST
+받으면 OOO O
+그럴 OO O
+수도 OO O
+있다는데 OOOO O
+그런 OO O
+것 O O
+치고는 OOO O
+너무 OO O
+심각해서요 OOOOO O
+기면증도 XXXO B-DS
+의심해봤는데 OOOOOO O
+가위눌림은 XXXXO B-DS
+전혀 OO O
+없고 OO O
+길에서 OOO O
+잠든 OO O
+적도 OO O
+없어요 OOO O
+. O O
+
+하지만 OOO O
+제가 OO O
+청소년이기도 OOOOOO O
+하고 OO O
+기면증 XXX B-DS
+증상도 OOO O
+많이 OO O
+해당되는 OOOO O
+것 O O
+같아요 OOO O
+. O O
+
+만약 OO O
+기면증이라면 XXXOOO B-DS
+병원에 OOO O
+가서 OO O
+치료받는 OOOO O
+거 O O
+외에 OO O
+다른 OO O
+방법은 OOO O
+없나요 OOO O
+. O O
+
+단순 OO O
+잠이 OO O
+많은 OO O
+걸까요 OOO O
+기면증인가요 XXXOOO B-DS
+제 O O
+증상에 OOO O
+대해 OO O
+알 O O
+것 O O
+같거나 OOO O
+아시는 OOO O
+분만 OO O
+답변해주세요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+며칠전부터 OOOOO O
+오른쪽 XXX B-BD
+눈꺼플이 XXXO I-BD
+파르르 XXX B-ST
+떨리는게 OOOO O
+자주 OO O
+생기는데 OOOO O
+이유가 OOO O
+뭔가요 OOO O
+주위에서 OOOO O
+신경많이써서 OOOOOO O
+그런다 OOO O
+또는 OO O
+풍기가 OOO O
+있다 OO O
+등등 OO O
+분분한데요 OOOOO O
+궁금해서요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+안녕하세요 OOOOO O
+초 O O
+6 O O
+여자입니다 OOOOO O
+. O O
+
+제가 OO O
+누워있다가 OOOOO O
+일어나기만 OOOOO O
+하면 OO O
+몸에 OO O
+힘이 OO O
+쫙 O O
+빠지면서 OOOO O
+한 O O
+5 O O
+초정도 OOO O
+어지러운데 XXXXX B-ST
+어지러울때 OOOOO O
+중심을 OOO O
+잘 O O
+못잡고 OOO O
+앞이 OO O
+하나도 OOO O
+안보여요 OOOO O
+그리고 OOO O
+특히 OO O
+잠을 OO O
+자고 OO O
+일어나거나 OOOOO O
+아니면 OOO O
+누워서 OOO O
+핸드폰하다가도 OOOOOOO O
+그렇고 OOO O
+아무이유없이 OOOOOO O
+누워있다가 OOOOO O
+일어나도 OOOO O
+그래요 OOO O
+이게 OO O
+무슨 OO O
+병인가요 OOOO O
+병이라면 OOOO O
+치료방법좀 OOOOO O
+알려주세요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+몇일전부터 OOOOO O
+생겻는데 OOOO O
+진짜 OO O
+만지면 OOO O
+아프고 OOO O
+느낌도 OOO O
+이상하그 OOOO O
+하얀거난데 OOOOO O
+반대편입술도 XXXXXO B-BD
+약간 OO O
+붓고 XX B-ST
+이거 OO O
+심각한건가요 OOOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+귀에서 XOO B-BD
+이상한 OOO O
+소리가 OOO O
+나요 OO O
+한쪽귀에서만요 XXXOOOO B-BD
+오른쪽인데 OOOOO O
+이물감은 XXXO B-ST
+없고 OO O
+소리만 OOO O
+나요 OO O
+턱 X B-BD
+움직일때마다 OOOOOO O
+뽀드득하고 OOOOO O
+소리가 OOO O
+들리네요 OOOO O
+. O O
+
+왜그런거죠 OOOOO O
+. O O
+
+혹시 OO O
+중이염인가요 XXXOOO B-DS
+아프진 OOO O
+않은데 OOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+허리통증인줄 XXXXOO B-DS
+알았는데 OOOO O
+넙적다리 XXXX B-DS
+피부가 XXX B-BD
+겉보기엔 OOOO O
+아무렇치 OOOO O
+않은데 OOO O
+스치면 OOO O
+아프네요 OOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+평소랑 OOO O
+다름 OO O
+없이 OO O
+지냈는데 OOOO O
+오늘따라 OOOO O
+미간이 XXO B-BD
+너무 OO O
+아프고 OOO O
+약간의 OOO O
+두통이 XXO B-ST
+따라와요 OOOO O
+. O O
+
+왜 O O
+그런걸까요 OOOOO O
+. O O
+
+-DOCSTART- -X- -X- O
+
+연관이 OOO O
+있나요 OOO O
+. O O
+
+꼭 O O
+두통에 XXO B-ST
+시달릴때는 OOOOO O
+미세먼지 OOOO O
+농도가 OOO O
+높더라구요 OOOOO O
+. O O
+
+분명 OO O
+아침에 OOO O
+맑은 OO O
+날을 OO O
+확인하고 OOOO O
+나왔음에도 OOOOO O
+시간이 OOO O
+지나서 OOO O
+두통이 XXO B-ST
+생겨서 OOO O
+확인하면 OOOO O
+나쁨으로 OOOO O
+바껴있고 OOOO O
+그저 OO O
+매번 OO O
+우연인건지 OOOOO O
+이번 OO O
+봄 O O
+장마전 OOO O
+여름까지 OOOO O
+두통이 XXO B-ST
+굉장히 OOO O
+심했어요 OOOO O
+. O O
+
+근데 OO O
+장마오면서 OOOOO O
+미세먼지가 OOOOO O
+사라지고는 OOOOO O
+두통이 XXO B-ST
+뚝 O O
+끊겼는데 OOOO O
+어제부터 OOOO O
+또 O O
+조금씩 OOO O
+지끈거리네요 XXXXXX B-ST
+. O O
+
+제가 OO O
+예민한걸까요 OOOOOO O
+. O O
+
