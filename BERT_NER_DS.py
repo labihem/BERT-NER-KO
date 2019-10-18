@@ -73,6 +73,10 @@ flags.DEFINE_bool("do_predict", False, "Whether to run the model in inference mo
 
 flags.DEFINE_bool("do_demo", False, "Whether to run the model in demo.")  # revised by th
 
+flags.DEFINE_string("input_file_train", None, "file which will be trained")  # revised by th
+
+flags.DEFINE_string("input_file_eval", None, "file which will be evaluated")  # revised by th
+
 flags.DEFINE_integer("train_batch_size", 32, "Total batch size for training.")
 
 flags.DEFINE_integer("eval_batch_size", 8, "Total batch size for eval.")
@@ -209,17 +213,17 @@ class NerProcessor(DataProcessor):
     def get_train_examples(self, data_dir):
         return self._create_example(
             # self._read_data(os.path.join(data_dir, "train.txt")), "train"
-            self._read_data(os.path.join(data_dir, "train_diagnosis_shuffle1.txt")), "train"
+            self._read_data(os.path.join(data_dir, FLAGS.input_file_train)), "train"
         )
 
     def get_dev_examples(self, data_dir):
         return self._create_example(
-            self._read_data(os.path.join(data_dir, "eval_diagnosis_shuffle1.txt")), "dev"
+            self._read_data(os.path.join(data_dir, FLAGS.input_file_eval)), "dev"
         )
 
     def get_test_examples(self, data_dir):
         return self._create_example(
-            self._read_data(os.path.join(data_dir, "eval_diagnosis_shuffle1.txt")), "test")
+            self._read_data(os.path.join(data_dir, FLAGS.input_file_eval)), "test")
 
     def get_labels(self):
         # Modified by ymkim
