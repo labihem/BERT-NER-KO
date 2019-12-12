@@ -21,6 +21,7 @@ import tensorflow as tf
 from tensorflow.python.ops import math_ops
 import tf_metrics
 import pickle
+import time
 
 flags = tf.flags
 
@@ -617,6 +618,37 @@ def get_BD_entity(tokens, labels):
     return BD
 
 
+def create_serving_input_receiver_fn(max_seq_length):
+    """ Builds a serving_inputer_receiver_fn
+    Arguments
+    ---------
+    max_seq_length: int
+        Specifies the sequence length
+    Returns
+    -------
+    serving_input_receiver_fn()
+    """
+
+    def serving_input_receiver_fn():
+        """ Creates an serving_input_receiver_fn for BERT"""
+        unique_ids = tf.placeholder(tf.int32, [None], name="unique_ids")
+        input_ids = tf.placeholder(tf.int32, [None, max_seq_length], name="input_ids")
+        input_mask = tf.placeholder(tf.int32, [None, max_seq_length], name="input_mask")
+        segment_ids = tf.placeholder(tf.int32, [None, max_seq_length], name="segment_ids")
+        label_ids = tf.placeholder(tf.int32, [None], name="label_ids")
+        return tf.estimator.export.build_raw_serving_input_receiver_fn(
+            {
+                "unique_ids": unique_ids,
+                "input_ids": input_ids,
+                "input_mask": input_mask,
+                "segment_ids": segment_ids,
+                "label_ids": label_ids,
+            }
+        )()
+
+    return serving_input_receiver_fn
+
+
 # It provides predictions of input data which users randomly enter by keyboard.
 def demo(bert_config, label_list, tokenizer, run_config):
     init_checkpoint = "./output/model.ckpt-3518"  # model.ckpt-3518 was trained using diagnosis data
@@ -648,6 +680,8 @@ def demo(bert_config, label_list, tokenizer, run_config):
     while True:
         print('Please input your sentences:')
         demo_text = input()
+
+        start = time.time()  # 시작 시간 저장
 
         if os.path.exists(token_path):
             os.remove(token_path)
@@ -716,6 +750,8 @@ def demo(bert_config, label_list, tokenizer, run_config):
         DS, ST, BD = get_entity(tokens, labels)
         print('\n\nYour sentences : ' + demo_text + '\n')
         print('DS: {}\nST: {}\nBD: {}'.format(DS, ST, BD))
+
+        print("time :", time.time() - start)  # current time - start time = running time
 
 
 def main(_):
@@ -806,6 +842,11 @@ def main(_):
             is_training=True,
             drop_remainder=True)
         estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
+
+        export_dir = os.path.join(FLAGS.output_dir, "export")
+        tf.logging.info("  Export model")
+        estimator.export_saved_model(export_dir, create_serving_input_receiver_fn(FLAGS.max_seq_length))  # export model
+
     if FLAGS.do_eval:
         eval_examples = processor.get_dev_examples(FLAGS.data_dir)
         eval_file = os.path.join(FLAGS.output_dir, "eval.tf_record")
@@ -877,5 +918,3 @@ if __name__ == "__main__":
     flags.mark_flag_as_required("bert_config_file")
     flags.mark_flag_as_required("output_dir")
     tf.app.run()
-
-
