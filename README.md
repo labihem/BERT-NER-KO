@@ -55,6 +55,6 @@ python3 BERT_NER_DS.py  \
   --num_train_epochs=16.0   \
   --output_dir=./output   \
   --do_demo=False   \  
-  --input_file_train="train_diagnosis_q_shuffle1.txt"   \
-  --input_file_eval="eval_diagnosis_q_shuffle1.txt"
+  --input_file_train=train_diagnosis_q_shuffle1.txt   \
+  --input_file_eval=eval_diagnosis_q_shuffle1.txt
 ```
