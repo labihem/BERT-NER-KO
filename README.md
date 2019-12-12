@@ -42,10 +42,14 @@ BERT
 ```
 python3 BERT_NER_DS.py  \
   --task_name="NER"  \
-  --do_lower_case=False  --do_train=True   \
+  --do_lower_case=False  \
+  --do_train=True   \
   --do_eval=True   \
   --do_predict=True  \
+  --do_demo=False  \
   --data_dir=./data/diagnosis   \
+  --input_file_train=train_diagnosis_shuffle1.txt   \
+  --input_file_eval=eval_diagnosis_shuffle1.txt  \
   --vocab_file=./bert/pretrained/multi_cased_L-12_H-768_A-12/vocab.txt  \
   --bert_config_file=./bert/pretrained/multi_cased_L-12_H-768_A-12/bert_config.json  \
   --init_checkpoint=./bert/pretrained/multi_cased_L-12_H-768_A-12/bert_model.ckpt   \
@@ -53,8 +57,5 @@ python3 BERT_NER_DS.py  \
   --train_batch_size=32   \
   --learning_rate=2e-5   \
   --num_train_epochs=16.0   \
-  --output_dir=./output   \
-  --do_demo=False   \  
-  --input_file_train=train_diagnosis_q_shuffle1.txt   \
-  --input_file_eval=eval_diagnosis_q_shuffle1.txt
+  --output_dir=./output
 ```
