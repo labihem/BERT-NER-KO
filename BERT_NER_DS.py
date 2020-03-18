@@ -99,6 +99,8 @@ flags.DEFINE_integer("save_checkpoints_steps", 1000,
 flags.DEFINE_integer("iterations_per_loop", 1000,
                      "How many steps to make in each estimator call.")
 
+flags.DEFINE_integer("eval_interval", 100, "evaluation interval during training.")
+
 flags.DEFINE_string("vocab_file", None,
                     "The vocabulary file that the BERT model was trained on.")
 tf.flags.DEFINE_string("master", None, "[Optional] TensorFlow master URL.")
@@ -799,6 +801,7 @@ def main(_):
     train_examples = None
     num_train_steps = None
     num_warmup_steps = None
+    eval_steps = None
 
     if FLAGS.do_demo:
         demo(bert_config, label_list, tokenizer, run_config)
@@ -808,6 +811,19 @@ def main(_):
         num_train_steps = int(
             len(train_examples) / FLAGS.train_batch_size * FLAGS.num_train_epochs)
         num_warmup_steps = int(num_train_steps * FLAGS.warmup_proportion)
+
+    eval_examples = processor.get_dev_examples(FLAGS.data_dir)
+    eval_file = os.path.join(FLAGS.output_dir, "eval.tf_record")
+    filed_based_convert_examples_to_features(
+        eval_examples, label_list, FLAGS.max_seq_length, tokenizer, eval_file)
+    if FLAGS.use_tpu:
+        eval_steps = int(len(eval_examples) / FLAGS.eval_batch_size)
+    eval_drop_remainder = True if FLAGS.use_tpu else False
+    eval_input_fn = file_based_input_fn_builder(
+        input_file=eval_file,
+        seq_length=FLAGS.max_seq_length,
+        is_training=False,
+        drop_remainder=eval_drop_remainder)
 
     model_fn = model_fn_builder(
         bert_config=bert_config,
@@ -841,30 +857,26 @@ def main(_):
             seq_length=FLAGS.max_seq_length,
             is_training=True,
             drop_remainder=True)
-        estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
+
+        train_spec = tf.estimator.TrainSpec(input_fn=train_input_fn, max_steps=num_train_steps)
+
+        eval_spec = tf.estimator.EvalSpec(
+            eval_input_fn,
+            steps=None,
+            start_delay_secs=0,  # start evaluating 0 seconds after beginning of training
+            throttle_secs=60  # evaluate every 60 seconds
+        )
+        tf.estimator.train_and_evaluate(estimator, train_spec, eval_spec)  # excute evaluation when saved checkpoint for using tensorboard
 
         export_dir = os.path.join(FLAGS.output_dir, "export")
         tf.logging.info("  Export model")
         estimator.export_saved_model(export_dir, create_serving_input_receiver_fn(FLAGS.max_seq_length))  # export model
 
     if FLAGS.do_eval:
-        eval_examples = processor.get_dev_examples(FLAGS.data_dir)
-        eval_file = os.path.join(FLAGS.output_dir, "eval.tf_record")
-        filed_based_convert_examples_to_features(
-            eval_examples, label_list, FLAGS.max_seq_length, tokenizer, eval_file)
-
         tf.logging.info("***** Running evaluation *****")
         tf.logging.info("  Num examples = %d", len(eval_examples))
         tf.logging.info("  Batch size = %d", FLAGS.eval_batch_size)
-        eval_steps = None
-        if FLAGS.use_tpu:
-            eval_steps = int(len(eval_examples) / FLAGS.eval_batch_size)
-        eval_drop_remainder = True if FLAGS.use_tpu else False
-        eval_input_fn = file_based_input_fn_builder(
-            input_file=eval_file,
-            seq_length=FLAGS.max_seq_length,
-            is_training=False,
-            drop_remainder=eval_drop_remainder)
+
         result = estimator.evaluate(input_fn=eval_input_fn, steps=eval_steps)
         output_eval_file = os.path.join(FLAGS.output_dir, "eval_results.txt")
         with open(output_eval_file, "w") as writer:
@@ -872,6 +884,7 @@ def main(_):
             for key in sorted(result.keys()):
                 tf.logging.info("  %s = %s", key, str(result[key]))
                 writer.write("%s = %s\n" % (key, str(result[key])))
+
     if FLAGS.do_predict:
         token_path = os.path.join(FLAGS.output_dir, "token_test.txt")
         truelabel_path = os.path.join(FLAGS.output_dir, "truelabel_test.txt")  # added by ymkim
