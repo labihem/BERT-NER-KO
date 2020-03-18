@@ -57,5 +57,6 @@ python3 BERT_NER_DS.py  \
   --train_batch_size=32   \
   --learning_rate=2e-5   \
   --num_train_epochs=16.0   \
+  --save_checkpoints_steps=1000   \
   --output_dir=./output
 ```
