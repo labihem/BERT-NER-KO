@@ -60,3 +60,11 @@ python3 BERT_NER_DS.py  \
   --save_checkpoints_steps=1000   \
   --output_dir=./output
 ```
+
+# Citation
+
+
+Kim, YM., Lee, TH. Korean clinical entity recognition from diagnosis text using BERT. BMC Med Inform Decis Mak 20, 242 (2020). 
+https://doi.org/10.1186/s12911-020-01241-8
+
+
