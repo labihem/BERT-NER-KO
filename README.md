@@ -1,5 +1,5 @@
 # BERT-NER-KO
-BERT for Korean NER
+BERT for Korean NER (TensorFlow version 1.x)
 
 This is an implementation of Korean NER using BERT.
 The code is a modified version of BERT-NER (https://github.com/kyzhouhzau/BERT-NER).
