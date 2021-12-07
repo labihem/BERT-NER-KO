@@ -3,7 +3,7 @@ BERT for Korean NER
 
 This is an implementation of Korean NER using BERT.
 The code is a modified version of BERT-NER (https://github.com/kyzhouhzau/BERT-NER).
-A new corpus for medical diagnosis information extraction has been used as the default data.
+A new corpus (raw data collected from Naver Knowledge iN) for medical diagnosis information extraction has been used as the default data.
 
 Usage:
 
